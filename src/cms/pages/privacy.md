@@ -1,5 +1,5 @@
 ---
-layout: layouts/base-md.html
+layout: layouts/cms/page.html
 type: page
 title: Privacy
 subtitle: Privacy Policy

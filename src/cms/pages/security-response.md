@@ -1,5 +1,5 @@
 ---
-layout: layouts/base-md.html
+layout: layouts/cms/page.html
 type: page
 title: Security Response
 date: 2021-11-24T01:17:01.482Z
