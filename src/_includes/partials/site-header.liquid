@@ -1,15 +1,43 @@
-<header class="flex justify-center px-1 sm:px-6 lg:px-8 bg-gray-600">
-  <nav id="large-nav" class="relative flex flex-col sm:flex-row items-center justify-between text-white max-w-screen-2xl w-full m-4">
-    <div id="nav-logo" class="flex items-center">
-      {% if site.general.logo %}
-        <a href="/" class="hidden mob:block"><img width=64 height=64 src="{{site.general.logo}}" alt="{{site.general.name}} Logo"></a>
-      {% endif %}
-      <a class="hover:text-gray-200 text-2xl text-center flex-shrink" href="/">{{site.general.title}}</a>
+<header class="sticky top-0">
+  <div class="flex justify-center px-1 sm:px-6 lg:px-8 bg-gray-600">
+    <nav id="desktop-nav" class="relative hidden mob:flex flex-col sm:flex-row items-center justify-between text-white max-w-screen-2xl w-full m-4">
+      <div id="nav-logo" class="flex items-center">
+        {% if site.general.logo %}
+          <a href="/"><img width=64 height=64 src="{{site.general.logo}}" alt="{{site.general.name}} Logo"></a>
+        {% endif %}
+        <a class="hover:text-gray-200 text-2xl text-center flex-shrink" href="/">{{site.general.title}}</a>
+      </div>
+      <div id="nav-links" class="flex flex-wrap items-center gap-2 sm:gap-4 font-bold">
+        {% for link in navigation.header %}
+          <a href="{{link.url}}">{{link.text}}</a>
+        {% endfor %}
+      </div>
+    </nav>
+    <nav id="mobile-nav" class="relative flex mob:hidden flex-row items-center justify-between text-white w-full p-4">
+      <div id="nav-logo" class="flex items-center">
+        <a class="hover:text-gray-200 text-2xl text-center flex-shrink" href="/">{{site.general.title}}</a>
+      </div>
+      <div id="nav-btn">
+        <button type="button" id="openMobileMenu" @click="open = !open" aria-expanded="false" aria-haspopup="true" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-700 hover:text-gray-600 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-gray-300">
+          <span class="sr-only">Open menu</span>
+          <!-- Heroicon name: menu -->
+          <svg x-show="!open" class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+          <svg x-show="open" class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+          </svg>
+        </button>
+      </div>
+    </nav>
+  </div>
+  <div id="mobile-menu-overlay" class="mob:hidden relative flex w-full" x-show="open">
+    <div id="nav-links" class="absolute top-0 left-0 z-20 h-screen min-w-full bg-gray-700">
+      <div class="text-white flex flex-col gap-2 items-center text-3xl m-4">
+        {% for link in navigation.header %}
+          <a class="underline" href="{{link.url}}">{{link.text}}</a>
+        {% endfor %}
+      </div>
     </div>
-    <div id="nav-links" class="flex flex-wrap items-center gap-2 sm:gap-4 font-bold">
-      {% for link in navigation.header %}
-        <a href="{{link.url}}">{{link.text}}</a>
-      {% endfor %}
-    </div>
-  </nav>
+  </div>
 </header>
