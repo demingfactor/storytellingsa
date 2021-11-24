@@ -2,32 +2,46 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 
-local_backend: false
+local_backend: true
 
 publish_mode: editorial_workflow
 media_library:
   name: cloudinary
   config:
-    cloud_name: steamdeck-linux
-    api_key: 745453212628911
+    cloud_name: <cloudinary>
+    api_key: <cloudinary>
 
 collections:
   - name: "articles" # Used in routes, e.g., /admin/collections/blog
     label: "Articles" # Used in the UI
-    folder: "/src/articles" # The path to the folder where the documents are stored
+    folder: "/src/cms/articles" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/base-md.html"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/cms/article.html"}
       - {label: "Type", name: "type", widget: "hidden", default: "article"}
       - {label: "Title", name: "title", widget: "string", pattern: ['^[\s\S]{1,110}$', 'Please keep your title to under 110 characters!']}
+      - {label: "Article Slug", name: "slug", widget: "string", pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', 'A slug can have no spaces or special characters']}
       - {label: "Subtitle", name: "subtitle", widget: "string", required: false, pattern: ['^[\s\S]{1,140}$', 'Please keep your title to under 140 characters!']}
       - {label: "Author", name: "author", widget: "string"}
+      - {label: "Topics", name: "topics", widget: "relation", collection: "topics", value_field: "topic", search_fields: ["title"], display_fields: ["title"], multiple: true}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/articles/{{ slug }}/index.html"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "topics"
+    label: "Topics"
+    folder: "/src/cms/topics"
+    create: true
+    slug: "{{topic}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/cms/topics.html"}
+      - {label: "Type", name: "type", widget: "hidden", default: "topic"}
+      - {label: "Topic Name", name: "title", widget: "string"}
+      - {label: "Topic Slug", name: "topic", widget: "string", pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', 'A slug can have no spaces or special characters']}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/topics/{{ topic }}/index.html"}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Pages" # Used in the UI
-    folder: "/src/pages" # The path to the folder where the documents are stored
+    folder: "/src/cms/pages" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter

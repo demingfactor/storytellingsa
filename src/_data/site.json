@@ -1,4 +1,19 @@
 {
-  "name": "SteamDeck Linux",
-  "url": "https://steamdecklinux.com"
+  "general":
+    {
+      "name": "DemingFactor Starter",
+      "org": "DemingFactor",
+      "title": "<strong>DemingFactor</strong> Starter",
+      "url": "https://demingfactor.com/starter",
+      "logo": "https://res.cloudinary.com/moxvallix/image/upload/v1626781948/SteamDeck/steamdeck-logo_rpbpyz.svg",
+      "copyright": "<strong>CC BY-SA 4.0</strong> DemingFactor Studio",
+      "legal-info": "/legal/"
+    },
+  "contact":
+    {
+      "general": "hello@example.com",
+      "webmaster": "online@example.com",
+      "security": "security@example.com",
+      "privacy": "privacy@example.com"
+    }
 }

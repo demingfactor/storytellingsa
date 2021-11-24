@@ -1,14 +1,14 @@
-{% assign page_title = title | append: ': ' | append: site.name %}
+{% assign page_title = title | append: ': ' | append: site.general.name %}
 
-{% if site.name == title %} 
+{% if site.general.name == title %} 
   {% assign page_title = title %}
 {% endif %}
 
-{% assign site_title = site.name %}
-{% assign current_url = site.url | append: page.url %}
+{% assign site_title = site.general.name %}
+{% assign current_url = site.general.url | append: page.url %}
 
 {% unless social_image %}
-  {% assign social_image = site.url | append: '/images/social-share.png' %}
+  {% assign social_image = site.general.url | append: '/images/social-share.png' %}
 {% endunless %}
 
 {% if meta.title %}
@@ -34,8 +34,8 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta property="og:image" content="{{ social_image }}" />
   <meta name="twitter:image" content="{{ social_image }}" />
-  <meta property="og:image:alt" content="Page image for {{ site.name }}" />
-  <meta name="twitter:image:alt" content="Page image for {{ site.name }}" />
+  <meta property="og:image:alt" content="Page image for {{ site.general.name }}" />
+  <meta name="twitter:image:alt" content="Page image for {{ site.general.name }}" />
 {% endif %}
 
 {% if meta.desc %}

@@ -1,0 +1,15 @@
+<header class="flex justify-center px-1 sm:px-6 lg:px-8 bg-gray-600">
+  <nav id="large-nav" class="relative flex flex-col sm:flex-row items-center justify-between text-white max-w-screen-2xl w-full m-4">
+    <div id="nav-logo" class="flex items-center">
+      {% if site.general.logo %}
+        <a href="/" class="hidden mob:block"><img width=64 height=64 src="{{site.general.logo}}" alt="{{site.general.name}} Logo"></a>
+      {% endif %}
+      <a class="hover:text-gray-200 text-2xl text-center flex-shrink" href="/">{{site.general.title}}</a>
+    </div>
+    <div id="nav-links" class="flex flex-wrap items-center gap-2 sm:gap-4 font-bold">
+      {% for link in navigation.header %}
+        <a href="{{link.url}}">{{link.text}}</a>
+      {% endfor %}
+    </div>
+  </nav>
+</header>
