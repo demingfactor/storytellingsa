@@ -1,19 +1,19 @@
 {
   "general":
     {
-      "name": "DemingFactor Starter",
-      "org": "DemingFactor",
-      "title": "<strong>DemingFactor</strong> Starter",
-      "url": "https://demingfactor.com/starter",
+      "name": "Storytelling Australia - South Australia",
+      "org": "Storytelling Australia",
+      "title": "<strong>Storytelling</strong> South Australia",
+      "url": "https://storytellingsa.org.au",
       "logo": "https://res.cloudinary.com/moxvallix/image/upload/v1626781948/SteamDeck/steamdeck-logo_rpbpyz.svg",
-      "copyright": "<strong>CC BY-SA 4.0</strong> DemingFactor Studio",
+      "copyright": "<strong>Copyright</strong> Storytelling South Australia",
       "legal-info": "/legal/"
     },
   "contact":
     {
-      "general": "hello@example.com",
-      "webmaster": "online@example.com",
-      "security": "security@example.com",
-      "privacy": "privacy@example.com"
+      "general": "hello@storytellingsa.org.au",
+      "webmaster": "online@storytellingsa.org.au",
+      "security": "security@storytellingsa.org.au",
+      "privacy": "privacy@storytellingsa.org.au"
     }
 }
