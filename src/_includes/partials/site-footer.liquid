@@ -1,14 +1,27 @@
-<footer class="flex justify-center">
-    <div class="flex flex-col sm:flex-row justify-between items-center w-full h-24 p-4 max-w-screen-2xl">
-        <a class="italic flex gap-1" href="{{site.general.legal-info}}">{{site.general.copyright}}</a>
-        <div>
-            {% for link in navigation.footer %}
-                <a href="{{link.url}}">{{link.text}}</a>
-                {% assign lastlink = navigation.footer | last%}
-                {% unless link == lastlink %}
-                    <span>|</span>
-                {% endunless %}
+<footer class="flex justify-center bg-gray-600 text-white">
+    <div class="max-w-screen-2xl w-full">
+        <div class="flex flex-wrap gap-8 p-4">
+            {% assign nav = navigation.navtable %}
+            {% for section in nav %}
+                <div class="flex flex-col">
+                    <h3 class="font-bold">{{ section.title }}</h3>
+                    {% for links in section.links %}
+                        <a href="{{ links.url }}">{{ links.text }}</a>
+                    {% endfor %}
+                </div>
             {% endfor %}
+        </div>
+        <div class="flex flex-col sm:flex-row justify-between items-center w-full p-4">
+            <a class="italic flex gap-1" href="{{site.general.legal-info}}">{{site.general.copyright}}</a>
+            <div>
+                {% for link in navigation.footer %}
+                    <a href="{{link.url}}">{{link.text}}</a>
+                    {% assign lastlink = navigation.footer | last%}
+                    {% unless link == lastlink %}
+                        <span>|</span>
+                    {% endunless %}
+                {% endfor %}
+            </div>
         </div>
     </div>
 </footer>
