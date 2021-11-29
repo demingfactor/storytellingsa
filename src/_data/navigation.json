@@ -13,6 +13,50 @@
       "url": "/articles/"
     }
   ],
+  "navtable": [
+    {
+      "title": "DemingFactor Starter",
+      "links": [
+        {
+          "text": "Website",
+          "url": "https://demingfactor.com"
+        },
+        {
+          "text": "Github",
+          "url": "https://github.com/demingfactor"
+        },
+        {
+          "text": "Case Studies",
+          "url": "https://demingfactor.com/case-study-cantina-rotino/"
+        },
+        {
+          "text": "Other",
+          "url": "https://demingfactor.com/"
+        }
+      ]
+    },
+    {
+      "title": "Extra",
+      "links": [
+        {
+          "text": "Extra One",
+          "url": "/"
+        },
+        {
+          "text": "Extra Two",
+          "url": "/"
+        },
+        {
+          "text": "Extra Three",
+          "url": "/"
+        },
+        {
+          "text": "Extra Four",
+          "url": "/"
+        }
+      ]
+    }
+  ],
   "footer": [
     {
       "text": "Twitter",
