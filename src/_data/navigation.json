@@ -15,44 +15,73 @@
   ],
   "navtable": [
     {
-      "title": "DemingFactor Starter",
+      "title": "Storytelling SA",
       "links": [
         {
-          "text": "Website",
-          "url": "https://demingfactor.com"
+          "text": "About",
+          "url": "/about/"
         },
         {
-          "text": "Github",
-          "url": "https://github.com/demingfactor"
+          "text": "Articles",
+          "url": "/articles/"
         },
         {
-          "text": "Case Studies",
-          "url": "https://demingfactor.com/case-study-cantina-rotino/"
+          "text": "Membership",
+          "url": "/membership/"
         },
         {
-          "text": "Other",
-          "url": "https://demingfactor.com/"
+          "text": "Code of Conduct",
+          "url": "/code-of-conduct/"
+        },
+        {
+          "text": "Contact",
+          "url": "/contact/"
         }
       ]
     },
     {
-      "title": "Extra",
+      "title": "The Craft",
       "links": [
         {
-          "text": "Extra One",
-          "url": "/"
+          "text": "Getting Started",
+          "url": "/getting-started/"
         },
         {
-          "text": "Extra Two",
-          "url": "/"
+          "text": "Watch and Listen",
+          "url": "/watch-and-listen/"
         },
         {
-          "text": "Extra Three",
-          "url": "/"
+          "text": "Where to Find Stories",
+          "url": "/where-to-find-stories/"
         },
         {
-          "text": "Extra Four",
-          "url": "/"
+          "text": "Improving your Craft",
+          "url": "/bookshelf/#improving-your-craft"
+        },
+        {
+          "text": "Story Collections",
+          "url": "/bookshelf/#story-collections"
+        }
+      ]
+    },
+    {
+      "title": "Site",
+      "links": [
+        {
+          "text": "Privacy",
+          "url": "/privacy/"
+        },
+        {
+          "text": "Security",
+          "url": "/security/"
+        },
+        {
+          "text": "Legal",
+          "url": "/legal/"
+        },
+        {
+          "text": "Archived Sites",
+          "url": "/internet-archive/"
         }
       ]
     }
