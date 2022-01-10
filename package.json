@@ -59,7 +59,7 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "@commitlint/cli": "^13.1.0",
+    "@commitlint/cli": "^16.0.2",
     "@commitlint/config-conventional": "^13.1.0",
     "@jadex/snowpack-plugin-tailwindcss-jit": "^0.3.0",
     "@snowpack/plugin-postcss": "^1.3.0",
