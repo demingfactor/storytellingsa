@@ -1,6 +1,20 @@
 {% layout 'layouts/base.html' %}
 
 {% block content %}
+<div id="background" class="flex justify-center items-center h-96 w-full">
+  <style>
+    #background {
+      background-image: url("{{ background }}");
+    }
+  </style>
+  <div id="foreground" class="w-full max-w-prose text-base md:text-lg h-80 bg-no-repeat bg-cover m-8">
+    <style>
+      #foreground {
+        background-image: url("{{ foreground }}");
+      }
+    </style>
+  </div>
+</div>
 <div class="flex justify-center overflow-auto">
   <div class="w-full max-w-prose text-base md:text-lg m-4 mob:m-8 sm:m-12 text-gray-700">
     <div class="flex flex-col gap-4 mb-4">

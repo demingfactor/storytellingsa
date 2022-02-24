@@ -20,6 +20,8 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/cms/article.html"}
       - {label: "Type", name: "type", widget: "hidden", default: "article"}
+      - {label: "Image", name: "foreground", widget: "image"}
+      - {label: "Background", name: "background", widget: "relation", collection: "backgrounds", value_field: "image", search_fields: ["title"], display_fields: ["title"], multiple: false}
       - {label: "Title", name: "title", widget: "string", pattern: ['^[\s\S]{1,110}$', 'Please keep your title to under 110 characters!']}
       - {label: "Article Slug", name: "slug", widget: "string", pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', 'A slug can have no spaces or special characters']}
       - {label: "Subtitle", name: "subtitle", widget: "string", required: false, pattern: ['^[\s\S]{1,140}$', 'Please keep your title to under 140 characters!']}
@@ -53,4 +55,14 @@ collections:
       - {label: "Page Slug", name: "url", widget: "string", pattern: ['^[a-z0-9/]+(?:-[a-z0-9]+)*$', 'A slug can have no spaces or special characters']}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/{{url}}/index.html"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "backgrounds"
+    label: "Backgrounds"
+    folder: "/src/cms/backgrounds"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/cms/topics.html"}
+      - {label: "Type", name: "type", widget: "hidden", default: "background"}
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
 

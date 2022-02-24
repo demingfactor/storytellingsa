@@ -30,6 +30,10 @@ body {
     font-family: 'Noto Sans', sans-serif;
 }
 
+.text-transparent {
+    color: transparent;
+}
+
 .no-underline {
     text-decoration: none !important;
 }
@@ -44,4 +48,12 @@ body {
 
 .bg-tile-2 {
     background-image: url("https://res.cloudinary.com/demingfactor/image/upload/v1645595654/storytelling/greyzz.png");
+}
+
+.bg-tile-3 {
+    background-image: url("https://res.cloudinary.com/demingfactor/image/upload/v1645678545/storytelling/45-degree-fabric-light.png");
+}
+
+.bg-pattern-green {
+    background-image: url("https://res.cloudinary.com/demingfactor/image/upload/v1645677980/storytelling/green-pattern.jpg");
 }

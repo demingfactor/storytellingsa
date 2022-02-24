@@ -1,24 +1,27 @@
 <header>
   <div class="flex justify-center px-1 sm:px-6 lg:px-8 bg-pink-200">
-    <nav id="desktop-nav" class="relative hidden mob:flex flex-col sm:flex-row items-center justify-between text-dark-green-500 max-w-screen-xl w-full m-2 font-title">
+    <nav id="desktop-nav" class="relative hidden mob:flex flex-col lg:flex-row items-center justify-between gap-2 text-dark-green-500 max-w-screen-xl w-full m-2 font-title">
       <div id="nav-logo" class="flex items-center gap-2">
         {% if site.general.logo %}
           <a href="/"><img width=32 height=32 src="{{site.general.logo}}" alt="{{site.general.name}} Logo"></a>
         {% endif %}
-        <a class="hover:text-gray-200 text-2xl text-center flex-shrink" href="/">{{site.general.title}}</a>
+        <a class="text-2xl text-center flex-shrink hover:text-dark-green-400" href="/">{{site.general.title}}</a>
       </div>
       <div id="nav-links" class="flex flex-wrap items-center gap-2 sm:gap-4 font-bold">
         {% for link in navigation.header %}
-          <a href="{{link.url}}">{{link.text}}</a>
+          <a class="hover:text-dark-green-400" href="{{link.url}}">{{link.text}}</a>
         {% endfor %}
       </div>
     </nav>
-    <nav id="mobile-nav" class="relative flex mob:hidden flex-row items-center justify-between text-white w-full p-4">
-      <div id="nav-logo" class="flex items-center">
-        <a class="hover:text-gray-200 text-2xl text-center flex-shrink" href="/">{{site.general.title}}</a>
+    <nav id="mobile-nav" class="relative flex mob:hidden flex-row items-center justify-between text-dark-green-500 w-full p-4 font-title">
+      <div id="nav-logo" class="flex gap-2 items-center">
+        {% if site.general.logo %}
+          <a href="/"><img width=32 height=32 src="{{site.general.logo}}" alt="{{site.general.name}} Logo"></a>
+        {% endif %}
+        <a class="hover:text-dark-green-400 text-2xl text-center flex-shrink" href="/">{{site.general.title}}</a>
       </div>
       <div id="nav-btn">
-        <button type="button" id="openMobileMenu" @click="open = !open" aria-expanded="false" aria-haspopup="true" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-700 hover:text-gray-600 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-gray-300">
+        <button type="button" id="openMobileMenu" @click="open = !open" aria-expanded="false" aria-haspopup="true">
           <span class="sr-only">Open menu</span>
           <!-- Heroicon name: menu -->
           <svg x-show="!open" class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -32,10 +35,10 @@
     </nav>
   </div>
   <div id="mobile-menu-overlay" class="mob:hidden relative flex w-full" x-show="open">
-    <div id="nav-links" class="absolute top-0 left-0 z-20 h-screen min-w-full bg-gray-700">
-      <div class="text-white flex flex-col gap-2 items-center text-3xl m-4">
+    <div id="nav-links" class="absolute top-0 left-0 z-20 flex-grow min-w-full bg-pink-200">
+      <div class="text-dark-green-500 flex flex-col gap-2 items-center text-3xl m-4">
         {% for link in navigation.header %}
-          <a class="underline" href="{{link.url}}">{{link.text}}</a>
+          <a class="underline hover:text-dark-green-400" href="{{link.url}}">{{link.text}}</a>
         {% endfor %}
       </div>
     </div>
