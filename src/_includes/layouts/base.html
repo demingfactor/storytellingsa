@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html class="flex flex-col items-center antialiased leading-tight bg-gray-800" lang="en">
+<html class="flex flex-col items-center antialiased leading-tight bg-gray-500 bg-tile-2" lang="en">
   <head>
     {% include "partials/site-head.html" %}
   </head>
   <body
-    class="flex flex-col min-h-screen bg-white max-w-screen-hd w-full"
+    class="flex flex-col min-h-screen bg-white max-w-screen-hd w-full font-body"
     data-env="{{ node.env }}"
     x-data="{ open: false }"
   >
     {% include "partials/site-header.liquid" %}
 
-    <main class="flex-grow">
+    <main class="flex flex-col flex-grow items-center bg-pink-200">
       {% block content %}{% endblock %}
     </main>
 

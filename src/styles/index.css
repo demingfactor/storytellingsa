@@ -2,7 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@font-face {
+    font-display: swap;
+    font-family: "Libre Baskerville";
+    font-style: normal;
+    font-weight: normal;
+    src: url("https://res.cloudinary.com/demingfactor/raw/upload/v1645588269/storytelling/fonts/LibreBaskerville-Regular-stripped.woff2") format("woff2"),
+        url("https://res.cloudinary.com/demingfactor/raw/upload/v1645588253/storytelling/fonts/LibreBaskerville-Regular-stripped.ttf") format("truetype");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Frank Ruhl Libre";
+    font-style: black;
+    font-weight: normal;
+    src: url("https://res.cloudinary.com/demingfactor/raw/upload/v1645588264/storytelling/fonts/FrankRuhlLibre-Black-stripped.woff2") format("woff2"),
+        url("https://res.cloudinary.com/demingfactor/raw/upload/v1645588251/storytelling/fonts/FrankRuhlLibre-Black-stripped.ttf") format("truetype");
+}
 
 @media screen and (min-width: 1024px) {
     .sd-hidden-lg {
@@ -14,14 +30,18 @@ body {
     font-family: 'Noto Sans', sans-serif;
 }
 
-.sd-bg-linux {
-    background-image: url(https://cdn.cloudflare.steamstatic.com/steamdeck/images/fauxrassic-park.jpg);
-}
-
 .no-underline {
     text-decoration: none !important;
 }
 
 .article-card {
     mask-image: linear-gradient(to bottom, black 50%, transparent 100%);
+}
+
+.bg-tile-1 {
+    background-image: url("https://res.cloudinary.com/demingfactor/image/upload/v1645595842/storytelling/low-contrast-linen.png");
+}
+
+.bg-tile-2 {
+    background-image: url("https://res.cloudinary.com/demingfactor/image/upload/v1645595654/storytelling/greyzz.png");
 }
