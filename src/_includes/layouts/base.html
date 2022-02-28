@@ -4,13 +4,13 @@
     {% include "partials/site-head.html" %}
   </head>
   <body
-    class="flex flex-col min-h-screen bg-pink-200 max-w-screen-hd w-full font-body"
+    class="flex flex-col min-h-screen bg-white max-w-screen-hd w-full font-body"
     data-env="{{ node.env }}"
     x-data="{ open: false }"
   >
     {% include "partials/site-header.liquid" %}
 
-    <main class="flex flex-col flex-grow items-center bg-pink-200" x-show="!open">
+    <main class="flex flex-col flex-grow items-center" x-show="!open">
       {% block content %}{% endblock %}
     </main>
 
