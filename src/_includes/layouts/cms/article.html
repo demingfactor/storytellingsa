@@ -1,14 +1,22 @@
 {% layout 'layouts/base.html' %}
 
 {% block content %}
-<div id="background" class="flex justify-center bg-article-green w-full overflow-hidden">
+{% assign bg_image = "https://res.cloudinary.com/demingfactor/image/upload/v1645683911/storytelling/banners/sasa-green-banner.svg" %}
+{% for bg in collections.all %}
+  {% if bg.data.type == "background" and bg.data.title == background %}
+    {% assign bg_image = bg.data.image %}
+    {% assign bg_colour = bg.data.bg_colour %}
+    {% assign font_colour = bg.data.font_colour %}
+  {% endif %}
+{% endfor %}
+<div id="background" class="flex justify-center w-full overflow-hidden" style="background-image: url('{{ bg_image }}')">
   <div class="relative max-w-screen-2xl w-full -mt-16 px-4 md:px-12">
     <img width="701" height="402" src="https://res.cloudinary.com/demingfactor/image/upload/v1645682976/storytelling/once-upon.svg" alt="Once upon a time">
   </div>
 </div>
-<div class="flex flex-col justify-center max-w-4xl w-full">
-  {% if foreground %}
-    <img class="pt-12 md:p-8" src="{{ foreground }}" alt="header image">
+<div class="flex flex-col justify-center max-w-4xl w-full flex-grow">
+  {% if image %}
+    <img class="pt-12 md:p-8" src="{{ image }}" alt="header image">
   {% endif %}
   <div class="flex flex-col items-center w-full text-base md:text-lg p-4 mob:p-8 sm:p-12 text-brown-800">
     <div class="flex flex-col gap-4 mb-4 w-full">
@@ -16,9 +24,10 @@
       {% if subtitle %}
         <h2 class="text-2xl font-bold">{{ subtitle }}</h2>
       {% endif %}
-      <div class="flex gap-2">
+      <div class="flex items-center gap-2">
         {% if author %}
           <p class="text-sm">by {{ author }}</p>
+          <p>-</p>
         {% endif %}
         <p class="text-sm">{{ date | date: "%b %d, %Y" }}</p>
       </div>
@@ -39,7 +48,7 @@
       {%- endfor -%}
       </div>
     </div>
-    <div class="prose md:prose-lg max-w-2xl">
+    <div class="prose md:prose-lg flex-grow w-full">
       {{ content }} 
     </div>
   </div>

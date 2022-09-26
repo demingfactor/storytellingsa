@@ -1,27 +1,37 @@
-<footer class="flex justify-center bg-olive-500 bg-tile-3" x-show="!open">
-    <div class="max-w-screen-xl w-full">
-        <div class="flex flex-wrap gap-8 p-4">
-            {% assign nav = navigation.navtable %}
-            {% for section in nav %}
-                <div class="flex flex-col">
-                    <h3 class="font-bold">{{ section.title }}</h3>
-                    {% for links in section.links %}
-                        <a href="{{ links.url }}">{{ links.text }}</a>
-                    {% endfor %}
-                </div>
+{% unless bg_colour %}
+  {% assign bg_colour = "bg-olive-500" %}
+{% endunless %}
+{% unless font_colour %}
+  {% assign font_colour = "text-green-200" %}
+{% endunless %}
+<footer class="flex justify-center {{ bg_colour }} bg-tile-3 {{ font_colour }}" x-show="!open">
+  <div class="max-w-screen-xl w-full">
+    <div class="flex flex-wrap gap-16 p-8">
+      {% assign nav = navigation.navtable %}
+      {% for section in nav %}
+        <div class="flex flex-col gap-4">
+          <h3 class="font-bold text-sm text-dark-green-600">{{ section.title }}</h3>
+          <div class="flex flex-col {{ font_colour }} gap-2">
+            {% for links in section.links %}
+            <a href="{{ links.url }}">{{ links.text }}</a>
             {% endfor %}
+          </div>
         </div>
-        <div class="flex flex-col sm:flex-row justify-between items-center w-full p-4">
-            <a class="italic flex gap-1" href="{{site.general.legal-info}}">{{site.general.copyright}}</a>
-            <div>
-                {% for link in navigation.footer %}
-                    <a href="{{link.url}}">{{link.text}}</a>
-                    {% assign lastlink = navigation.footer | last%}
-                    {% unless link == lastlink %}
-                        <span>|</span>
-                    {% endunless %}
-                {% endfor %}
-            </div>
-        </div>
+      {% endfor %}
     </div>
+    <div class="flex flex-col sm:flex-row justify-between items-center w-full p-4 {{ font_colour }}">
+      <a class="italic flex gap-1" href="{{ site.general.legal - info }}">
+        {{ site.general.copyright}}
+      </a>
+      <div>
+        {% for link in navigation.footer %}
+          <a href="{{ link.url }}">{{ link.text }}</a>
+          {% assign lastlink = navigation.footer | last %}
+          {% unless link == lastlink %}
+            <span>|</span>
+          {% endunless %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
 </footer>

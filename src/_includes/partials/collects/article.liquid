@@ -1,0 +1,33 @@
+<div id="{{ post.fileSlug }}" class="max-w-2xl w-full p-8 rounded cursor-pointer bg-dark-green-500 hover:bg-dark-green-700 bg-tile-3 text-green-200"
+  onclick="location.href='{{ post.url }}';">
+  <a href="{{ post.url }}" class="text-2xl font-bold">
+    <h2>{{ post.data.title }}</h2>
+  </a>
+  {% if post.data.subtitle %}
+  <h3 class="font-bold">{{ post.data.subtitle }}</h3>
+  {% endif %}
+  <div class="flex flex-row-reverse justify-between">
+    <div class="text-right">
+      {% if post.data.author %}
+      <h3>By {{ post.data.author }}</h3>
+      {% endif %}
+      <h3>{{ post.data.date | date: "%b %d, %Y" }}</h3>
+    </div>
+    <div class="flex flex-wrap pt-2 gap-1 md:gap-2 self-end">
+      {%- for slug in post.data.topics -%}
+      <div class="">
+        <a class="hover:text-gray-700 underline" href="/topics/{{ slug }}/">
+          {% assign topicname = slug | split: "-" %}
+          {% for topictitle in topicname %}
+          {{ topictitle | capitalize }}
+          {%- endfor -%}
+        </a>
+        {% assign lasttopic = post.data.topics | last %}
+        {% unless slug == lasttopic %}
+        <span>✧</span>
+        {% endunless %}
+      </div>
+      {%- endfor -%}
+    </div>
+  </div>
+</div>

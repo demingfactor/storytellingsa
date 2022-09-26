@@ -8,8 +8,9 @@ publish_mode: editorial_workflow
 media_library:
   name: cloudinary
   config:
-    cloud_name: <cloudinary>
-    api_key: <cloudinary>
+    cloud_name: demingfactor
+    api_key: 241867978174468
+    folder: {path: "storytelling", resource_type: "image"}
 
 collections:
   - name: "articles" # Used in routes, e.g., /admin/collections/blog
@@ -20,8 +21,8 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/cms/article.html"}
       - {label: "Type", name: "type", widget: "hidden", default: "article"}
-      - {label: "Image", name: "foreground", widget: "image"}
-      - {label: "Background", name: "background", widget: "relation", collection: "backgrounds", value_field: "image", search_fields: ["title"], display_fields: ["title"], multiple: false}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Background", name: "background", widget: "relation", collection: "backgrounds", value_field: "title", search_fields: ["title"], display_fields: ["title"], multiple: false}
       - {label: "Title", name: "title", widget: "string", pattern: ['^[\s\S]{1,110}$', 'Please keep your title to under 110 characters!']}
       - {label: "Article Slug", name: "slug", widget: "string", pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', 'A slug can have no spaces or special characters']}
       - {label: "Subtitle", name: "subtitle", widget: "string", required: false, pattern: ['^[\s\S]{1,140}$', 'Please keep your title to under 140 characters!']}
@@ -29,6 +30,21 @@ collections:
       - {label: "Topics", name: "topics", widget: "relation", collection: "topics", value_field: "topic", search_fields: ["title"], display_fields: ["title"], multiple: true}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/articles/{{ slug }}/index.html"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "events" # Used in routes, e.g., /admin/collections/blog
+    label: "Events" # Used in the UI
+    folder: "/src/cms/events" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/cms/event.html"}
+      - {label: "Type", name: "type", widget: "hidden", default: "event"}
+      - {label: "Title", name: "title", widget: "string", pattern: ['^[\s\S]{1,110}$', 'Please keep your title to under 110 characters!']}
+      - {label: "Subtitle", name: "subtitle", widget: "string"}
+      - {label: "Date of Event", name: "date", widget: "datetime"}
+      - {label: "Location", name: "location", widget: "map", default: '{"type":"Point","coordinates":[138.5993358,-34.9267792]}' }
+      - {label: "Location Details", name: "location_details", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/events/{{ slug }}/index.html"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "topics"
     label: "Topics"
@@ -65,4 +81,18 @@ collections:
       - {label: "Type", name: "type", widget: "hidden", default: "background"}
       - {label: "Name", name: "title", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
-
+      - label: "Background Colour"
+        name: "bg_colour"
+        widget: "select"
+        options:
+        - {label: "olive", value: "bg-olive-500"}
+        - {label: "pink", value: "bg-pink-500"}
+        - {label: "brown", value: "bg-brown-500"}
+        - {label: "blue", value: "bg-blue-500"}
+        - {label: "orange", value: "bg-orange-500"}
+      - label: "Font Colour"
+        name: "font_colour"
+        widget: "select"
+        options:
+        - {label: "light", value: "text-green-200"}
+        - {label: "dark", value: "text-green-900"}

@@ -13,6 +13,10 @@
       "url": "/events/"
     },
     {
+      "text": "Articles",
+      "url": "/articles/"
+    },
+    {
       "text": "Pro Tellers",
       "url": "/professional-tellers/"
     },
@@ -96,7 +100,7 @@
   ],
   "footer": [
     {
-      "text": "Facebook",
+      "text": "Find us on Facebook",
       "url": "https://www.facebook.com/storytellingsa/"
     }
   ]

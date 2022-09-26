@@ -1,4 +1,12 @@
 {
   "trailingComma": "all",
-  "singleQuote": true
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": ["*.html", "*.liquid"],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
 }

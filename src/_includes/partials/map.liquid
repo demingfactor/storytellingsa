@@ -1,0 +1,67 @@
+{% assign json_str = location %}
+{% assign json_token = json_str | split: ',' %}
+
+{% for token in json_token %}
+    {% if forloop.index == 2 %}
+        {% assign res = token | split: ':' %}
+        {% assign longitude = res[1] | remove: '&quot;' | prepend: '\' | remove: '\[' %}
+    {% endif %}
+    {% if forloop.index == 3 %}
+      {% assign latitude = token | remove: ']}' %}
+    {% endif %}
+{% endfor %}
+
+{% unless longitude == empty or latitude == empty %}
+<div class="w-full h-64 overflow-auto overscroll-contain">
+  <div class="mb-1 bg-dark-green-800 bg-tile-3" id="mapdiv">
+    <style>
+      #mapdiv {
+        height: 100.2%;
+        -ms-overflow-style: none;  /* IE and Edge */
+        scrollbar-width: none;  /* Firefox */
+      }
+      #mapdiv::-webkit-scrollbar {
+        display: none; /* Hide scrollbar for Chrome, Safari and Opera */
+      }
+    </style>
+    <noscript>
+      <div class="flex flex-col items-center justify-center h-full text-green-200 font-bold text-xl">
+        <h2>Normally, a map would load here...</h2>
+        <h2>
+          Please enable Javascript, or use a
+          <a class="underline" href="https://www.mozilla.org/en-US/firefox/new/">supported browser</a>
+          to view it.
+        </h2>
+        <h2>
+          Alternatively, copy this link, and view it on a device with a supported browser:
+        </h2>
+        <h2>
+          <a class="underline" href="https://www.openstreetmap.org/#map=9/{{ longitude }}/{{ latitude }}">
+            https://www.openstreetmap.org/#map=9/{{ longitude }}/{{ latitude }}
+          </a>
+        </h2>
+      </div>
+    </noscript>
+  </div>
+</div>
+<script src="http://www.openlayers.org/api/OpenLayers.js"></script>
+<script>
+  map = new OpenLayers.Map("mapdiv");
+  map.addLayer(new OpenLayers.Layer.OSM());
+
+  var lonLat = new OpenLayers.LonLat( "{{ longitude }}" ,"{{ latitude }}" )
+        .transform(
+          new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+          map.getProjectionObject() // to Spherical Mercator Projection
+        );
+        
+  var zoom=16;
+
+  var markers = new OpenLayers.Layer.Markers( "Markers" );
+  map.addLayer(markers);
+  
+  markers.addMarker(new OpenLayers.Marker(lonLat));
+  
+  map.setCenter (lonLat, zoom);
+</script>
+{% endunless %}
