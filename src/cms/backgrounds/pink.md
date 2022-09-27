@@ -1,6 +1,7 @@
 ---
 layout: layouts/cms/topics.html
 type: background
+sitemap_ignore: true
 title: Pink
 image: https://res.cloudinary.com/demingfactor/image/upload/v1664170852/storytelling/banners/sasa-pink-banner.svg
 bg_colour: bg-pink-500

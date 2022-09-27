@@ -17,10 +17,6 @@
       "url": "/articles/"
     },
     {
-      "text": "Pro Tellers",
-      "url": "/professional-tellers/"
-    },
-    {
       "text": "Membership",
       "url": "/membership/"
     }
@@ -54,6 +50,10 @@
     {
       "title": "The Craft",
       "links": [
+        {
+          "text": "Pro Tellers",
+          "url": "/professional-tellers/"
+        },
         {
           "text": "Getting Started",
           "url": "/getting-started/"
@@ -94,6 +94,10 @@
         {
           "text": "Archived Sites",
           "url": "/internet-archive/"
+        },
+        {
+          "text": "Sitemap",
+          "url": "/sitemap/"
         }
       ]
     }

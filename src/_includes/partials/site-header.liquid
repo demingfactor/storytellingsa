@@ -34,9 +34,9 @@
       </div>
     </nav>
   </div>
-  <div id="mobile-menu-overlay" class="mob:hidden relative flex w-full" x-show="open">
-    <div id="nav-links" class="absolute top-0 left-0 z-20 flex-grow min-w-full bg-pink-200">
-      <div class="text-dark-green-500 flex flex-col gap-2 items-center text-3xl m-4">
+  <div id="mobile-menu-overlay" class="mob:hidden relative flex w-full h-full" x-show="open">
+    <div id="nav-links" class="flex-grow min-w-full min-h-screen bg-pink-200 bg-tile-3">
+      <div class="text-dark-green-500 flex flex-col gap-2 items-center text-2xl h-full pt-8 m-4">
         {% for link in navigation.header %}
           <a class="underline hover:text-dark-green-400" href="{{link.url}}">{{link.text}}</a>
         {% endfor %}

@@ -79,6 +79,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/cms/topics.html"}
       - {label: "Type", name: "type", widget: "hidden", default: "background"}
+      - {label: "Sitemap Ignore", name: "sitemap_ignore", widget: "hidden", default: "true"}
       - {label: "Name", name: "title", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - label: "Background Colour"
