@@ -7,3 +7,29 @@ url: membership
 permalink: /{{url}}/index.html
 ---
 Membership
+
+
+
+Membership with Storytelling Australia (SA) Inc is open to anyone who has an interest in oral storytelling, and/or listening to stories.
+
+Membership entitles you to:
+
+* know you are actively promoting the art of oral storytelling in the wider community
+* receive 3 issues of the ‘Pied Piper’ newsletter each year
+* get reduced registration or entrance fees to workshops and major events such as concerts we sponsor
+* gain ready access to resources, support, and encouragement from members of Storytelling Australia (SA) and its network
+* participate fully with voting rights at the February AGM and other general meetings
+* receive information about additional storytelling events, and visiting storytellers
+* be covered for public indemnity insurance when telling stories in public
+* have available several forms of free advertising as a storyteller, if you tell stories professionally
+
+##  **Membership**
+
+**Subscriptions**     Full membership $40.00    Concession $30.00 
+
+### **Membership options**
+
+* **In person –** print out [membership form](https://web.archive.org/web/20200308052303/http://storytellingsa.org.au/files/membershipform.pdf) (not the form below), complete it, and bring it with cash/ cheque to a meeting.
+* **Post** - print out [membership form](https://web.archive.org/web/20200308052303/http://storytellingsa.org.au/files/membershipform.pdf) (not the form below), complete it, and send it to us with an accompanying cheque or money order made payable to **Storytelling Australia (SA) Inc,** and then send to **The Treasurer, Storytelling Australia (SA) Inc  213-215 Angas Street, Adelaide SA 5000**
+* **Mixed mode –** That is paying by EFT and posting the completed membership form. Print out the [membership form](https://web.archive.org/web/20200308052303/http://storytellingsa.org.au/files/membershipform.pdf) (not the form below), and then email the **Treasurer** at [contact@storytellingsa.org.au](https://web.archive.org/web/20200308052303/mailto:contact@storytellingsa.org.au) for banking details and instructions.
+* **On line entirely** – complete the Interactive Membership Form below and email the **Treasurer** at [contact@storytellingsa.org.au](https://web.archive.org/web/20200308052303/mailto:contact@storytellingsa.org.au) for banking details.
