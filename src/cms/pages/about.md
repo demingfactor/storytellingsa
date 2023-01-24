@@ -12,7 +12,7 @@ As members, we do this at our meetings by:
 
 * practising the art of ORAL storytelling live,
 * cultivating our appreciation as story-listeners,
-* discerning what make effective and timely stories to tell.
+* discerning what makes effective and timely stories to tell.
 
 We also promote the art of ORAL storytelling in the wider community
 
