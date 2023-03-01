@@ -6,9 +6,9 @@ date: 2021-11-30T01:52:02.008Z
 url: getting-started
 permalink: /{{url}}/index.html
 ---
-##  **for How Storytelling May VaryT**
+##  **How Oral Storytelling may Vary**
 
-**The types of stories told by oral storytellers**
+**The types of stories **
 
 * folk-tales 
 * myths
@@ -16,6 +16,7 @@ permalink: /{{url}}/index.html
 * fables
 * fairytales
 * wisdom tales
+* personal stories
 * trickster stories
 * ghost stories
 * urban myths
@@ -23,7 +24,7 @@ permalink: /{{url}}/index.html
 * narrative jokes
 * narrative poems
 * yarns
-* literary
+* literary stories
 * epics or episodes from epics
 * wonder stories
 * inspirational stories
@@ -32,7 +33,14 @@ permalink: /{{url}}/index.html
 * cultural stories historical and heritage 
 * and more....
 
-Stories are also grouped in collections by reference to a theme (e.g. animals, ecology, monsters), a specific region or country, or by recurrent motifs (e.g. abandonment, transformation, lost in forest).
+## Story Themes and Motifs
+
+Stories are also grouped in collections by reference to:
+
+* a theme - animals, ecology, monsters 
+* specific region or country - India, Ghana, Iceland 
+* recurrent motifs - abandonment, transformation, lost in forest, quest).
+
 
 **Purposes of telling oral stories include to…**
 
