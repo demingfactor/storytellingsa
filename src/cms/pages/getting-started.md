@@ -6,9 +6,75 @@ date: 2021-11-30T01:52:02.008Z
 url: getting-started
 permalink: /{{url}}/index.html
 ---
-Selecting, modifying or writing a story for oral storytelling are all arts in their own right. In what follows it‘s assumed you have already available a relatively well-formed story you wish to prepare and learn for telling. The guidelines also do not address the practical considerations of what you might do immediately before a telling/performance and during your telling.
+## **How Storytelling May Vary**
 
-It does not take much reflection to discover that how you go about preparing and learning a story **depends on**… **the story, the occasion of telling, the audience, and your own preferences**. Working with a story which happens to be a relatively long literary masterpiece (eg Oscar Wild's *The* *Selfish Giant* ) is quite different from learning to tell *Henny Penny* or an anecdote; preparing to tell a story for a specific TV audience which will be prerecorded (thus requiring precise camera cuing and positioning) is quite different to telling to your own child informally at bedtime; and, you may know your own learning style so well that you are already convinced there is only one way for you to learn a story. So… the following guidelines are offered as useful when you seek to prepare some stories, on some occasions, with some audiences, with certain personal preferences.
+**The types of stories told by oral storytellers**
+
+* folk-tales 
+* myths
+* legends
+* fables
+* fairytales
+* wisdom tales
+* trickster stories
+* ghost stories
+* urban myths
+* tall tales
+* narrative jokes
+* narrative poems
+* yarns
+* literarywonder stories
+*
+* inspirational stories
+* sacred stories 
+* parables for teaching
+* cultural stories historical and heritage 
+*
+
+Stories are also grouped in collections by reference to a theme (eg animals, ecology, monsters), a specific region or country, or by recurrent motifs (eg abandonment, transformation, lost in forest).
+
+**The purposes oral stories are told include, to…**
+
+* entertain, distract, and divert
+* develop oracy and literacy
+* express oneself (as teller)
+* enthuse about historical events and people
+* nurture particular social attitudes and values
+* develop problem-solving skills
+* provide a vehicle and narrative genre for learning English
+
+(ie ESL and EFL , and ESOL)
+
+* nurture an appreciation of cultural diversity
+* supplement school subject learning (eg literature, history, maths & science)
+* nurture imagination and creativity
+* transmit cultural and family stories across generations
+* contribute to psychological healing
+* develop an organisational culture
+* provoke self-reflection on personal attitudes about controversial topics (eg racism, sexism etc)
+
+Is there anything that can’t be done with storytelling?\
+By far the most common purposes are to entertain, distract, and divert. . And of course, these main purposes may be achieved with other ones concurrently.\
+Many of these purposes, however, can only be achieved with very specific story types, by using the stories as part of a well-designed workshop, or by incorporating storytelling into skilful teaching processes.
+
+## **The occasions and settings where storytellers may tell …**
+
+**Member storytellers**
+
+* At their regular story sharing meetings
+* At concerts we hold from time to time
+* Some individuals have family and community events and clubs where they tell’ sometimes professionally (eg weddings; birthdays; reunions).
+* At special events where a subgroup of members can attend as a group (eg Medieval Fair; Residential Care facilities; with donations to the association)
+
+***Professional storytellers*** (Tellers who maintain themselves as career, business, main occupation)
+
+* Social & Educational Institutions : for example, working in schools, kindergartens, universities, festivals, social clubs)
+* Business training seminars, in psychotherapy, on trains, planes and tour cruisers.
+* Special commissioned project performances (alone or in collaboration with other storytellers, musicians, or visual or performing artists)
+
+Selecting, modifying or writing a story for oral storytelling are all arts in their own right. In what follows it‘s assumed you have a relatively well-formed story you wish to prepare and learn for telling. The guidelines also do not address the practical considerations of what you might do immediately before a telling/performance and during your telling.
+
+It does not take much reflection to discover that how you go about preparing and learning a story **depends on**… **the story, the occasion of telling, the audience, and your own preferences**. Working with a story which happens to be a relatively long literary masterpiece (eg Oscar Wild's *The* *Selfish Giant* ) is quite different from learning to tell *Henny Penny* or an anecdote; preparing to tell a story for a specific TV audience which will be pre-recorded (thus requiring precise camera cuing and positioning) is quite different to telling to your own child informally at bedtime; and, you may know your own learning style so well that you are already convinced there is only one way for you to learn a story. So… the following guidelines are offered as useful when you seek to prepare some stories, on some occasions, with some audiences, with certain personal preferences.
 
 * **Make the story your own** by listening to it and reading it a few times before summarising it. Create your own story skeleton, outline, storyboard (stick figure cartoons), or mind map, of the main events & features in the story. This then becomes a basis for reconstructing your version of the story orally over time (eg 10 days or so). Ideally, visualise in your imagination each scene or event in the story from your notes.
 * **Clarify the most important thing about the story** for you that you want the story to convey to the audience/listeners (NOT to tell listeners, but to help shape your own version for telling). For example, the most important thing about a particular story for you may be: the cunning of a character, the mystery of love, or a message – hope will prevail, or that listeners delight in the rich word play of the language. Many possibilities, which may all shape what you include, delete and change in your story.
@@ -16,4 +82,4 @@ It does not take much reflection to discover that how you go about preparing and
 * **Tell the story aloud to yourself (with and without notes).** If possible picture each event/scene in the story as you tell it (some people are better visualiser than others so don't give yourself a hard time doing this)…… Afterwards, note where you have fluency and feel satisfied, where you want to find better wording (eg when you get tongue tied), and where your mind goes blank.
 * **Practice & Repeat** the process with the same experimental, playful attitude. Space your repetitions. Some people find useful telling…while looking in a mirror; to a dog/cat; a supportive friend/partner; making a recording to listen to.
 
-\*\** You may like also to obtain a free booklet *Tips for storytelling* which includes further hints and guidelines for preparing a story to tell at a storysharing meetings. ***[Contact Us](mailto:{{ site.contact.general }})***
+\*\* *You may like also to obtain a free booklet* Tips for storytelling* which includes further hints and guidelines for preparing a story to tell at a storysharing meetings. ***\[Contact Us](mailto:{{ site.contact.general }})***
