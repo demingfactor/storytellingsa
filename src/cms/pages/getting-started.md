@@ -23,17 +23,18 @@ permalink: /{{url}}/index.html
 * narrative jokes
 * narrative poems
 * yarns
-* literarywonder stories
-*
+* literary
+* epics or episodes from epics
+* wonder stories
 * inspirational stories
 * sacred stories 
 * parables for teaching
 * cultural stories historical and heritage 
-*
+* and more....
 
-Stories are also grouped in collections by reference to a theme (eg animals, ecology, monsters), a specific region or country, or by recurrent motifs (eg abandonment, transformation, lost in forest).
+Stories are also grouped in collections by reference to a theme (e.g. animals, ecology, monsters), a specific region or country, or by recurrent motifs (e.g. abandonment, transformation, lost in forest).
 
-**The purposes oral stories are told include, to…**
+**The purposes of telling oral stories include to…**
 
 * entertain, distract, and divert
 * develop oracy and literacy
@@ -41,20 +42,21 @@ Stories are also grouped in collections by reference to a theme (eg animals, eco
 * enthuse about historical events and people
 * nurture particular social attitudes and values
 * develop problem-solving skills
-* provide a vehicle and narrative genre for learning English
-
-(ie ESL and EFL , and ESOL)
-
+* provide a vehicle and narrative genre for learning a language
 * nurture an appreciation of cultural diversity
-* supplement school subject learning (eg literature, history, maths & science)
+* supplement school subject learning (e.g. literature, history, maths & science)
 * nurture imagination and creativity
 * transmit cultural and family stories across generations
 * contribute to psychological healing
+* practice storytelling skills
 * develop an organisational culture
-* provoke self-reflection on personal attitudes about controversial topics (eg racism, sexism etc)
+* provoke self-reflection on personal attitudes about controversial topics (e.g. racism, sexism etc)
+* play and dance with spoken language
+* embed quality language patterns for children as they listen and learn
+*
 
-Is there anything that can’t be done with storytelling?\
-By far the most common purposes are to entertain, distract, and divert. . And of course, these main purposes may be achieved with other ones concurrently.\
+**Is there anything that can’t be done with storytelling?**\
+By far the most common purposes are to entertain, distract, and divert. And of course, these main purposes may be achieved with other ones concurrently.\
 Many of these purposes, however, can only be achieved with very specific story types, by using the stories as part of a well-designed workshop, or by incorporating storytelling into skilful teaching processes.
 
 ## **The occasions and settings where storytellers may tell …**
