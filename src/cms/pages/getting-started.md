@@ -6,9 +6,9 @@ date: 2021-11-30T01:52:02.008Z
 url: getting-started
 permalink: /{{url}}/index.html
 ---
-##  **How Oral Storytelling may Vary**
+## **How Oral Storytelling may Vary**
 
-**The types of stories **
+### **The types of stories** 
 
 * folk-tales 
 * myths
@@ -33,7 +33,7 @@ permalink: /{{url}}/index.html
 * cultural stories historical and heritage 
 * and more....
 
-## Story Themes and Motifs
+### Story Themes and Motifs
 
 Stories are also grouped in collections by reference to:
 
@@ -41,8 +41,7 @@ Stories are also grouped in collections by reference to:
 * specific region or country - India, Ghana, Iceland 
 * recurrent motifs - abandonment, transformation, lost in forest, quest).
 
-
-**Purposes of telling oral stories include to…**
+### **Purposes of telling oral stories include to…**
 
 * entertain, distract, and divert
 * develop oracy and literacy
@@ -62,27 +61,25 @@ Stories are also grouped in collections by reference to:
 * play and dance with spoken language
 * embed quality language patterns for children as they listen and learn
 
-## **Is there anything that can’t be done with storytelling?**
+### **Is there anything that can’t be done with storytelling?**
 
 By far the most common purposes are to entertain, distract, and divert. And of course, these main purposes may be achieved concurrently with any others .\
 Many of these purposes, however, can only be achieved with very specific story types, by using the stories as part of a well-designed workshop, or by incorporating storytelling into skilful teaching processes.
 
-## **Occasions and settings where storytellers may tell …**
+### **Occasions and settings where storytellers may tell …**
 
-**Member storytellers**
+**Member storytellers tell at:**
 
-* At their regular story sharing meetings
-* At concerts held from time to time
-* Some individuals have family and community events and clubs where they tell’ sometimes professionally (e.g. weddings; birthdays; reunions).
-* At special events where a subgroup of Members may attend as a group (e.g. Medieval Fair; Residential Care facilities; Festivals. If payments involved a percentage is donated to the association.)
+* their regular story sharing meetings
+* concerts held from time to time
+* family and community events and clubs where they tell quite professionally (e.g. weddings; birthdays; reunions).
+* special events where a subgroup of Members may tell a program of stories (e.g. Medieval Fair, Residential Care facilities, Festivals. If a payment is involved, a percentage is donated to the association.
 
-***Professional storytellers*** - Career tellers who maintain themselves as a business - main occupation)
+ **Professional Storytellers** - Career tellers who maintain themselves as a business. It's their main occupation and they may tell at:
 
 * Social & Educational Institutions : for example, working in schools, kindergartens, universities, festivals, social clubs)
 * Business training seminars, in psychotherapy, on trains, planes and tour cruisers.
 * Special commissioned project performances (alone or in collaboration with other storytellers, musicians, or visual or performing artists)
-
-
 
 ## **Considerations for Tellers**
 
@@ -98,4 +95,4 @@ It does not take much reflection to discover that how you go about preparing and
 * **Tell the story aloud to yourself (with and then without notes).** If possible picture each event/scene in the story as you tell it (some people are better visualiser than others so don't give yourself a hard time doing this)…… Afterwards, note where you have fluency and feel satisfied, where you want to find better wording (e.g. when you get tongue tied), and where your mind goes blank - all normal during practices.
 * **Practice & Repeat** the process with the same experimental, playful attitude. Space your repetitions. Some people find useful telling…while looking in a mirror; to a dog, cat, parrot or a shrub; a supportive friend/partner; to a baby, making a recording to listen to.
 
-\*\* *You may like also to obtain a free booklet* Tips for storytelling* which includes further hints and guidelines for preparing a story to tell at a story-sharing meeting. ***\[Contact Us](mailto:{{ site.contact.general }})***
+\*\* *You may like also to obtain a free booklet* Tips for storytelling* which includes further hints and guidelines for preparing a story to tell at a story-sharing meeting. ***\[See Contact Us]***
