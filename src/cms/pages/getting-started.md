@@ -8,6 +8,8 @@ permalink: /{{url}}/index.html
 ---
 ## **How Storytelling May Vary**
 
+
+
 **The types of stories told by oral storytellers**
 
 * folk-tales 
@@ -53,20 +55,23 @@ Stories are also grouped in collections by reference to a theme (e.g. animals, e
 * provoke self-reflection on personal attitudes about controversial topics (e.g. racism, sexism etc)
 * play and dance with spoken language
 * embed quality language patterns for children as they listen and learn
-*
 
-**Is there anything that can’t be done with storytelling?**\
-By far the most common purposes are to entertain, distract, and divert. And of course, these main purposes may be achieved with other ones concurrently.\
+## **Is there anything that can’t be done with storytelling?**
+
+
+By far the most common purposes are to entertain, distract, and divert. And of course, these main purposes may be achieved concurrently with any others .\
 Many of these purposes, however, can only be achieved with very specific story types, by using the stories as part of a well-designed workshop, or by incorporating storytelling into skilful teaching processes.
 
-## **The occasions and settings where storytellers may tell …**
+## **Occasions and settings where storytellers may tell …**
+
+
 
 **Member storytellers**
 
 * At their regular story sharing meetings
-* At concerts we hold from time to time
-* Some individuals have family and community events and clubs where they tell’ sometimes professionally (eg weddings; birthdays; reunions).
-* At special events where a subgroup of members can attend as a group (eg Medieval Fair; Residential Care facilities; with donations to the association)
+* At concerts held from time to time
+* Some individuals have family and community events and clubs where they tell’ sometimes professionally (e.g. weddings; birthdays; reunions).
+* At special events where a subgroup of Members may attend as a group (e.g. Medieval Fair; Residential Care facilities; Festivals. If payments involved a percentage is donationed to the association.)
 
 ***Professional storytellers*** (Tellers who maintain themselves as career, business, main occupation)
 
