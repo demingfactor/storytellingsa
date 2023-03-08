@@ -6,9 +6,9 @@ date: 2021-11-30T01:52:02.008Z
 url: getting-started
 permalink: /{{url}}/index.html
 ---
-## **How Oral Storytelling may Vary**
+## **How Oral Storytelling May Vary**
 
-### **The types of stories** 
+### **Vary in types of stories**
 
 * folk-tales 
 * myths
@@ -33,7 +33,7 @@ permalink: /{{url}}/index.html
 * cultural stories historical and heritage 
 * and more....
 
-### Story Themes and Motifs
+### Vary in story themes and motifs
 
 Stories are also grouped in collections by reference to:
 
@@ -41,7 +41,7 @@ Stories are also grouped in collections by reference to:
 * specific region or country - India, Ghana, Iceland 
 * recurrent motifs - abandonment, transformation, lost in forest, quest).
 
-### **Purposes of telling oral stories include to…**
+### **Vary in purposes of telling oral stories include to…**
 
 * entertain, distract, and divert
 * develop oracy and literacy
@@ -75,19 +75,18 @@ Many of these purposes, however, can only be achieved with very specific story t
 * family and community events and clubs where they tell quite professionally (e.g. weddings; birthdays; reunions).
 * special events where a subgroup of Members may tell a program of stories (e.g. Medieval Fair, Residential Care facilities, Festivals. If a payment is involved, a percentage is donated to the association.
 
- **Professional Storytellers** - Career tellers who maintain themselves as a business. It's their main occupation and they may tell at:
-
+  **Professional Storytellers** - Career tellers who maintain themselves as a business. It's their main occupation and they may tell at:
 * Social & Educational Institutions : for example, working in schools, kindergartens, universities, festivals, social clubs)
 * Business training seminars, in psychotherapy, on trains, planes and tour cruisers.
 * Special commissioned project performances (alone or in collaboration with other storytellers, musicians, or visual or performing artists)
 
-## **Considerations for Tellers**
+## **Teller Deliberations - new and experienced**
 
-**Selecting, modifying or writing** a story for oral storytelling **are all arts in their own right**. In what follows it‘s assumed you have a **relatively well-formed story you wish to prepare and learn for telling**. The guidelines also do not address the practical considerations of what you might do immediately before a telling/performance and during your telling.
+**Selecting, modifying or writing** a story for oral storytelling **are all arts in their own right**. 
 
-It does not take much reflection to discover that how you go about preparing and learning a story **depends on**… **the story, the occasion of telling, the audience, and your own preferences**. Working with a story which happens to be a relatively long literary masterpiece (eg Oscar Wild's *The* *Selfish Giant* ) is quite different from learning to tell *Henny Penny* or an anecdote; preparing to tell a story for a specific TV audience which will be pre-recorded (thus requiring precise camera cuing and positioning) is quite different to telling to your own child informally at bedtime; and, you may know your own learning style so well that you are already convinced there is only one way for you to learn a story. So… the following guidelines are offered as useful when you seek to prepare some stories, on some occasions, with some audiences, with certain personal preferences.
+In what follows it‘s assumed you have a **relatively well-formed story you wish to prepare and learn for telling**. There are more detailed guidelines elsewhere to address the practical considerations of what you might do immediately before a telling/performance and during your telling.
 
-## **Preparation Hints for Oral Storytelling**
+It does not take much reflection to discover that how you go about preparing and learning a story **depends on**… **the story, the occasion of telling, the audience, and your own preferences**. Working with a story which happens to be a relatively long literary masterpiece (e.g. Oscar Wild's *The* *Selfish Giant* ) is quite different from learning to tell *Henny Penny* or an anecdote; preparing to tell a story for a specific TV audience which will be pre-recorded (thus requiring precise camera cuing and positioning) is quite different to telling to your own child informally at bedtime; and, you may know your own learning style so well that you are already convinced there is only one way for you to learn a story. So… the following guidelines are offered as useful when you seek to prepare some stories, on some occasions, with some audiences, with certain personal preferences.
 
 * **Make the story your own** by listening to it and reading it a few times before summarising it. Create your own story skeleton, outline, storyboard (stick figure cartoons), or mind map, of the main events & features in the story. This then becomes a basis for reconstructing your version of the story orally over time (eg 10 days or so). Ideally, visualise in your imagination each scene or event in the story from your notes.
 * **Clarify the most important thing about the story** that you want the story to convey to the audience/listeners (NOT to tell listeners, but to help shape your own version for telling). For example, the most important thing about a particular story for you may be: the cunning of a character, the mystery of love, or a message – hope will prevail, or that listeners delight in the rich word play of the language. There are many possibilities, which may all shape what you include, delete and change in your story.
