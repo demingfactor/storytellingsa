@@ -168,3 +168,9 @@ Email: <a href="mailto:[helensarahlawry@gmail.com](https://web.archive.org/web/2
 #### Jo-Anne Sarre
 
 ###### Jo-anne Sarre’s professional career as a storyteller and theatre-maker has spanned over 25 years, taking her throughout Australia, New Zealand, UK, Europe, India and China. Read More...
+
+During her journey she has explored the path of art to heal, to regenerate, to rejuvenate, to inspire and transform individuals and communities. The stories told connect people across cultures, foster a sense of self in community, bring nourishing archetypal pictures which tap into the wisdom of ions, and acknowledge the universal challenges and gifts of the human condition. She has performed and run workshops for all ages and abilities, shaping the focus to suit the participants. She is co-founder of *Ink Pot Theatre* and *Ink Pot Arts Inc.*
+
+Phone: 0429 673 327 / 08 8388 0353\
+Email: [quill@inkpot.com.au](https://web.archive.org/web/20200308052628/mailto:quill@inkpot.com.au)\
+Website: [www.inkpot.com.au](https://web.archive.org/web/20200308052628/http://www.inkpot.com.au/)
