@@ -32,11 +32,11 @@ We view telling stories orally as an art which all people possess to some degree
 
 While we recognise the value of using notes in public speaking our standard practice at meetings is NOT to use notes for storytelling. Similarly, while we value reading aloud from a book as a skill and art in its own right, we do NOT promote reading aloud as oral storytelling.
 
-xxxxxxxxxx
+# xxxxxxxxxx
 
-Add this to a PAGE Called "More About Storytelling" 
+# Add below this to a PAGE Called "More About Storytelling" 
 
-xxxxxxxxx
+# xxxxxxxxx
 
 Storytelling Australia (SA) is a not-for-profit group who **love to tell** and **be told stories**.
 
@@ -67,6 +67,10 @@ We view telling stories orally as an art; which all people possess to some degre
 Accordingly, we acknowledge that storytelling can range from a hesitant recount of an anecdote over a family meal to a full blown solo concert performance requiring sustained preparation, and underpinned by great artistry and skill.
 
 While we recognise the value of using notes in public speaking, our standard practice at meetings is **NOT to use notes** for storytelling. Similarly, while we value reading aloud from a book as a skill and art in its own right, we do **NOT promote reading aloud** as oral storytelling.
+
+# ???????????////
+
+# Check how to do links from here to new pages, articles and such
 
 More information about…
 
