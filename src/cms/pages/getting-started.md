@@ -33,15 +33,17 @@ permalink: /{{url}}/index.html
 * cultural stories historical and heritage 
 * and more....
 
-### Vary in story themes and motifs
+### Infinite range of story themes and motifs
 
 Stories are also grouped in collections by reference to:
 
-* a theme - animals, ecology, monsters 
-* specific region or country - India, Ghana, Iceland 
-* recurrent motifs - abandonment, transformation, lost in forest, quest).
+* a **theme** - animals, ecology, monsters 
+* specific **region** or country - India, Ghana, Iceland 
+* recurrent **motifs** - abandonment, transformation, lost in forest, quest).
 
-### **Vary in purposes of telling oral stories include to…**
+### **Variety of purpose.** 
+
+### **To…**
 
 * entertain, distract, and divert
 * develop oracy and literacy
@@ -60,6 +62,7 @@ Stories are also grouped in collections by reference to:
 * provoke self-reflection on personal attitudes about controversial topics (e.g. racism, sexism etc)
 * play and dance with spoken language
 * embed quality language patterns for children as they listen and learn
+* ... and more!
 
 ### **Is there anything that can’t be done with storytelling?**
 
