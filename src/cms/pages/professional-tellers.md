@@ -81,6 +81,23 @@ Email: storyruth@y7mail.com
 
 ###### Irish born poet Jill Wherry migrated to Australia in the 1960’s. Now retired from teaching and with grown children, she has time to present her original humorous verse which is based on her quirky outlook on everyday life. Read More...
 
+
+
+Jill won the South Australian Performance Bush Poetry Championship in 2005 and the humorous section 2006 and 2007.
+
+She has been interviewed and invited to recite her poetry on several radio stations including Coast FM and ABC with Peter Goers.
+
+Her first book of original poems ‘Definitely Not Shakespeare’ was self published in 2008 and has sold over 1000coopies.  She has since produced 2 CD’s which include many of her prize winning poems.
+
+She has presented her narrative poems to sports’ clubs, Probus clubs, Retirement villages, at charity functions and to other groups of people who would enjoy her wicked sense of humour.
+
+Her poems include such themes as pets, sports, dating and growing old disgracefully.
+
+She also entertains at birthday and Christmas celebrations.
+
+Phone: 08 8266 0378\
+Email: [wherryj@senet.com.au](https://web.archive.org/web/20200308052628/mailto:wherryj@senet.com.au)
+
 ![](https://web.archive.org/web/20200308052628im_/http://storytellingsa.org.au/wp-content/uploads/2014/12/tony-228x300.jpg)
 
 [](<>)
