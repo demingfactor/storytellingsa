@@ -12,7 +12,7 @@ topics:
 date: 2023-03-08T04:53:35.088Z
 permalink: /articles/{{ slug }}/index.html
 ---
-### **An altered state of mind** (Tony Wight 2014)
+### **An altered state of mind** 
 
 Have you ever read a book and been so immersed in the story that hours later you are not conscious of even turning a page? This is an altered state of mind and is linked quite closely to hypnosis. To enter unreservedly into a story is an exhilarating experience. It can bring you to tears, laughter, excitement, sadness and joy. This is the power of story. It can be delivered in a book or orally by a storyteller.
 
