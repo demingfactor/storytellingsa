@@ -69,7 +69,9 @@ Stories are also grouped in collections by reference to:
 By far the most common purposes are to entertain, distract, and divert. And of course, these main purposes may be achieved concurrently with any others .\
 Many of these purposes, however, can only be achieved with very specific story types, by using the stories as part of a well-designed workshop, or by incorporating storytelling into skilful teaching processes.
 
-### **Occasions and settings where storytellers may tell …**
+### **Occasions and settings where Storytellers may tell …**
+
+
 
 **Member storytellers tell at:**
 
@@ -78,7 +80,7 @@ Many of these purposes, however, can only be achieved with very specific story t
 * family and community events and clubs where they tell quite professionally (e.g. weddings; birthdays; reunions).
 * special events where a subgroup of Members may tell a program of stories (e.g. Medieval Fair, Residential Care facilities, Festivals. If a payment is involved, a percentage is donated to the association.
 
-  **Professional Storytellers** - Career tellers who maintain themselves as a business. It's their main occupation and they may tell at:
+**Professional Storytellers** - Career tellers who maintain themselves as a business. It's their main occupation and they may tell at:
 * Social & Educational Institutions : for example, working in schools, kindergartens, universities, festivals, social clubs)
 * Business training seminars, in psychotherapy, on trains, planes and tour cruisers.
 * Special commissioned project performances (alone or in collaboration with other storytellers, musicians, or visual or performing artists)
