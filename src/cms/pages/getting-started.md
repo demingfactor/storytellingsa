@@ -111,7 +111,7 @@ Non-oral storytelling is also part of many cultural activities including film, w
 * family and community events and clubs where they tell quite professionally (e.g. weddings; birthdays; reunions).
 * special events where a subgroup of Members may tell a program of stories (e.g. Medieval Fair, Residential Care facilities, Festivals. If a payment is involved, a percentage is donated to the association.
 
-**Professional Storytellers** - Career tellers maintain themselves as a business. It's their main occupation and they may tell at:
+**Professional Storytellers** - Some are career tellers who maintain themselves as a business, others tell by contract as a extra in their lives. Professional Storytellersmay tell at:
 
 * Social & Educational Institutions: for example, working in schools, kindergartens, universities, festivals, social clubs
 * Business training seminars, in psychotherapy, on trains, planes and cruise ships.
