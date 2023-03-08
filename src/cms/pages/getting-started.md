@@ -10,33 +10,62 @@ permalink: /{{url}}/index.html
 
 ### **What sort of stories can one tell?**
 
-* apart from the following
+
+
+ ... all sorts
+
 cultural stories
+
   epics
+
   episodes from epics
+
   fables
-  Fairy-tales
+
+  fairy-tales
+
   folk-tales
+
   ghost stories
+
   heritage
+
   historical
+
   inspirational stories
+
   legends
+
   literary stories
+
   myths
+
   narrative jokes
+
   narrative poems
+
   parables for teaching
+
   personal stories
+
   sacred stories
+
   slice of life stories
+
   tall stories
+
   trickster stories
+
   urban myths
+
   wisdom tales
+
   wonder stories
+
   yarns
-* there must be more!
+
+zoom stories (for a z entry)
+
 
 ### Infinite range of story themes and motifs
 
