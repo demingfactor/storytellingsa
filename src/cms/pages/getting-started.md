@@ -8,30 +8,35 @@ permalink: /{{url}}/index.html
 ---
 ## **How Oral Storytelling May Vary**
 
-### **What sort of stories can you tell?**
+### **What sort of stories can one tell?**
 
-* folk-tales 
-* myths
-* legends
-* fables
-* fairytales
-* wisdom tales
-* personal stories
-* trickster stories
-* ghost stories
-* urban myths
-* tall stories
-* narrative jokes
-* narrative poems
-* yarns
-* literary stories
-* epics or episodes from epics
-* wonder stories
-* inspirational stories
-* sacred stories 
-* parables for teaching
-* cultural stories historical and heritage 
-* and more....
+* apart from the following
+cultural stories
+  epics
+  episodes from epics
+  fables
+  Fairy-tales
+  folk-tales
+  ghost stories
+  heritage
+  historical
+  inspirational stories
+  legends
+  literary stories
+  myths
+  narrative jokes
+  narrative poems
+  parables for teaching
+  personal stories
+  sacred stories
+  slice of life stories
+  tall stories
+  trickster stories
+  urban myths
+  wisdom tales
+  wonder stories
+  yarns
+* there must be more!
 
 ### Infinite range of story themes and motifs
 
@@ -43,7 +48,7 @@ Stories are also grouped in collections by reference to:
 
 ### **Variety of purpose.**
 
-#### **Storytellers tell stories to…**
+#### **Oral storytellers tell stories to…**
 
 * entertain, distract, and divert
 * develop oracy and literacy
@@ -67,7 +72,9 @@ Stories are also grouped in collections by reference to:
 ### **Is there anything that can’t be done with storytelling?**
 
 By far the most common purposes are to entertain, distract, and divert. And of course, these main purposes may be achieved concurrently with any others.\
-Many of these purposes, however, can only be achieved with very specific story types, by using the stories as part of a well-designed workshop, or by incorporating storytelling into skilful teaching processes.
+Many of these purposes, however, can only be achieved with very specific story types, by using the stories as part of a well-designed workshop, or by incorporating storytelling into skilful teaching processes. 
+
+Non-oral storytelling is also part of many cultural activities including film, writing, motivation, News, Ted Talks and such - but is different to the spoken story told to willing listeners within earshot.
 
 ### **Occasions and settings where Storytellers may tell …**
 
