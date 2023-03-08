@@ -14,6 +14,6 @@ Contact us
 
 |                                        |                                                                                                                                                                         |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| (President)                            | [contact\[at\]storytellingsa.org.au](https://web.archive.org/web/20200308052604/mailto:contact@storytellingsa.org.au) (Show you are not a machine by inserting @ symbol) |
-| Maggie Thomas (Secretary)              | [contact@storytellingsa.org.au](https://web.archive.org/web/20200308052604/mailto:contact@storytellingsa.org.au)                                                        |
-| Graham Ross (Special Projects Officer) | gfross\[at\]merlin.net.au   (show you are not a machine by inserting @ symbol)                                                                                           |
+| Olga FARNILL (President)               | [contact\[at]storytellingsa.org.au](https://web.archive.org/web/20200308052604/mailto:contact@storytellingsa.org.au) (Show you are not a machine by inserting @ symbol) |
+| Maggie THOMAS (Secretary)              | [contact@storytellingsa.org.au](https://web.archive.org/web/20200308052604/mailto:contact@storytellingsa.org.au)                                                        |
+| Graham ROSS (Special Projects Officer) | gfross\[at]merlin.net.au   (show you are not a machine by inserting @ symbol)                                                                                           |
