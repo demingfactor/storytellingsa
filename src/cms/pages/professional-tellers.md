@@ -125,6 +125,15 @@ Email Address: tonywight \[at] adam.com.au
 
 ###### Graham Ross delights in telling stories to adults and families: particularly stories which emerge from Australian historical events heritage sites, and characters. Often, he touches lightly on contemporary social & environmental concerns. Informed by broad experience, he also enjoys crafting stories for special projects, coaching, and running workshops. Read More...
 
+
+
+Graham’s main background is teaching, having taught at all school levels and at University level.  When he left full-time post-graduate teacher education  (TESOL & Literacy ), he continued part time  in post-graduate counsellor & psychotherapist education. In these positions he used and fostered storytelling , educational drama,  multi-cultural and integral perspectives, and the action methods of learning.  Concurrently, he has performed solo as the satirical Professor Bruce Thinkbig at conferences, as a conductor-performer in a Playback Theatre troupe, and as a storyteller in many contexts (eg Medieval & Folk Festivals;  Art Gallery of SA; concerts; weddings)
+
+Currently, Graham is researching several stories associated with the life of the botanist Ferdinand von Mueller. Other historical characters and events he has explored previously through storytelling include: Dr Blood (medical doctor Kapunda mines); the Star of Greece (shipwreck), Burke (of Burke & Wills); & Captain Collet Barker (explorer/cultural negotiator). More generally, historical storytelling preoccupies his storytelling imagination, workshops and creative juices.   His totem is the galah !
+
+Phone: (08) 8357 2587\
+Email: gfross \[at] merlin.net.au
+
 ![](https://web.archive.org/web/20200308052628im_/http://storytellingsa.org.au/wp-content/uploads/2014/09/Helen-Lawry-284x300.jpg)
 
 [](https://web.archive.org/web/20200308052628/mailto:helensarahlawry@gmail.com)[](https://web.archive.org/web/20200308052628/http://www.helenlawrystorytelling.com/)
