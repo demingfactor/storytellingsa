@@ -61,9 +61,9 @@ Contact Website [www.sueharris.com.au](https://web.archive.org/web/2020030805262
 
 
 
-Ruth believes in the power of  stories to touch our souls and to nourish the imagination.  She enjoys the challenge of tailoring her story sessions and workshops to suit the needs and interests of particular groups be they children or adults.  Her repertoire of stories is ever expanding and includes folk tales, wisdom and peace stories, fairytales, whale and dolphin stories,  inspirational stories and stories that are just fun.
+Ruth believes in the power of  stories to touch our souls and to nourish the imagination.  She enjoys the challenge of tailoring her story sessions and workshops to suit the needs and interests of particular groups be they children or adults.  Her repertoire of stories is ever expanding and includes folk tales, wisdom and peace stories, fairytales, whale and dolphin stories, inspirational stories and stories that are just fun.
 
-She is a long term active member of The Storytelling Guild of Australia (SA) now Storytelling Australia (South Australia).
+She is a Life Member of The Storytelling Guild of Australia (SA) now Storytelling Australia (South Australia) Inc.
 
 Phone:  +61 08 8340 8521
 
@@ -111,7 +111,18 @@ Email: storyruth@y7mail.com
 
 #### Helen Lawry
 
-###### Helen Lawry is a storyteller, writer and teacher. She studied creative writing at Flinders University and Manchester Metropolitan University and Storytelling at Emerson College in the UK. Helen tells traditional stories, writes and performs her own work and writes on commission. Read More...
+###### Helen Lawry is a storyteller, writer and teacher. She studied creative writing at Flinders University and Manchester Metropolitan University and Storytelling at Emerson College in the UK. Helen tells traditional stories, writes and performs her own work and writes on commission. Read More... 
+
+
+
+Her performances are laced with music and song. She is equally at home telling to adults and children. She is an experienced workshop facilitator and storytelling mentor. The benefits storytelling holds for children, and the use of storytelling as a means of capturing and transmitting history are of particular interest to her.
+
+Storytelling has lead to work for The Australian Centre for Social Innovation, The Art Gallery of South Australia, and the Ballarat Writers’ Festival.
+
+In 2011 Helen was a finalist in the prestigious Woodford Folk Festival Storytelling Prize, and a QLD Regional Arts Grant recipient. Her Every Suitcase Tells a Story Project was included in the 2014 Adelaide Film Festival Program.
+
+Phone: 0425 641 970 / 08 8221 6918\
+Email: <a href="mailto:[helensarahlawry@gmail.com](https://web.archive.org/web/20200308052628/mailto:helensarahlawry@gmail.com)">[http://www.helenlawrystorytelling.com/](https://web.archive.org/web/20200308052628/http://www.helenlawrystorytelling.com/)</a>
 
 ![](https://web.archive.org/web/20200308052628im_/http://storytellingsa.org.au/wp-content/uploads/2014/09/Jo-anne-Sarre-Feb-2011-e1411094494505-200x300.jpg)
 
