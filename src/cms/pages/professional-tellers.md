@@ -59,6 +59,16 @@ Contact Website [www.sueharris.com.au](https://web.archive.org/web/2020030805262
 
 ###### Ruth Carson has been sharing stories with children and adults for over 20 years in schools, at fairs and festivals, nursing homes and pubs. Read More...
 
+
+
+Ruth believes in the power of  stories to touch our souls and to nourish the imagination.  She enjoys the challenge of tailoring her story sessions and workshops to suit the needs and interests of particular groups be they children or adults.  Her repertoire of stories is ever expanding and includes folk tales, wisdom and peace stories, fairytales, whale and dolphin stories,  inspirational stories and stories that are just fun.
+
+She is a long term active member of The Storytelling Guild of Australia (SA) now Storytelling Australia (South Australia).
+
+Phone:  +61 08 8340 8521
+
+Email: storyruth@y7mail.com
+
 ![](https://web.archive.org/web/20200308052628im_/http://storytellingsa.org.au/wp-content/uploads/2014/09/Jill-Wherry-2-260x300.jpg)
 
 [](https://web.archive.org/web/20200308052628/mailto:wherryj@senet.com.au)
