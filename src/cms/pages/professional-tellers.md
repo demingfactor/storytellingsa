@@ -108,6 +108,13 @@ Email: [wherryj@senet.com.au](https://web.archive.org/web/20200308052628/mailto:
 
 ###### Tony’s stories have an authentic Aussie flavour. He has worked as a travelling entertainer on The Ghan, The India Pacific and The Overland trains. Most of his performances are for mature audiences including Senior Citizens Groups, Probus Clubs, Legacy Ladies Clubs etc. He is an accomplished performer and artist. Read More...
 
+
+
+Tony commenced his storytelling carrier in 2003 when he joined the McLaren Vale Folk Club.  His stories have an authentic Aussie flavour drawing on his experiences as a Stock and Station Agent earlier in his life.  He draws his inspiration from traditional poets such as Henry Lawson, J C Dennis and Banjo Paterson as well as from contemporary works by modern writers.  His stories cover the full gamut of emotions -   excitement, pathos and humour and are delivered with powerful energy. Tony was engaged on several occasions to present to overseas visitors touring with Odyssey Travel, he has also worked as a travelling entertainer on The Ghan, The India Pacific and The Overland trains.  Most of his performances are for mature audiences including Senior Citizens Groups, Probus Clubs, Legacy Ladies Clubs etc.  He has been involved in The Fringe in 2012, 2013 & 2014 performing  to full houses.  He is an accomplished performer and artist.
+
+Phone Number: 08 8298 6914\
+Email Address: tonywight \[at] adam.com.au
+
 ![](https://web.archive.org/web/20200308052628im_/http://storytellingsa.org.au/wp-content/uploads/2014/12/grahamcropped-239x300.jpg)
 
 [](<>)
