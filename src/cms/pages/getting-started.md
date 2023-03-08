@@ -10,8 +10,6 @@ permalink: /{{url}}/index.html
 
 ### **What sort of stories can one tell?**
 
-
-
  ... all sorts
 
 cultural stories
@@ -66,7 +64,6 @@ cultural stories
 
 zoom stories (for a z entry)
 
-
 ### Infinite range of story themes and motifs
 
 Stories are also grouped in collections by reference to:
@@ -94,7 +91,7 @@ Stories are also grouped in collections by reference to:
 * practice storytelling skills
 * develop an organisational culture
 * provoke self-reflection on personal attitudes about controversial topics (e.g. racism, sexism etc)
-* play and dance with spoken language
+* play and "dance" with the spoken language
 * embed quality language patterns for children as they listen and learn
 * ... and more!
 
@@ -114,13 +111,13 @@ Non-oral storytelling is also part of many cultural activities including film, w
 * family and community events and clubs where they tell quite professionally (e.g. weddings; birthdays; reunions).
 * special events where a subgroup of Members may tell a program of stories (e.g. Medieval Fair, Residential Care facilities, Festivals. If a payment is involved, a percentage is donated to the association.
 
-**Professional Storytellers** - Career tellers who maintain themselves as a business. It's their main occupation and they may tell at:
+**Professional Storytellers** - Career tellers maintain themselves as a business. It's their main occupation and they may tell at:
 
-* Social & Educational Institutions : for example, working in schools, kindergartens, universities, festivals, social clubs)
-* Business training seminars, in psychotherapy, on trains, planes and tour cruisers.
-* Special commissioned project performances (alone or in collaboration with other storytellers, musicians, or visual or performing artists)
+* Social & Educational Institutions: for example, working in schools, kindergartens, universities, festivals, social clubs
+* Business training seminars, in psychotherapy, on trains, planes and cruise ships.
+* Special commissioned project performances - alone or in collaboration with other storytellers, musicians, or visual or performing artists.
 
-## **Before telling, Tellers think about...**
+## **In preparation, Tellers think about...**
 
 **Selecting, modifying or writing** a story for oral storytelling, which **are all arts in their own right**. 
 
@@ -134,4 +131,4 @@ It does not take much reflection to discover that how you go about preparing and
 * **Tell the story aloud to yourself (with and then without notes).** If possible picture each event/scene in the story as you tell it (some people are better visualiser than others so don't give yourself a hard time doing this)…… Afterwards, note where you have fluency and feel satisfied, where you want to find better wording (e.g. when you get tongue tied), and where your mind goes blank - all normal during practices.
 * **Practice & Repeat** the process with the same experimental, playful attitude. Space your repetitions. Some people find useful telling…while looking in a mirror; to a dog, cat, parrot or a shrub; a supportive friend/partner; to a baby, making a recording to listen to.
 
-\*\* *You may like also to obtain a free booklet* Tips for storytelling* which includes further hints and guidelines for preparing a story to tell at a story-sharing meeting. ***\[See Contact Us]***
+\*\* *You may like also to obtain a free booklet* Tips for Storytelling* which includes further hints and guidelines for preparing a story to tell at a story-sharing meeting. These are available at our meetings.
