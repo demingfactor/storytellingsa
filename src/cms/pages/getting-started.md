@@ -8,7 +8,7 @@ permalink: /{{url}}/index.html
 ---
 ## **How Oral Storytelling May Vary**
 
-### **Vary in types of stories**
+### **What sort of stories can you tell?**
 
 * folk-tales 
 * myths
@@ -43,7 +43,7 @@ Stories are also grouped in collections by reference to:
 
 ### **Variety of purpose.**
 
-### **To…**
+#### **Storytellers tell stories to…**
 
 * entertain, distract, and divert
 * develop oracy and literacy
@@ -66,7 +66,7 @@ Stories are also grouped in collections by reference to:
 
 ### **Is there anything that can’t be done with storytelling?**
 
-By far the most common purposes are to entertain, distract, and divert. And of course, these main purposes may be achieved concurrently with any others .\
+By far the most common purposes are to entertain, distract, and divert. And of course, these main purposes may be achieved concurrently with any others.\
 Many of these purposes, however, can only be achieved with very specific story types, by using the stories as part of a well-designed workshop, or by incorporating storytelling into skilful teaching processes.
 
 ### **Occasions and settings where Storytellers may tell …**
@@ -84,9 +84,9 @@ Many of these purposes, however, can only be achieved with very specific story t
 * Business training seminars, in psychotherapy, on trains, planes and tour cruisers.
 * Special commissioned project performances (alone or in collaboration with other storytellers, musicians, or visual or performing artists)
 
-## **Tellers think about...**
+## **Before telling, Tellers think about...**
 
-**Selecting, modifying or writing** a story for oral storytelling **are all arts in their own right**. 
+**Selecting, modifying or writing** a story for oral storytelling, which **are all arts in their own right**. 
 
 In what follows it‘s assumed you have a **relatively well-formed story you wish to prepare and learn for telling**. There are more detailed guidelines elsewhere to address the practical considerations of what you might do immediately before a telling/performance and during your telling.
 
