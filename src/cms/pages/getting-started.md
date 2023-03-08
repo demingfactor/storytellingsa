@@ -41,7 +41,7 @@ Stories are also grouped in collections by reference to:
 * specific **region** or country - India, Ghana, Iceland 
 * recurrent **motifs** - abandonment, transformation, lost in forest, quest).
 
-### **Variety of purpose.** 
+### **Variety of purpose.**
 
 ### **To…**
 
@@ -71,8 +71,6 @@ Many of these purposes, however, can only be achieved with very specific story t
 
 ### **Occasions and settings where Storytellers may tell …**
 
-
-
 **Member storytellers tell at:**
 
 * their regular story sharing meetings
@@ -81,11 +79,12 @@ Many of these purposes, however, can only be achieved with very specific story t
 * special events where a subgroup of Members may tell a program of stories (e.g. Medieval Fair, Residential Care facilities, Festivals. If a payment is involved, a percentage is donated to the association.
 
 **Professional Storytellers** - Career tellers who maintain themselves as a business. It's their main occupation and they may tell at:
+
 * Social & Educational Institutions : for example, working in schools, kindergartens, universities, festivals, social clubs)
 * Business training seminars, in psychotherapy, on trains, planes and tour cruisers.
 * Special commissioned project performances (alone or in collaboration with other storytellers, musicians, or visual or performing artists)
 
-## **Teller Deliberations - new and experienced**
+## **Tellers think about...**
 
 **Selecting, modifying or writing** a story for oral storytelling **are all arts in their own right**. 
 
