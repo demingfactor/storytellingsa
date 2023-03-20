@@ -32,4 +32,4 @@ Membership entitles you to:
       **Storytelling Australia (SA) Inc,** and then send to:
 
  **Treasurer, Storytelling Australia (SA) Inc.  215 Angas Street, Adelaide SA 5000**
-* **EFT -** email the Treasurer contact@storytellingsa.org.au Including your name, address (for acknowlegemnt and receipt of fees) and contact details and request the Electronic Funds Transfer [EFT] details.
+* **EFT -** ask the Treasurer in email to contact@storytellingsa.org.au Including your name, address (for acknowlegemnt and receipt of fees) and contact details and request the Electronic Funds Transfer [EFT] details.
