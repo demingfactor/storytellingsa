@@ -21,14 +21,16 @@ Membership entitles you to:
 * be covered for public indemnity insurance when telling stories in public
 * have available several forms of free advertising as a storyteller, if you tell stories professionally
 
-##  **Membership** 
+##  **Membership**
 
-**Anual Subscription** as at 1/1/23     Full Membership $40.00    Concession $30.00 
+**Subscriptions** as at 1/1/23     Full Membership $40.00    Concession $30.00 
+
+Anual membership fees usually collected at our February AGM which is a fun, no obligation, look forward to event!
 
 ### **Fee payment options**
 
-* **In person –** Attend a meeting and say you'd like to join. Bring cash to the meeting.          
-See Program published each March for meeting details.
+* **In person –** Attend a meeting and say you'd like to join. Bring cash to the meeting.\
+  See **Program** published each March for meeting details.
 * **Post -** Send your request, including your name, address and contact details, and your cheque or money order made payable to:
        **Storytelling Australia (SA) Inc.**
 
