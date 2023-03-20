@@ -27,7 +27,7 @@ Membership entitles you to:
 
 * If unsure, come as a Guest, experience Storytelling, then decide about joining.
 * Annual membership fees usually collected at our February AGMs -  fun, no obligation events! 
-* Can join at any time. (If very late in year your fees cover the next year :)!
+* Can join at any time. (If very late in year, your fees cover the next year :)
 
 
 ### **Fee payment options**
@@ -38,6 +38,6 @@ Membership entitles you to:
        **Storytelling Australia (SA) Inc.**
 
   **Postal Address:** Storytelling Australia (SA) Inc.  215 Angas Street, Adelaide SA 5000
-* **EFT -** email your request to pay membership fees using EFT. Include your name, address and contact details. 
+* **EFT -** email your request to join by paying membership fees using EFT. Include your name, address and contact details. 
 
   **Email address:** ***contact@storytellingsa.org.au***  .
