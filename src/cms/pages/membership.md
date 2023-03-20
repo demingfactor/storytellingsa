@@ -10,7 +10,7 @@ permalink: /{{url}}/index.html
 
 Membership with Storytelling Australia (SA) Inc is open to anyone who has an interest in oral storytelling, and/or listening to stories.
 
-Membership entitles you to:
+**Entitlements:**
 
 * know you are actively promoting the art of oral storytelling in the wider community
 * receive 3 issues of the ‘Pied Piper’ newsletter each year
