@@ -1,7 +1,8 @@
 ---
 layout: layouts/cms/page.html
 type: page
-title: More about Storytelling
+title: "More about Storytelling "
+subtitle: In South Australia
 date: 2023-03-08T02:48:25.297Z
 url: moreaboutstorytelling
 permalink: /{{url}}/index.html
