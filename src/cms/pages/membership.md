@@ -6,7 +6,7 @@ date: 2022-09-23T07:49:01.469Z
 url: membership
 permalink: /{{url}}/index.html
 ---
-Membership
+**Membership**
 
 Membership with Storytelling Australia (SA) Inc is open to anyone who has an interest in oral storytelling, and/or listening to stories.
 
@@ -21,15 +21,17 @@ Membership entitles you to:
 * be covered for public indemnity insurance when telling stories in public
 * have available several forms of free advertising as a storyteller, if you tell stories professionally
 
-##  **Membership** as at January 2023
+##  **Membership** 
 
-**Subscriptions**     Full membership $40.00    Concession $30.00 
+**Anual Subscription** as at 1/1/23     Full Membership $40.00    Concession $30.00 
 
-### **Membership options**
+### **Fee payment options**
 
 * **In person –** Attend a meeting and say you'd like to join. Bring cash to the meeting.
-* **Post -** Send your request, including your name, address and contact details, with a cheque or money order made payable to:
-       **Storytelling Australia (SA) Inc**
+* **Post -** Send your request, including your name, address and contact details, and your cheque or money order made payable to:
+       **Storytelling Australia (SA) Inc.**
 
   **Postal Address:** Storytelling Australia (SA) Inc.  215 Angas Street, Adelaide SA 5000
-* **EFT -** Send your request to pay membership fees via EFT. include your name, address and contact details. **Email address:** ***contact@storytellingsa.org.au***  .
+* **EFT -** email your request to pay membership fees using EFT. Include your name, address and contact details. 
+
+  **Email address:** ***contact@storytellingsa.org.au***  .
