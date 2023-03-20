@@ -21,13 +21,14 @@ Membership entitles you to:
 * be covered for public indemnity insurance when telling stories in public
 * have available several forms of free advertising as a storyteller, if you tell stories professionally
 
-## **Become a Member**
+## **Becoming a Member**
 
 **Subscriptions** as at 1/1/23     Full Membership $40.00    Concession $30.00 
 
-Annual membership fees usually collected AGMs in February. It's a fun, no obligation event! 
+* If unsure, come as a Guest, experience Storytelling, then decide about joining.
+* Annual membership fees usually collected at our February AGMs -  fun, no obligation events! 
+* Can join at any time. (If very late in year your fees cover the next year :)!
 
-However, one can join at any time.
 
 ### **Fee payment options**
 
