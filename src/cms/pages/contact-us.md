@@ -13,6 +13,6 @@ permalink: /{{url}}/index.html
 **Facebook** [https://www.facebook.com/storytellingsa](https://web.archive.org/web/20200308052604/https://www.facebook.com/storytellingsa)\
 **Postal Address** 215 Angas Street Adelaide, SA 5000 
 
-Olga FARNILL (President)               | \[contact[at]storytellingsa.org.au](https://web.archive.org/web/20200308052604/mailto:contact@storytellingsa.org.au) (Show you are not a machine by inserting @ symbol) |
+Olga FARNILL (President)\[contact[at]storytellingsa.org.au](https://web.archive.org/web/20200308052604/mailto:contact@storytellingsa.org.au) (Show you are not a machine by inserting @ symbol) |
 | Maggie THOMAS (Secretary)              | [contact@storytellingsa.org.au](https://web.archive.org/web/20200308052604/mailto:contact@storytellingsa.org.au)                                                        |
 | Graham ROSS (Special Projects Officer) | gfross\[at]merlin.net.au   (show you are not a machine by inserting @ symbol)                                                                                           |
