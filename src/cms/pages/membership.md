@@ -44,4 +44,3 @@ Membership with Storytelling Australia (SA) Inc is open to anyone who has an int
 
   **Email address:** ***contact@storytellingsa.org.au***  
 
-*  **On-line Application** : oooooops, sorry - being re-vamped.
