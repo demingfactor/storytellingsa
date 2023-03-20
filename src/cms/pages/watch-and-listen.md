@@ -7,13 +7,15 @@ date: 2021-11-30T02:01:35.670Z
 url: watch-and-listen
 permalink: /{{url}}/index.html
 ---
-Select a site of interest…
+**Select a site of interest …** 
+
+**... and let us know if you find others to share.**
 
 ***[Storylab](https://storylabx.tumblr.com/)***\
 A delightful website to sample the variety of storytellers who have been recorded on You-Tube. You can **see** **and hear** live performances, displaying their distinctive styles, usually in live performance situations. Recordings are slightly variable in technical quality, shown within a ‘shell' of a movie screen on your computer. Streaming quality will depend on what speed your computer/modem works, but still worthwhile.
 
 ***[Jeff Gere](http://jeffgere.com/)***\
-Jeff Gere hails from Honalulu, Hawaii, and is both a multitalented storyteller and  an organiser of festivals and gatherings of storytellers. His enthusiasm, presence, physical expression, and prowess as a performer may stimulate ideas and possibilities for your own telling. His shirts are quite an Hawaiin statement too!
+Jeff Gere hails from Honalulu, Hawaii, and is both a multitalented storyteller and  an organiser of festivals and gatherings of storytellers. His enthusiasm, presence, physical expression, and prowess as a performer may stimulate ideas and possibilities for your own telling. His shirts are quite an Hawaiian statement too!
 
 ***[The Moth](http://www.themoth.org/)***\
 The ‘moth' alludes to people attracted to stories (like moths to lights). This site includes recordings of 5-12 minute personal stories recorded live. The emphasis is on people telling crafted personal stories about their most exceptional experiences. Click on left hand menu **Storytellers** then click on button **Listen to Stories.** No image of the teller.
