@@ -28,6 +28,7 @@ Membership entitles you to:
 ### **Fee payment options**
 
 * **In person –** Attend a meeting and say you'd like to join. Bring cash to the meeting.
+See Program published each March for meeting details.
 * **Post -** Send your request, including your name, address and contact details, and your cheque or money order made payable to:
        **Storytelling Australia (SA) Inc.**
 
