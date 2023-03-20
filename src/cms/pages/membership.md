@@ -8,8 +8,6 @@ permalink: /{{url}}/index.html
 ---
 Membership
 
-
-
 Membership with Storytelling Australia (SA) Inc is open to anyone who has an interest in oral storytelling, and/or listening to stories.
 
 Membership entitles you to:
@@ -23,13 +21,15 @@ Membership entitles you to:
 * be covered for public indemnity insurance when telling stories in public
 * have available several forms of free advertising as a storyteller, if you tell stories professionally
 
-##  **Membership**
+##  **Membership** as at January 2023
 
 **Subscriptions**     Full membership $40.00    Concession $30.00 
 
 ### **Membership options**
 
-* **In person –** print out [membership form](https://web.archive.org/web/20200308052303/http://storytellingsa.org.au/files/membershipform.pdf) (not the form below), complete it, and bring it with cash/ cheque to a meeting.
-* **Post** - print out [membership form](https://web.archive.org/web/20200308052303/http://storytellingsa.org.au/files/membershipform.pdf) (not the form below), complete it, and send it to us with an accompanying cheque or money order made payable to **Storytelling Australia (SA) Inc,** and then send to **The Treasurer, Storytelling Australia (SA) Inc  213-215 Angas Street, Adelaide SA 5000**
-* **Mixed mode –** That is paying by EFT and posting the completed membership form. Print out the [membership form](https://web.archive.org/web/20200308052303/http://storytellingsa.org.au/files/membershipform.pdf) (not the form below), and then email the **Treasurer** at [contact@storytellingsa.org.au](https://web.archive.org/web/20200308052303/mailto:contact@storytellingsa.org.au) for banking details and instructions.
-* **On line entirely** – complete the Interactive Membership Form below and email the **Treasurer** at [contact@storytellingsa.org.au](https://web.archive.org/web/20200308052303/mailto:contact@storytellingsa.org.au) for banking details.
+* **In person –** Attend a meeting and say you'd like to join. Bring cash to the meeting.
+* **Post -** Send your name and contact details with a cheque or money order made payable to
+ **Storytelling Australia (SA) Inc,** and then send to:
+
+ **The Treasurer, Storytelling Australia (SA) Inc.  215 Angas Street, Adelaide SA 5000**
+**EFT details from Treasurer - contact email contact@storytellingsa.org.au
