@@ -1,7 +1,7 @@
 ---
 layout: layouts/cms/page.html
 type: page
-title: The Storytelling Bookshelf
+title: Storytelling Bookshelf
 date: 2021-11-30T03:02:01.330Z
 url: bookshelf
 permalink: /{{url}}/index.html
