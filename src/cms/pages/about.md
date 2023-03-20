@@ -8,11 +8,11 @@ permalink: /{{url}}/index.html
 ---
 Storytelling Australia (SA) is a not for profit group who love to tell and be told stories.
 
-As members, we do this at our meetings by:
+**As members, we do this at our meetings by**:
 
-* practising the art of ORAL storytelling live,
-* cultivating our appreciation as story-listeners,
-* discerning what make effective and timely stories to tell.
+* **practising** the art of ORAL storytelling live,
+* cultivating our appreciation as story **listeners**,
+* **discerning** what makes effective and timely **stories to tell**.
 
 We also promote the art of ORAL storytelling in the wider community
 
@@ -20,9 +20,9 @@ We also promote the art of ORAL storytelling in the wider community
 
 As oral storytellers, we vary in:
 
-* the types of story we tell – folk tales, wisdom stories, crafted personal stories
-* our purposes when we tell – entertain, convey insight, express ourselves
-* the occasions and settings where we tell – regular story sharing meetings, concerts, festivals.
+* the **types of story** we tell – folk tales, wisdom stories, crafted personal stories
+* our **purposes** when we tell – entertain, convey insight, express ourselves
+* the occasions and settings **where we tell** – regular story sharing meetings, concerts, festivals.
 
 **[Our members who tell professionally](https://web.archive.org/web/20200308052244/http://storytellingsa.org.au/protellers/ "Professional Tellers")** and also the wider community of professional storytellers may vary even more in these aspects.
 
@@ -34,7 +34,7 @@ While we recognise the value of using notes in public speaking our standard prac
 
 # xxxxxxxxxx
 
-# Add below this to a PAGE Called "More About Storytelling" 
+# Add below this to a PAGE Called "More About Storytelling"
 
 # xxxxxxxxx
 
