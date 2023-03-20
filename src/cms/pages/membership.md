@@ -29,12 +29,11 @@ Membership entitles you to:
 * Annual membership fees usually collected at our February AGMs -  fun, no obligation events! 
 * Can join at any time. (If very late in year, your fees cover the next year :)
 
-
 ### **Fee payment options**
 
 * **In person –** Attend a meeting and say you'd like to join. Bring cash to the meeting.
 
- **Meeting Locations:** See **Annual Program** (published each March).
+  **Meeting Locations:** See this years **Program** (published each March) - *sorry, just about readfy for publication.*
 * **Post -** Send your request, including your name, address and contact details, and your cheque or money order made payable to:
        **Storytelling Australia (SA) Inc.**
 
