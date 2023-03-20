@@ -23,10 +23,12 @@ Membership entitles you to:
 
 ## **Becoming a Member**
 
-**Subscriptions** as at 1/1/23     Full Membership $40.00    Concession **$30.00** 
+**Subscriptions** as at 1/1/23     
 
-* If unsure, come as a Guest, experience Storytelling, then decide about joining.
-* Annual membership fees usually collected at our February AGMs -  fun, no obligation events! 
+* Full Membership **$40.00**    
+* Concession **$30.00** 
+* Unsure? **Come as a Guest** - experience Storytelling, then decide about joining.
+* Annual membership fees usually collected at February AGMs -  no obligation fun events! 
 * Can join at any time. (If very late in year, your fees cover the next year :)
 
 ### **Fee payment options**
