@@ -42,4 +42,6 @@ Membership with Storytelling Australia (SA) Inc is open to anyone who has an int
   **Postal Address:** Storytelling Australia (SA) Inc.  215 Angas Street, Adelaide SA 5000
 * **EFT -** email your request to join by paying membership fees using EFT. Include your name, address and contact details. 
 
-  **Email address:** ***contact@storytellingsa.org.au***  .
+  **Email address:** ***contact@storytellingsa.org.au***  
+
+*  **On-line Application** : oooooops, sorry - being re-vamped.
