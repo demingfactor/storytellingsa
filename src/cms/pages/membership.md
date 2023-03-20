@@ -28,8 +28,8 @@ Membership entitles you to:
 ### **Membership options**
 
 * **In person –** Attend a meeting and say you'd like to join. Bring cash to the meeting.
-* **Post -** Send your name, address (for acknowlegemnt and receipt of fees) and contact details with a cheque or money order made payable to:
-      **Storytelling Australia (SA) Inc,** and then send to:
+* **Post -** Send your request, including your name, address and contact details, with a cheque or money order made payable to:
+       **Storytelling Australia (SA) Inc,** and then send to:
 
- **Treasurer, Storytelling Australia (SA) Inc.  215 Angas Street, Adelaide SA 5000**
-* **EFT -** ask the Treasurer in email to contact@storytellingsa.org.au Including your name, address (for acknowlegemnt and receipt of fees) and contact details and request the Electronic Funds Transfer [EFT] details.
+  **Treasurer, Storytelling Australia (SA) Inc.  215 Angas Street, Adelaide SA 5000**
+* **EFT -** Send your request to pay membership fees via EFT. include your name, address and contact details. **Email address:** ***contact@storytellingsa.org.au***  .
