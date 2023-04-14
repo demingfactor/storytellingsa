@@ -1,7 +1,7 @@
 {% layout '../base.html' %}
 
 {% block content %}
-<section id="main-content" class="w-full flex flex-col items-center gap-4 p-4 sm:gap-12 sm:p-12 bg-df-yellow-light">
+<section id="main-content" class="w-full flex flex-col items-center gap-2 p-4 sm:gap-4 sm:p-12 bg-df-yellow-light">
   <h1 class="mob:text-3xl text-6xl font-bold">{{ title }}</h1>
   {% for post in collections.all reversed %}
     {% if post.data.topics contains topic %}

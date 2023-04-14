@@ -1,7 +1,7 @@
 {% layout '../base.html' %}
 
 {% block content %}
-<section id="main-content" class="w-full flex flex-col items-center gap-4 p-4 sm:gap-12 sm:p-12 bg-df-yellow-light">
+<section id="main-content" class="w-full flex flex-col items-center gap-2 p-4 sm:gap-4 sm:p-12 bg-df-yellow-light">
     <h1 class="text-3xl md:text-5xl font-bold">{{ title }}</h1>
     <div class="flex flex-col items-center w-full gap-2">
         {% for post in collections.all reversed %}

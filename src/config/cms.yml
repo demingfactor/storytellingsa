@@ -1,8 +1,8 @@
+local_backend: true
+
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-
-local_backend: true
 
 publish_mode: editorial_workflow
 media_library:
@@ -21,15 +21,14 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/cms/article.html"}
       - {label: "Type", name: "type", widget: "hidden", default: "article"}
-      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Background", name: "background", widget: "relation", collection: "backgrounds", value_field: "title", search_fields: ["title"], display_fields: ["title"], multiple: false}
       - {label: "Title", name: "title", widget: "string", pattern: ['^[\s\S]{1,110}$', 'Please keep your title to under 110 characters!']}
-      - {label: "Article Slug", name: "slug", widget: "string", pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', 'A slug can have no spaces or special characters']}
       - {label: "Subtitle", name: "subtitle", widget: "string", required: false, pattern: ['^[\s\S]{1,140}$', 'Please keep your title to under 140 characters!']}
       - {label: "Author", name: "author", widget: "string"}
-      - {label: "Topics", name: "topics", widget: "relation", collection: "topics", value_field: "topic", search_fields: ["title"], display_fields: ["title"], multiple: true}
+      - {label: "Topics", name: "topics", widget: "relation", collection: "topics", value_field: "topic", search_fields: ["title"], display_fields: ["title"], multiple: true, required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/articles/{{ slug }}/index.html"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/{{ type }}/{{ page.date | date: '%Y-%m-%d' }}-{{ page.fileSlug }}/index.html"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "events" # Used in routes, e.g., /admin/collections/blog
     label: "Events" # Used in the UI
@@ -40,11 +39,11 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/cms/event.html"}
       - {label: "Type", name: "type", widget: "hidden", default: "event"}
       - {label: "Title", name: "title", widget: "string", pattern: ['^[\s\S]{1,110}$', 'Please keep your title to under 110 characters!']}
-      - {label: "Subtitle", name: "subtitle", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
       - {label: "Date of Event", name: "date", widget: "datetime"}
       - {label: "Location", name: "location", widget: "map", default: '{"type":"Point","coordinates":[138.5993358,-34.9267792]}' }
       - {label: "Location Details", name: "location_details", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/events/{{ slug }}/index.html"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/{{ type }}/{{ page.fileSlug }}/index.html"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "topics"
     label: "Topics"
@@ -56,7 +55,7 @@ collections:
       - {label: "Type", name: "type", widget: "hidden", default: "topic"}
       - {label: "Topic Name", name: "title", widget: "string"}
       - {label: "Topic Slug", name: "topic", widget: "string", pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', 'A slug can have no spaces or special characters']}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/topics/{{ topic }}/index.html"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/{{ type }}/{{ topic }}/index.html"}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Pages" # Used in the UI
     folder: "/src/cms/pages" # The path to the folder where the documents are stored

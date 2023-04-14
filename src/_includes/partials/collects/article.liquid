@@ -16,7 +16,7 @@
     <div class="flex flex-wrap pt-2 gap-1 md:gap-2 self-end">
       {%- for slug in post.data.topics -%}
       <div class="">
-        <a class="hover:text-gray-700 underline" href="/topics/{{ slug }}/">
+        <a class="hover:text-green-700 underline" href="/topics/{{ slug }}/">
           {% assign topicname = slug | split: "-" %}
           {% for topictitle in topicname %}
           {{ topictitle | capitalize }}
