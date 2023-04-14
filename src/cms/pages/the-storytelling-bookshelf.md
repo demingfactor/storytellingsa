@@ -1,7 +1,7 @@
 ---
 layout: layouts/cms/page.html
 type: page
-title: The Storytelling Bookshelf
+title: Storytelling Bookshelf
 date: 2021-11-30T03:02:01.330Z
 url: bookshelf
 permalink: /{{url}}/index.html
@@ -12,11 +12,12 @@ permalink: /{{url}}/index.html
 
 Tim Sheppard in England generously offers ‘Storytellers FAQ' beginning with a story, accessible on his website [here (Archived)](https://web.archive.org/web/20200227124008/http://www.timsheppard.co.uk/story/faq.html).\
 *[Learn more about Archived Sites](/internet-archive/)*
+
 </div>
 
 <div id="improving-your-craft">
 
-## **More guidance for telling oral stories**
+## **Guidance books for telling oral stories**
 
 **Lipman, Doug (1999) *Improving Your Storytelling: Beyond the Basics for all Who Tell Stories in Work or Play* August House: Little Rock, Kansas.**\
 Guaranteed to provide practical insights into how you prepare and learn stories to tell. Lipman brings his personal experience and principled thinking to his guidance; a wise, outstanding coach.
