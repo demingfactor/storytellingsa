@@ -11,8 +11,32 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 2:004:00pm Story-sharing 
 
-***Theme: Sinful...***
+**THEME** for this month:
 
-Dover Gardens Scout Hall, 26 Quintus Tce, Dover Gardens
+***"Sinful..."***
 
-Enq: Vivienne Fisher 0439 420 994
+The theme is an inspirational catalysts, open to creative interpretations. 
+
+**Venue**
+
+Dover Gardens Scout Hall, 26 Quintus Terrce, Dover Gardens SA 5048
+
+**Program**
+
+**1:00pm**    Bring your own finger-food lunch and share conversation  
+
+**2:00 - 4.00 pm**    Story-sharing (with a refreshments break) 
+
+* **Directions**  - Meet  in the  Scout Hall
+
+  **Invitation**  
+* New attendees are welcome. Just turn up if your interest is sparked.\
+  Stories designed for adults rather than young children. 
+*
+
+**Costs**   
+
+* $5 Donation/raffle appreciated.\
+  Funds also raised by Produce Stall which people add to &/or buy from.
+
+Enquiries: Vivienne Fisher 0439 420 994
