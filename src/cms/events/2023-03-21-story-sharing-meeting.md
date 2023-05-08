@@ -8,12 +8,14 @@ location: '{"type":"Point","coordinates":[121.3972429,-39.0154007]}'
 location_details: Knightsbridge Girl Guides Hall
 permalink: /events/{{ page.fileSlug }}/index.html
 ---
+**Past Event**
+
 **Saturday 25 March 2023**
 
 **THEME** this month is:
 
 **"De-Cluttering"**
- 
+
 Themes are catalysts and open to creative interpretations.   
 
 **1:00pm**    Bring your own finger-food lunch but share conversation  
@@ -22,16 +24,17 @@ Themes are catalysts and open to creative interpretations.
 
 **Venue**
 
-* Knightsbridge Girl Guides Hall**, Corner of** Rochester Street & Howard Terrace, Leabrook.  
-Can park on either street. 
+* Knightsbridge Girl Guides Hall**, Corner of** Rochester Street & Howard Terrace, Leabrook.\
+  Can park on either street. 
+* **Directions**  - Meet  in the  Guide Hall, within "Philps Reserve". Of the two buildings, Guide Hall (with the ramp up to the door) is in middle.\
+  It's not *Meals-on-Wheels* building close to Nth/West corner - not that one!
 
-* **Directions**  - Meet  in the  Guide Hall, within "Philps Reserve". Of the two buildings, Guide Hall (with the ramp up to the door) is in middle.  
-It's not *Meals-on-Wheels* building close to Nth/West corner - not that one!
+ **Invitation**  
 
-** Invitation**  
-* New attendees are welcome. Just turn up if your interest is sparked.  
-Stories designed for adults rather than young children. 
+* New attendees are welcome. Just turn up if your interest is sparked.\
+  Stories designed for adults rather than young children. 
 
 **Costs**   
-*  $5 Donation/raffle appreciated.  
-Funds also raised by Produce Stall which people add to &/or buy from.
+
+* $5 Donation/raffle appreciated.\
+  Funds also raised by Produce Stall which people add to &/or buy from.
