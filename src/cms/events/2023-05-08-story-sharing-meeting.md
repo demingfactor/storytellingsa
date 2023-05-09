@@ -25,8 +25,8 @@ Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens SA 5048
 
 **Invitation**  
 
-* Guests welcome. Just turn up if your interest is sparked - join if/when you feel keen.
-* Stories designed for adults rather than young children. 
+* Guests welcome - turn up if your interest is sparked - join if/when you feel keen.
+* Stories designed for adults rather than children. 
 * Be a Listener or, if you have a prepared story, a Teller - let the MC know at meeting.
 
 **Cost**s   
