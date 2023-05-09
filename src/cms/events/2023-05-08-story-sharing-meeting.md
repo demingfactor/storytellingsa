@@ -7,7 +7,7 @@ location: '{"type":"Point","coordinates":[138.5993358,-34.9267792]}'
 location_details: Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-**Saturday 13 May 2023** 1:00pm Lunch - bring finger food to share. 
+ **Saturday 13 May 2023** 1:00pm Lunch - bring finger food to share. 
 
 2:004:00pm Story-sharing 
 
@@ -19,7 +19,7 @@ The theme is an inspirational catalysts, open to creative interpretations.
 
 **Venue**
 
-Dover Gardens Scout Hall, 26 Quintus Terrce, Dover Gardens SA 5048
+Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens SA 5048
 
 **Program**
 
@@ -27,16 +27,18 @@ Dover Gardens Scout Hall, 26 Quintus Terrce, Dover Gardens SA 5048
 
 **2:00 - 4.00 pm**    Story-sharing (with a refreshments break) 
 
-* **Directions**  - Meet  in the  Scout Hall
+**Directions**  - Meet  in the  Scout Hall
 
-  **Invitation**  
-* New attendees are welcome. Just turn up if your interest is sparked.\
+**Invitation**  
+
+* Guests welcome. Just turn up if your interest is sparked. Join if, or when, you feel keen.\
   Stories designed for adults rather than young children. 
-*
+  Be a Listener or, if you have a prepared story, a Teller - let the MC know at meeting.
 
-**Costs**   
+**Cost**s   
 
-* $5 Donation/raffle appreciated.\
-  Funds also raised by Produce Stall which people add to &/or buy from.
+* **$5** Donation/raffle appreciated.\
+  **Produce Stall** sales also raise funds. People donate to &/or buy from it during breaks.
+  Annual Member fee is $40 or $35 Concession
 
-Enquiries: Vivienne Fisher 0439 420 994
+Enquiries: Contact@storytellingsa.org.au
