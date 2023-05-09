@@ -9,23 +9,19 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
  **Saturday 13 May 2023** 
 
-1:00pm Lunch - bring finger food to share. 
+**Program**
 
-2:004:00pm Story-sharing 
+**1:00 - 2:00pm**  Lunch - bring finger-food lunch to share. (Some prefer own lunch box - with Covid in mind.) 
 
-**THEME** for this month:
-
-***"Sinful..."***  The theme is an inspirational catalysts & open to creative interpretation. 
+**2:00 - 4.00 pm**  Story-sharing with refreshments break. Usually 6-10 stories, between 2 - 12 mins long
 
 **Venue**
 
 Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens SA 5048
 
-**Program**
+**THEME** for this month:
 
-**1:00pm**    Bring finger-food lunch to share. (Some prefer own lunch box - with Covid in mind.) 
-
-**2:00 - 4.00 pm**    Story-sharing (with a refreshments break) 
+***"Sinful..."***  The theme is an inspirational catalysts & open to creative interpretation. 
 
 **Invitation**  
 
