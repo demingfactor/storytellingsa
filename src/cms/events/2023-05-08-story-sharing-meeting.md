@@ -31,14 +31,14 @@ Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens SA 5048
 
 **Invitation**  
 
-* Guests welcome. Just turn up if your interest is sparked. Join if, or when, you feel keen.\
-  Stories designed for adults rather than young children. 
-  Be a Listener or, if you have a prepared story, a Teller - let the MC know at meeting.
+* Guests welcome. Just turn up if your interest is sparked - join when, you feel keen.
+* Stories designed for adults rather than young children. 
+* Be a Listener or, if you have a prepared story, a Teller - let the MC know at meeting.
 
 **Cost**s   
 
-* **$5** Donation/raffle appreciated.\
-  **Produce Stall** sales also raise funds. People donate to &/or buy from it during breaks.
-  Annual Member fee is $40 or $35 Concession
+* **$5** Donation/raffle appreciated.
+* **Produce Stall** sales also raise funds, people donate to &/or buy from it during breaks.
+* Annual **Member Fee** is $40 or $35 Concession
 
 Enquiries: Contact@storytellingsa.org.au
