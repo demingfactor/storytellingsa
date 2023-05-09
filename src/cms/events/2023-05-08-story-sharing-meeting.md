@@ -2,7 +2,7 @@
 layout: layouts/cms/event.html
 type: event
 title: Story-sharing Meeting
-date: 2023-05-13T22:39:38.475Z
+date: 2023-05-12T22:39:38.475Z
 location: '{"type":"Point","coordinates":[138.5349593,-35.0259399]}'
 location_details: Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
