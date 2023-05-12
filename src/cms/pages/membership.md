@@ -10,16 +10,18 @@ permalink: /{{url}}/index.html
 
 Membership with Storytelling Australia (SA) Inc is open to anyone who has an interest in oral storytelling, and/or listening to stories.
 
+**Specific Enquiries: *contact@storytellingsa.org.au***  
+
 **Entitlements:**
 
-* know you are actively promoting the art of oral storytelling in the wider community
-* receive 3 issues of the ‘Pied Piper’ newsletter each year
-* get reduced registration or entrance fees to workshops and major events such as concerts we sponsor
-* gain ready access to resources, support, and encouragement from members of Storytelling Australia (SA) and its network
-* participate fully with voting rights at the February AGM and other general meetings
-* receive information about additional storytelling events, and visiting storytellers
-* be covered for public indemnity insurance when telling stories in public
-* have available several forms of free advertising as a storyteller, if you tell stories professionally
+* Receive by email the annual Program of Meetings (Mar - Feb of next year) , updates and notices by emailknow you are actively promoting the art of oral storytelling in the wider community
+* Receive 3 issues of the ‘Pied Piper’ newsletter each year
+* Get reduced registration or entrance fees to workshops and major events such as concerts we sponsor
+* Gain ready access to resources, support, and encouragement from members of Storytelling Australia (SA) and its network
+* Participate fully with voting rights at the February AGM and other general meetings
+* Receive information about additional storytelling events, and visiting storytellers
+* Be covered for public indemnity insurance when telling stories in public
+* Have available several forms of free advertising as a storyteller, if you tell stories professionally
 
 ## **Becoming a Member**
 
@@ -42,5 +44,4 @@ Membership with Storytelling Australia (SA) Inc is open to anyone who has an int
   **Postal Address:** Storytelling Australia (SA) Inc.  215 Angas Street, Adelaide SA 5000
 * **EFT -** email your request to join by paying membership fees using EFT. Include your name, address and contact details. 
 
-  **Email address:** ***contact@storytellingsa.org.au***  
-
+  **Email address:** ***contact@storytellingsa.org.au***
