@@ -1,14 +1,14 @@
 ---
 layout: layouts/cms/article.html
-type: article
-image: PICT1680.JPG
-background: Brown
-title: "### **An altered state of mind**"
-slug: an-altered-state-of-mind
-subtitle: Insights from a Teller
 author: Tony Wight
 topics:
   - memberswhotellprofessionally
+slug: an-altered-state-of-mind
+type: article
+image: PICT1680.JPG
+background: Brown
+title: An altered state of mind
+subtitle: Insights from a Teller
 date: 2023-03-08T04:53:35.088Z
 permalink: /articles/{{ slug }}/index.html
 ---
