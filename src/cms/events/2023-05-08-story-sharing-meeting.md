@@ -7,7 +7,7 @@ location: '{"type":"Point","coordinates":[138.5349593,-35.0259399]}'
 location_details: Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
- **Saturday 13 May 2023** 
+ Past Event 13 May 2023 Story-sharing Meeting
 
 **Program**
 
