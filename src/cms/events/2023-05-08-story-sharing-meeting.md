@@ -5,6 +5,7 @@ title: Past Event 13 May 2023 Story-sharing Meeting
 date: 2023-05-12T22:39:38.475Z
 location: '{"type":"Point","coordinates":[138.5349593,-35.0259399]}'
 location_details: Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens
+archived: true
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
  Past Event 13 May 2023 Story-sharing Meeting

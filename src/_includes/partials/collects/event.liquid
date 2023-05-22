@@ -1,10 +1,26 @@
-<div id="{{ post.fileSlug }}" class="flex flex-col gap-2 max-w-2xl w-full p-8 rounded cursor-pointer bg-dark-green-500 hover:bg-dark-green-700 bg-tile-3 text-green-200"
+{% if post.data.archived %}
+  {% assign background = "bg-dark-green-800 hover:bg-dark-green-900" %}
+{% else %}
+  {% assign background = "bg-dark-green-500 hover:bg-dark-green-700" %}
+{% endif %}
+
+<div id="{{ post.fileSlug }}" class="flex flex-col gap-2 max-w-2xl w-full p-8 rounded cursor-pointer {{ background }} bg-tile-3 text-green-200"
   onclick="location.href='{{ post.url }}';">
   <a href="{{ post.url }}" class="text-2xl font-bold">
     <h2>{{ post.data.title }}</h2>
   </a>
   {% if post.data.subtitle %}
   <h3 class="font-bold">{{ post.data.subtitle }}</h3>
+  {% endif %}
+  {% if post.data.archived %}
+    <div class="flex items-center gap-2">
+      <svg class="w-6 h-6" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z" stroke-linecap="round" stroke-linejoin="round"></path>
+      </svg>
+      <p class="font-bold">
+        Past Event
+      </p>
+    </div>
   {% endif %}
   <div class="flex gap-1 items-start flex-col mob:items-end">
     <div class="flex items-center flex-row-reverse mob:flex-row gap-2">

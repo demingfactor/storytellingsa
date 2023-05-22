@@ -43,6 +43,7 @@ collections:
       - {label: "Date of Event", name: "date", widget: "datetime"}
       - {label: "Location", name: "location", widget: "map", default: '{"type":"Point","coordinates":[138.5993358,-34.9267792]}' }
       - {label: "Location Details", name: "location_details", widget: "string"}
+      - {label: "Mark as Past Event", name: "archived", widget: "boolean"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/{{ type }}/{{ page.fileSlug }}/index.html"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "topics"

@@ -12,6 +12,9 @@
         {% if subtitle %}
           <h2 class="text-lg md:text-3xl font-bold">{{ subtitle }}</h2>
         {% endif %}
+        {% if archived %}
+          <p>This is a past event, which has already ocurred.</p>
+        {% endif %}
       </div>
       <div>
         <div class="flex sm:flex-row-reverse items-center gap-2">
