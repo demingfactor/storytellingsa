@@ -3,7 +3,7 @@ layout: layouts/cms/event.html
 type: event
 title: 18 June 2023 Story-sharing Meeting
 date: 2023-05-22T02:29:28.235Z
-location: '{"type":"Point","coordinates":[138.5993358,-34.9267792]}'
+location: '{"type":"Point","coordinates":[138.5600359,-35.1031014]}'
 location_details: Woodcroft
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
@@ -16,7 +16,9 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 **2:00 - 4.00 pm**  Story-sharing with refreshments break. Usually 6-10 stories, between 2 - 12 mins long
 
 **Theme** 
+
 This month we explore from the starting point of "Heroes". 
+
 **Venue**
 
 Woodcroft. Privately hosted in a member's home. Contact@storytellingsa.org.au for details.
