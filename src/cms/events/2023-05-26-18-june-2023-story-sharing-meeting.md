@@ -13,7 +13,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 **1:00 - 2:00pm**  Lunch - bring finger-food to share. Some prefer own lunch box - with Covid in mind.
 
-**2:00 - 4.00 pm**  Story-sharing with refreshments break. Usually 6-10 stories, between 2 - 12 mins long
+**2:00 - 4.00 pm**  Story-sharing with a refreshment break. Usually 6 - 10 stories, between 2 - 12 mins long.
 
 **Theme** 
 
