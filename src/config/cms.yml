@@ -8,9 +8,9 @@ publish_mode: editorial_workflow
 media_library:
   name: cloudinary
   config:
-    cloud_name: demingfactor
-    api_key: 241867978174468
-    folder: {path: "storytelling", resource_type: "image"}
+    cloud_name: storytellingsa
+    api_key: 714928714281831
+    folder: {path: "cms", resource_type: "image"}
 
 collections:
   - name: "articles" # Used in routes, e.g., /admin/collections/blog
