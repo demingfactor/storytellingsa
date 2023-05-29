@@ -1,8 +1,8 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: "  Past Event March '23 Story-sharing Meeting"
-subtitle: "March '23 Story-sharing Meeting "
+title: "  Past Event - March 2023 Story-sharing Meeting"
+subtitle: ""
 date: 2023-03-20T09:49:37.056Z
 location: '{"type":"Point","coordinates":[121.3972429,-39.0154007]}'
 location_details: Knightsbridge Girl Guides Hall
@@ -12,7 +12,7 @@ permalink: /events/{{ page.fileSlug }}/index.html
 
 **Saturday 25 March 2023**
 
-**THEME** this month is:
+**THEME**:
 
 **"De-Cluttering"**
 
