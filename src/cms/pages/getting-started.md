@@ -6,61 +6,19 @@ date: 2021-11-30T01:52:02.008Z
 url: getting-started
 permalink: /{{url}}/index.html
 ---
-## **How Oral Storytelling May Vary**
+### jokes**What sort of stories can one tell?**
 
-### **What sort of stories can one tell?**
+ 
 
- ... all sorts
+All sorts - A to Z and more...
 
-cultural stories
+animal tales, big stories, cultural ones, epics, episodes from epics, fables, fairy-tales, folk-tales
 
-  epics
+ghost stories, heritage, historical, inspirational, jokes, legends, literary stories, myths, 
 
-  episodes from epics
+narratives poems,  parables for teaching, personal stories, sacred stories, slice of life, 
 
-  fables
-
-  fairy-tales
-
-  folk-tales
-
-  ghost stories
-
-  heritage
-
-  historical
-
-  inspirational stories
-
-  legends
-
-  literary stories
-
-  myths
-
-  narrative jokes
-
-  narrative poems
-
-  parables for teaching
-
-  personal stories
-
-  sacred stories
-
-  slice of life stories
-
-  tall stories
-
-  trickster stories
-
-  urban myths
-
-  wisdom tales
-
-  wonder stories
-
-  yarns
+tall stories, trickster stories, urban myths, wisdom tales, wonderous stories, yarns, 
 
 zoom stories (for a z entry)
 
