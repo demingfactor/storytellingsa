@@ -6,33 +6,34 @@ date: 2021-11-30T01:52:02.008Z
 url: getting-started
 permalink: /{{url}}/index.html
 ---
-### jokes**What sort of stories can one tell?**
+### **What sort of stories can one tell?**
 
- 
+
 
 All sorts - A to Z and more...
 
-animal tales, big stories, cultural ones, epics, episodes from epics, fables, fairy-tales, folk-tales
+* animal tales, big stories, cultural ones, epics, episodes from epics, 
+* fables, fairy-tales, folk-tales, funny stories
 
-ghost stories, heritage, historical, inspirational, jokes, legends, literary stories, myths, 
+* ghost stories, heritage, historical, inspirational, jokes, legends, literary, myths, 
 
-narratives poems,  parables for teaching, personal stories, sacred stories, slice of life, 
+* narratives, poems, parables, personal stories, sacred stories, slice of life, 
 
-tall stories, trickster stories, urban myths, wisdom tales, wonderous stories, yarns, 
+* tall stories, trickster stories, urban myths, wisdom tales, wondrous, yarns, 
 
-zoom stories (for a z entry)
+* zoom stories (for a z entry)
 
 ### Infinite range of story themes and motifs
 
 Stories are also grouped in collections by reference to:
 
-* a **theme** - animals, ecology, monsters 
-* specific **region** or country - India, Ghana, Iceland 
-* recurrent **motifs** - abandonment, transformation, lost in forest, quest).
+* a **theme** e.g. animals, ecology, monsters 
+* specific **region** or country e.g. India, Ghana, Iceland, sea or desert 
+* recurrent **motifs** e.g. abandonment, transformation, lost in forest, quest).
 
-### **Variety of purpose.**
+### **Purpose.**
 
-#### **Oral storytellers tell stories to…**
+#### **We tell stories to…**
 
 * entertain, distract, and divert
 * develop oracy and literacy
