@@ -8,7 +8,7 @@ location_details: Woodcroft
 archived: true
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-18 June 2023 Story-sharing Meeting
+Past Event 18 June 2023 Story-sharing Meeting
 
 **Program**
 
