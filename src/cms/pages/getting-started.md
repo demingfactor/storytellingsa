@@ -2,79 +2,35 @@
 layout: layouts/cms/page.html
 title: Getting Started
 subtitle: Getting Started with Storytelling
-date: 2021-11-30T01:52:02.008Z
+date: 2023-07-09T10:47:11.330Z
 url: getting-started
 permalink: /{{url}}/index.html
 ---
-## **How Oral Storytelling May Vary**
-
 ### **What sort of stories can one tell?**
 
- ... all sorts
 
-cultural stories
 
-  epics
+All sorts - A to Z and more...
 
-  episodes from epics
+* animal tales, big stories, cultural ones, epics, episodes from epics, 
+* fables, fairy-tales, folk-tales, funny stories
+* ghost stories, heritage, historical, inspirational, jokes, legends, literary, myths, 
+* narratives, poems, parables, personal stories, sacred stories, slice of life, 
+* tall stories, trickster stories, urban myths, wisdom tales, wondrous, yarns, 
+* zoom stories (for a z entry)
 
-  fables
-
-  fairy-tales
-
-  folk-tales
-
-  ghost stories
-
-  heritage
-
-  historical
-
-  inspirational stories
-
-  legends
-
-  literary stories
-
-  myths
-
-  narrative jokes
-
-  narrative poems
-
-  parables for teaching
-
-  personal stories
-
-  sacred stories
-
-  slice of life stories
-
-  tall stories
-
-  trickster stories
-
-  urban myths
-
-  wisdom tales
-
-  wonder stories
-
-  yarns
-
-zoom stories (for a z entry)
-
-### Infinite range of story themes and motifs
+### Themes and motifs - an infinite range  
 
 Stories are also grouped in collections by reference to:
 
-* a **theme** - animals, ecology, monsters 
-* specific **region** or country - India, Ghana, Iceland 
-* recurrent **motifs** - abandonment, transformation, lost in forest, quest).
+* a **theme** e.g. animals, ecology, monsters 
+* specific **region** or country e.g. India, Ghana, Iceland, sea or desert 
+* recurrent **motifs** e.g. abandonment, transformation, lost in forest, quest)
+* feel - light, dark, racy, sad, humorous, sad, heavy, short, lengthy 
 
-### **Variety of purpose.**
+### **Your Purpose?**
 
-#### **Oral storytellers tell stories to…**
+#### **We tell stories to…**
 
 * entertain, distract, and divert
 * develop oracy and literacy
@@ -90,8 +46,8 @@ Stories are also grouped in collections by reference to:
 * contribute to psychological healing
 * practice storytelling skills
 * develop an organisational culture
-* provoke self-reflection on personal attitudes about controversial topics (e.g. racism, sexism etc)
-* play and "dance" with the spoken language
+* provoke self-reflection on personal attitudes re controversial topics (e.g. racism, sexism etc)
+* "play" and "dance" with the spoken language and audience participation
 * embed quality language patterns for children as they listen and learn
 * ... and more!
 
