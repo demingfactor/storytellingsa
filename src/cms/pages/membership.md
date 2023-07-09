@@ -31,7 +31,7 @@ Membership with Storytelling Australia (SA) Inc. is open to anyone who has an in
 * Full Membership **$40.00**    
 * Concession **$30.00** 
 * Unsure? **Come as a Guest** - experience Storytelling, then decide about joining.
-* Annual membership fees collected at February AGMs or asap after. 
+* Annual membership fees collected at February AGM or asap after. 
 * AGMs are no obligation enjoyable events!
 * Can join at any time. (If very late in year, your fees may cover the next year :)
 
