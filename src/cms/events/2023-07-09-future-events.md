@@ -1,0 +1,28 @@
+---
+layout: layouts/cms/event.html
+type: event
+title: "Future Events "
+subtitle: for forward planning
+date: 2023-07-09T22:36:23.685Z
+location: '{"type":"Point","coordinates":[138.5993358,-34.9267792]}'
+location_details: Assorted
+archived: false
+permalink: /{{ type }}/{{ page.fileSlug }}/index.html
+---
+Sunday 13 August 1:00pm Lunch - bring finger food to share. 2:004:00pm Story-sharing Story-sharing Virtuous…  Private Home in Glenalta. 
+
+
+\*\*Saturday 16  September \*\*1:00pm Lunch - bring finger food to share. 2:004:00pm Story-sharing 
+On the Edge…  Gilberton Scout Hall , 3A Redmond Street, Collingswood.
+
+\*\*Sunday 22 October\*\* 1:00pm Lunch - bring finger food to share. 2:004:00pm Story-sharing Magic at Maggie’s… Private Home in  Christies Beach 
+
+\*\*Saturday  18  November\*\* 1:00pm Lunch - bring finger food to share. 2:004:00pm Story-sharing Tall Tales. 33 Beaverdale Ave, Windsor Gardens. Host: Jill Wherry 0439 808 612\
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         \*\*Saturday 2  December\*\* 9:30am BRUNCH, bring festive food to share. 11:00am to 1:00pm Story-sharing  Joy... Private home in Upper Sturt 
+
+
+\*\*Saturday 20  January 2024\*\*  1:00pm PICNIC lunch - bring own food, chair  & thermos. 
+2:00-4:00pm Story-sharing  Books... 
+On the edge of Waite Arboretum ( adjacent to labyrinth) Enter Gate 30 on foot, within hedge on Claremont Ave, Netherby; walk downhill (ie head west). Enquiries: Graham Ross 8357 2587. If over  30 degrees transfer to Guide Hall, Leabrook.
+
+\*\*Sunday 11 February 2024*  1:00pm Lunch - bring finger food to share. 2:00-4:00pm AGM &Annual fees due. Presenter (To Be Announced). Guide Hall,  Reserve, Cnr Rochester St & Howard Tce, Leabrook.
