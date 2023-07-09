@@ -1,10 +1,11 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: 18 June 2023 Story-sharing Meeting
+title: Past Event 18 June 2023 Story-sharing Meeting
 date: 2023-05-22T02:29:28.235Z
 location: '{"type":"Point","coordinates":[138.5600359,-35.1031014]}'
 location_details: Woodcroft
+archived: true
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 18 June 2023 Story-sharing Meeting
