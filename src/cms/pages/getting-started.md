@@ -14,13 +14,9 @@ All sorts - A to Z and more...
 
 * animal tales, big stories, cultural ones, epics, episodes from epics, 
 * fables, fairy-tales, folk-tales, funny stories
-
 * ghost stories, heritage, historical, inspirational, jokes, legends, literary, myths, 
-
 * narratives, poems, parables, personal stories, sacred stories, slice of life, 
-
 * tall stories, trickster stories, urban myths, wisdom tales, wondrous, yarns, 
-
 * zoom stories (for a z entry)
 
 ### Infinite range of story themes and motifs
@@ -29,7 +25,8 @@ Stories are also grouped in collections by reference to:
 
 * a **theme** e.g. animals, ecology, monsters 
 * specific **region** or country e.g. India, Ghana, Iceland, sea or desert 
-* recurrent **motifs** e.g. abandonment, transformation, lost in forest, quest).
+* recurrent **motifs** e.g. abandonment, transformation, lost in forest, quest)
+* feel - light, dark, racy, sad, humorous, sad, heavy, short, lengthy 
 
 ### **Purpose.**
 
