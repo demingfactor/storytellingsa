@@ -19,7 +19,7 @@ All sorts - A to Z and more...
 * tall stories, trickster stories, urban myths, wisdom tales, wondrous, yarns, 
 * zoom stories (for a z entry)
 
-### Infinite range of story themes and motifs
+### Themes and motifs - an infinite range  
 
 Stories are also grouped in collections by reference to:
 
@@ -28,7 +28,7 @@ Stories are also grouped in collections by reference to:
 * recurrent **motifs** e.g. abandonment, transformation, lost in forest, quest)
 * feel - light, dark, racy, sad, humorous, sad, heavy, short, lengthy 
 
-### **Purpose.**
+### **Your Purpose?**
 
 #### **We tell stories to…**
 
@@ -46,8 +46,8 @@ Stories are also grouped in collections by reference to:
 * contribute to psychological healing
 * practice storytelling skills
 * develop an organisational culture
-* provoke self-reflection on personal attitudes about controversial topics (e.g. racism, sexism etc)
-* play and "dance" with the spoken language
+* provoke self-reflection on personal attitudes re controversial topics (e.g. racism, sexism etc)
+* "play" and "dance" with the spoken language and audience participation
 * embed quality language patterns for children as they listen and learn
 * ... and more!
 
