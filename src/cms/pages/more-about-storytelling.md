@@ -16,7 +16,7 @@ As oral storytellers, we vary in:
 * the **types** of story we tell – folk tales, wisdom stories, crafted personal stories
 * our **purposes** when we tell – entertain, convey insight, express ourselves
 * the **occasions** and settings where we tell – regular story sharing meetings, concerts, festivals.
-* the way we **adapt** and bring a story to life each in our own way
+* the way we **prepare** and **adapt** to bring a story to life each in our own way
 * **[Members who tell professionally](https://web.archive.org/web/20200308052244/http://storytellingsa.org.au/protellers/ "Professional Tellers")** and also the wider community of professional storytellers may vary even more in these aspects.
 
 ### **What is our take on storytelling?**
