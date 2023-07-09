@@ -27,5 +27,7 @@ Accordingly, we acknowledge that storytelling can range from a hesitant recount 
 
 While we recognise the value of using notes in public speaking, our standard practice at meetings is **NOT to use notes** for storytelling. Similarly, while we value reading aloud from a book as a skill and art in its own right, we do **NOT promote reading aloud** as oral storytelling. 
 
-Occasionally, by arrangement a story is read as pat of the performance because it is significant and too difficult to learn at the Tellers current skill level, but not often!
+Beginners might start with a simple story, even a joke and **practice before** telling it to the group.
+
+Occasionally, by arrangement, a story is read as part of the performance because it is significant and too difficult to learn at the Tellers current skill level, but rarely!
 
