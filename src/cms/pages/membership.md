@@ -2,7 +2,7 @@
 layout: layouts/cms/page.html
 type: page
 title: Membership
-date: 2022-09-23T07:49:01.469Z
+date: 2023-07-09T06:52:34.950Z
 url: membership
 permalink: /{{url}}/index.html
 ---
@@ -26,12 +26,13 @@ Membership with Storytelling Australia (SA) Inc. is open to anyone who has an in
 
 ## **Becoming a Member**
 
-**Subscriptions**  - as at 1/1/23     
+**Subscriptions**  - as at 1 January 2023     
 
 * Full Membership **$40.00**    
 * Concession **$30.00** 
 * Unsure? **Come as a Guest** - experience Storytelling, then decide about joining.
-* Annual membership fees usually collected at February AGMs -  no obligation fun events! 
+* Annual membership fees collected at February AGMs or asap after. 
+* AGMs are no obligation enjoyable events!
 * Can join at any time. (If very late in year, your fees may cover the next year :)
 
 ### **Fee payment options**
