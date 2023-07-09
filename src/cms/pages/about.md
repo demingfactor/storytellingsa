@@ -2,7 +2,7 @@
 layout: layouts/cms/page.html
 type: page
 title: About
-date: 2021-11-24T01:27:56.766Z
+date: 2023-07-09T06:58:18.875Z
 url: about
 permalink: /{{url}}/index.html
 ---
@@ -20,7 +20,7 @@ We also promote the art of ORAL storytelling in the wider community
 
 As oral storytellers, we vary in:
 
-* the **types of story** we tell – folk tales, wisdom stories, crafted personal stories
+* the **types of story** we tell – folk tales, literary & crafted personal stories and more!
 * our **purposes** when we tell – entertain, convey insight, express ourselves
 * the occasions and settings **where we tell** – regular story sharing meetings, concerts, festivals.
 
