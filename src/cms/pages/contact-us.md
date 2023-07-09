@@ -9,9 +9,11 @@ permalink: /{{url}}/index.html
 ---
 **Contact Details**
 
-**Email** [contact@storytellingsa.org.au]\ (Insert the @ symbol to show you are not a "bot".)\
-**Facebook** [https://www.facebook.com/storytellingsa](https://web.archive.org/web/20200308052604/https://www.facebook.com/storytellingsa)\
-**Postal** 215 Angas Street Adelaide, SA 5000 
+**Email** contact@storytellingsa.org.au  
+**Facebook**  [https://www.facebook.com/storytellingsa](https://web.archive.org/web/20200308052604/https://www.facebook.com/storytellingsa)\
+**Postal**  Storytelling SA 215 Angas Street Adelaide SA 5000 
 
-                                                   |
-                                                                                         |
+```
+                                               |
+                                                                                     |
+```
