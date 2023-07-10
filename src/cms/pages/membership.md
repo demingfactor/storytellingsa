@@ -6,7 +6,7 @@ date: 2023-07-09T06:52:34.950Z
 url: membership
 permalink: /{{url}}/index.html
 ---
-**Membership**
+
 
 Membership with Storytelling Australia (SA) Inc. is open to anyone who has an interest in oral storytelling, either as a "Teller" or as a "Listener" to stories told in the oral tradition.
 
@@ -32,7 +32,7 @@ Membership with Storytelling Australia (SA) Inc. is open to anyone who has an in
 * Concession **$30.00** 
 * Unsure? **Come as a Guest** - experience Storytelling, then decide about joining.
 * Annual membership fees collected at February AGM or asap after. 
-* AGMs are no obligation enjoyable events!
+* AGMs are enjoyable events, with no obligation to be on the management committee!
 * Can join at any time. (If very late in year, your fees may cover the next year :)
 
 ### **Fee payment options**
