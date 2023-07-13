@@ -5,7 +5,7 @@ topics:
   - memberswhotellprofessionally
 slug: an-altered-state-of-mind
 type: article
-image: https://res.cloudinary.com/storytellingsa/image/upload/v1689204105/cms/karsten-winegeart-5M0-UFuJ41Y-unsplash_ugflft.jpg
+image: https://res.cloudinary.com/storytellingsa/image/upload/t_Banner%2016:9/v1689204105/cms/karsten-winegeart-5M0-UFuJ41Y-unsplash_ugflft.jpg
 background: Brown
 title: An altered state of mind
 subtitle: Insights from a Teller
