@@ -3,7 +3,7 @@ layout: layouts/cms/event.html
 type: event
 title: Sunday 13th September 2023
 date: 2023-08-13T03:30:00.000Z
-location: '{"type":"Point","coordinates":[138.603286,-34.9362765]}'
+location: '{"type":"Point","coordinates":[138.6272226,-35.0132323]}'
 location_details: Glenalta
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
@@ -16,7 +16,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 Themes are catalysts and open to creative interpretations.   
 
-**1:00pm**  **Lunch** - Bring finger-food to share unless own picnic box prefered
+**1:00pm**  **Lunch** - Bring finger-food to share unless own picnic box preferred
 
 **2:00 - 4.00 pm**    **Story-sharing** (with refreshment & raffle break) 
 
