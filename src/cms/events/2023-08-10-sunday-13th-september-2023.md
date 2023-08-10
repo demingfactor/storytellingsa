@@ -3,7 +3,7 @@ layout: layouts/cms/event.html
 type: event
 title: Sunday 13th September 2023
 date: 2023-08-13T03:30:00.000Z
-location: '{"type":"Point","coordinates":[138.6272226,-35.0132323]}'
+location: '{"type":"Point","coordinates":[138.6274694,-35.011923]}'
 location_details: Glenalta
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
