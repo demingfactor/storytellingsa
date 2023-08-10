@@ -1,7 +1,7 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: Sunday 13th September 2023
+title: Sunday 13 September '23 - Theme "Virtuous!"
 date: 2023-08-13T03:30:00.000Z
 location: '{"type":"Point","coordinates":[138.6274694,-35.011923]}'
 location_details: Glenalta
