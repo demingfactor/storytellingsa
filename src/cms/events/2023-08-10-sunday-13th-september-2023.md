@@ -1,9 +1,9 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: Sunday 13 September '23 - Theme "Virtuous!"
+title: Sunday 13 September 2023  Theme "Virtuous!"
 date: 2023-08-13T03:30:00.000Z
-location: '{"type":"Point","coordinates":[138.6274694,-35.011923]}'
+location: '{"type":"Point","coordinates":[138.6274819,-35.0119227]}'
 location_details: Glenalta
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
@@ -12,7 +12,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 **THEME**:
 
-**"Virtuous"**
+**"Virtuous!"**
 
 Themes are catalysts and open to creative interpretations.   
 
@@ -29,10 +29,10 @@ Themes are catalysts and open to creative interpretations.
 **Invitation**  
 
 * New attendees are welcome. 
-  *  Just turn up if your interest is sparked.\
+  *  Just turn up if your interest is sparked.
 *  Stories designed for adults rather than young children. 
 
 **Free Event**   
 
 * $5 Donation/raffle appreciated.
-  * Funds also raised by Bargains 4 Cash Produce Stall - people add to &/or buy from.
+  * Funds also raised by Bargains 4 Cash Produce Stall which people add to &/or buy from.
