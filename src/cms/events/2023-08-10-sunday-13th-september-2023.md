@@ -16,9 +16,9 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 Themes are catalysts and open to creative interpretations.   
 
-**1:00pm**    Bring finger-food lunch to share unless you prefer own picnic box 
+**1:00pm**  **Lunch** - Bring finger-food to share unless own picnic box prefered
 
-**2:00 - 4.00 pm**    Story-sharing (with refreshment & raffle break) 
+**2:00 - 4.00 pm**    **Story-sharing** (with refreshment & raffle break) 
 
 **Venue**
 
@@ -28,8 +28,9 @@ Themes are catalysts and open to creative interpretations.
 
 **Invitation**  
 
-* New attendees are welcome. Just turn up if your interest is sparked.\
-  Stories designed for adults rather than young children. 
+* New attendees are welcome. 
+  *  Just turn up if your interest is sparked.\
+*  Stories designed for adults rather than young children. 
 
 **Free Event**   
 
