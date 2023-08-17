@@ -8,13 +8,15 @@ permalink: /{{url}}/index.html
 ---
 ### **What sort of stories can one tell?**
 
-All sorts - A to Z and more...
+All sorts! 
+
+Here's an A to Z of possibilities and there are more...
 
 * animal tales, big stories, cultural ones, epics, episodes from epics, 
 * fables, fairy-tales, folk-tales, funny stories
 * ghost stories, heritage, historical, inspirational, jokes, legends, literary, myths, 
 * narratives, poems, parables, personal stories, sacred stories, slice of life, 
-* tall stories, trickster stories, urban myths, wisdom tales, wondrous, yarns, 
+* tall stories, trickster stories, urban myths, wisdom tales, wonderous, yarns, 
 * zoom stories (for a z entry)
 
 ### Themes and motifs - an infinite range
@@ -23,8 +25,8 @@ Stories are also grouped in collections by reference to:
 
 * a **theme** e.g. animals, ecology, monsters 
 * specific **region** or country e.g. India, Ghana, Iceland, sea or desert 
-* recurrent **motifs** e.g. abandonment, transformation, lost in forest, quest)
-* feel - light, dark, racy, sad, humorous, sad, heavy, short, lengthy 
+* recurrent **motifs** e.g. quest, abandonment, transformation, lost, journey
+* feel - light, dark, racy, sad, humorous, sad, heavy, short, lengthy, rhythic 
 
 ### **Your Purpose?**
 
@@ -33,12 +35,12 @@ Stories are also grouped in collections by reference to:
 * entertain, distract, and divert
 * develop oracy and literacy
 * express oneself (as teller)
-* enthuse about historical events and people
+* enthuse about ... historical events, people etc.
 * nurture particular social attitudes and values
 * develop problem-solving skills
 * provide a vehicle and narrative genre for learning a language
 * nurture an appreciation of cultural diversity
-* supplement school subject learning (e.g. literature, history, maths & science)
+* supplement school subject learning (e.g. literature, history, reading & science)
 * nurture imagination and creativity
 * transmit cultural and family stories across generations
 * contribute to psychological healing
@@ -47,6 +49,7 @@ Stories are also grouped in collections by reference to:
 * provoke self-reflection on personal attitudes re controversial topics (e.g. racism, sexism etc)
 * "play" and "dance" with the spoken language and audience participation
 * embed quality language patterns for children as they listen and learn
+* to have a jolly good time
 * ... and more!
 
 ### **Is there anything that can’t be done with storytelling?**
