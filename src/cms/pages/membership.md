@@ -39,7 +39,7 @@ Membership with Storytelling Australia (SA) Inc. is open to anyone who has an in
 
 * **In person –** Attend a meeting and say you'd like to join. Bring cash/cheque to the meeting.
 
-  **Meeting Locations:** See this years **Program** (published each March) - *sorry, just about ready for publication.*
+  **Meeting Locations:** See this years **Program** (published each March) 
 * **Post -** Send your request, including your name, address and contact details, and your cheque or money order made payable to:
        **Storytelling Australia (SA) Inc.**
 
