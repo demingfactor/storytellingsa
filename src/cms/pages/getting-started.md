@@ -1,14 +1,12 @@
 ---
 layout: layouts/cms/page.html
-title: Getting Started
-subtitle: Getting Started with Storytelling
+title: Getting Started with Storytelling
+subtitle: ""
 date: 2023-07-09T10:47:11.330Z
 url: getting-started
 permalink: /{{url}}/index.html
 ---
 ### **What sort of stories can one tell?**
-
-
 
 All sorts - A to Z and more...
 
@@ -19,7 +17,7 @@ All sorts - A to Z and more...
 * tall stories, trickster stories, urban myths, wisdom tales, wondrous, yarns, 
 * zoom stories (for a z entry)
 
-### Themes and motifs - an infinite range  
+### Themes and motifs - an infinite range
 
 Stories are also grouped in collections by reference to:
 
@@ -87,4 +85,4 @@ It does not take much reflection to discover that how you go about preparing and
 * **Tell the story aloud to yourself (with and then without notes).** If possible picture each event/scene in the story as you tell it (some people are better visualiser than others so don't give yourself a hard time doing this)…… Afterwards, note where you have fluency and feel satisfied, where you want to find better wording (e.g. when you get tongue tied), and where your mind goes blank - all normal during practices.
 * **Practice & Repeat** the process with the same experimental, playful attitude. Space your repetitions. Some people find useful telling…while looking in a mirror; to a dog, cat, parrot or a shrub; a supportive friend/partner; to a baby, making a recording to listen to.
 
-\*\* *You may like also to obtain a free booklet* Tips for Storytelling* which includes further hints and guidelines for preparing a story to tell at a story-sharing meeting. These are available at our meetings.
+You may like also to obtain a free booklet *Tips for Storytelling* which includes further hints and guidelines for preparing a story to tell at a story-sharing meeting. These are available at our meetings.
