@@ -22,8 +22,6 @@ Minimising distractions will help listeners to remain engaged. Mobile phones mus
 
 To put together a performance of storytelling, four to six stories would deliver entertainment for between thirty and forty-five minutes (allowing an average of seven minutes per story). In order to provide the audience with an exciting journey, they should be exposed to the greatest possible range of emotional experience. Therefore, light and shade, humour and pathos should be thoughtfully mixed to deliver the maximum impact. If possible deliver your stories acoustically (that is without a microphone), but be sure that your audience is able to hear your words easily. The degree of your commitment will determine the level of energy you deliver to your listeners. Generally, your audience, by their total involvement will return energy to you. 
 
-> ##### *It was well known that the native Americans induces a dreamlike state when using the wacky weed.*
-
 There are audiences, however, who may be less unable to return energy due to being very  elderly or mentally impaired. But these are the people who most need the opportunity to escape into the realm of story. No longer can they read. Radio seldom delivers the radio stories they loved so much when they were young. TV does not deliver the same escape. You, the storyteller can. For a short while you can take them on a journey, help them enter a world far away from their current, often depressing circumstances, where they can laugh and cry and experience life away from reality through an altered state of mind.
 
 ![](https://res.cloudinary.com/storytellingsa/image/upload/v1692765946/cms/tangled-vine-window_gga8d3.jpg)
