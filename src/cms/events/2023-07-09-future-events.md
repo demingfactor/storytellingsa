@@ -3,7 +3,7 @@ layout: layouts/cms/event.html
 type: event
 title: "Up-Coming Events "
 subtitle: Storysharing Meetings
-date: 2023-07-10T01:44:25.680Z
+date: 2023-08-23T03:05:48.069Z
 location: '{"type":"Point","coordinates":[138.5993358,-34.9267792]}'
 location_details: Assorted
 archived: false
