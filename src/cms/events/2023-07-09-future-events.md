@@ -11,9 +11,6 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 Meetings start at 1pm with a shared finger-food lunch, or bring your own lunch-box.
 
-**Sunday 13 August**   Theme *Virtuous…*\
-Private Home in Glenalta. To request details email   contact@storytellingsa.org.au
-
 **Saturday 16  September** 1:00pm Lunch  2:00 to 4:00pm Story-sharing\
 *On the Edge…*  Gilberton Scout Hall , 3A Redmond Street, Collingswood.
 
