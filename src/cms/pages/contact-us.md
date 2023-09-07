@@ -9,8 +9,8 @@ permalink: /{{url}}/index.html
 ---
 **Contact Details**
 
-**Email** contact@storytellingsa.org.au\
-**Facebook**  www.facebook.com/storytellingsa\ - less used, please email\
-**Postal**    Storytelling SA 215 Angas Street Adelaide SA 5000\
-**In Person** Attend one of our meetings  - see **Events**. 
+**Email**  contact@storytellingsa.org.au\
+**Facebook**  www.facebook.com/storytellingsa - less used, please email\
+**Postal**  Storytelling SA, 215 Angas Street, Adelaide SA 5000\
+**In Person** Attend one of our meetings - see **Events**. 
 If in a private home, please email us for location details.
