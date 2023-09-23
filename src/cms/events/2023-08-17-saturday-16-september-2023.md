@@ -1,7 +1,7 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: 'Saturday 16 September 2023    Theme  "On the edge"         '
+title: 'Past event - Saturday 16 September 2023    Theme  "On the edge"         '
 subtitle: ""
 date: 2023-09-16T05:54:27.768Z
 location: '{"type":"Point","coordinates":[138.6094975,-34.8911458]}'
