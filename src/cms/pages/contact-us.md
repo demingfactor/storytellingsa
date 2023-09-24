@@ -9,8 +9,14 @@ permalink: /{{url}}/index.html
 ---
 **Contact Details**
 
-**Email**  contact **(please insert usual at symbol  - left out to foil email scammers finding them then trolling our address)** storytellingsa.org.au\
-**Facebook**  www.facebook.com/storytellingsa - less used, please email\
-**Postal**  Storytelling SA, 215 Angas Street, Adelaide SA 5000\
-**In Person** Attend one of our meetings - see **Events**. 
-If in a private home, please email us for location details.
+**Email**   (please insert usual *"at"* symbol, left out to foil scammers finding @s then trolling)\
+contact( )storytellingsa.org.au
+
+**Facebook**  www.facebook.com/storytellingsa - less used, please email
+
+**Postal**  Storytelling SA, 215 Angas Street, Adelaide SA 5000
+
+**Phone**  Vivienne 0439 420 994. If in a private home, please call (or email) for location details.
+
+
+**In Person** Attend one of our meetings - see Events\*\*. (Monthly meetings are held in various locations, some public with advertised address, others private homes so call for details.)
