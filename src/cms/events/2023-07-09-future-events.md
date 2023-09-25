@@ -11,8 +11,13 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 Meetings start at 1pm with a shared finger-food lunch, or bring your own lunch-box.
 
-**Saturday 16  September** 1:00pm Lunch  2:00 to 4:00pm Story-sharing\
-*On the Edge…*  Gilberton Scout Hall , 3A Redmond Street, Collingswood.
+**Sunday 22 October** Theme *Magic* 
+Private Home in  Christies Beach. 
 
-**Sunday 22 October** Theme *Magic at Maggie’s…* \
-Private Home in  Christies Beach. To request details email   contact@storytellingsa.org.au
+**Saturday 18 November** Theme *Tall Tale*s \
+Private Home in Windsor Gardens. 
+
+**Saturday 2 December** Theme *Joy*\
+Private Home in Upper Sturt.
+
+**For directions**, call Vivienne 0439 420 994 or email request (add the "at" symbol)                                               contact( )storytellingsa.org.au
