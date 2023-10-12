@@ -7,7 +7,7 @@ date: 2023-10-12T08:10:37.932Z
 url: watch-and-listen
 permalink: /{{url}}/index.html
 ---
-**There is a multitude of material on the world wide web, here are just a few.**
+**There are many, here are just a few.**
 
 **Select a site of interest …** 
 
