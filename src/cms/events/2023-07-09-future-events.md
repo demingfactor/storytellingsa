@@ -11,7 +11,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 Meetings start at 1pm with a shared finger-food lunch, or bring your own lunch-box.
 
-**Sunday 22 October** Theme *Magic*\ 
+**Sunday 22 October** Theme *Magic*\
 Private Home in  Christies Beach. 
 
 **Saturday 18 November** Theme *Tall Tale*s \
