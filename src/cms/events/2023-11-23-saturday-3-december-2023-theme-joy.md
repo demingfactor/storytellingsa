@@ -8,8 +8,6 @@ location_details: Upper Sturt
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-
-
  **Saturday 3 December 2023**
 
 **THEME**:
@@ -37,4 +35,4 @@ Private House - Upper Sturt. Please call Vivienne 0439 420 994 for directions.
 
 * $5 Donation/raffle appreciated.
 
-  * Funds also raised by Bargains-4-Cash Produce Stall which people add to &/or buy from.
+  * Funds also raised by Bargains for Cash Produce Stall which people add to &/or buy from.
