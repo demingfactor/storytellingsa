@@ -11,10 +11,10 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 Meetings start at 1pm with a shared finger-food lunch, or bring your own lunch-box.
 
-
-
 **Saturday 2 December** Theme *Joy*\
 Private Home in Upper Sturt.
+
+Unusually starts at **9:30am for a Festive Brunch**
 
 Saturday 20 January 2024 Theme - *Books*\ Waite Arboretum
 
