@@ -16,7 +16,6 @@ contact( )storytellingsa.org.au
 
 **Postal**  Storytelling SA, 215 Angas Street, Adelaide SA 5000
 
-**Phone**  Vivienne 0439 420 994. If in a private home, please call (or email) for location details.
-
+**Phone**  Vivienne 0439 420 994. If the meeting is in a "*private home*", please call (or email) for location details.
 
 **In Person** Attend one of our meetings - see Events\*\*. (Monthly meetings are held in various locations, some public with advertised address, others private homes so call for details.)
