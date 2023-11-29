@@ -4,7 +4,7 @@ type: event
 title: "Saturday 20 January 2024  THEME: Books"
 date: 2024-01-20T03:16:58.864Z
 location: '{"type":"Point","coordinates":[138.6339786,-34.9703676]}'
-location_details: "Opposite # 37 Claremont Street Netherby SA"
+location_details: Gate 30 Claremont Street Netherby SA
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
