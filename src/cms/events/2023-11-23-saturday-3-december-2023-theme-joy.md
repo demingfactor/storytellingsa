@@ -22,7 +22,7 @@ Themes are catalysts and open to creative interpretations.
 
 **Venue**
 
-Private House - Upper Sturt. Please call Vivienne 0439 420 994 for directions.
+Private House - Upper Sturt. **Please call Vivienne 0439 420 994 for directions.**
 
 **Invitation**  
 
