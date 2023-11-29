@@ -11,13 +11,11 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 Meetings start at 1pm with a shared finger-food lunch, or bring your own lunch-box.
 
-**Sunday 22 October** Theme *Magic*\
-Private Home in  Christies Beach. 
 
-**Saturday 18 November** Theme *Tall Tale*s \
-Private Home in Windsor Gardens. 
 
 **Saturday 2 December** Theme *Joy*\
 Private Home in Upper Sturt.
+
+Saturday 20 January 2024 Theme - *Books*\ Waite Arboretum
 
 **For directions**, call Vivienne 0439 420 994 or email request (add the "at" symbol)                                               contact( )storytellingsa.org.au
