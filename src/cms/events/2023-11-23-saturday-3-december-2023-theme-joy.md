@@ -16,13 +16,13 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 Themes are catalysts and open to creative interpretations.   
 
-**1:00pm**  **Lunch** - Bring finger-food to share, unless own picnic box preferred
+**9:30 - 11am**   **End of year Festive Brunch** - Bring finger-food to share, unless own picnic box preferred
 
-**2:00 - 4.00 pm**    **Story-sharing** (with refreshment & raffle break) 
+**11:00am - 1.00 pm**    **Story-sharing** (with refreshment & raffle break) 
 
 **Venue**
 
-Private House - Upper Sturt. Please call Vivienne 0439 420 994 for directions.
+Private House - Upper Sturt. **Please call Vivienne 0439 420 994 for directions.**
 
 **Invitation**  
 
