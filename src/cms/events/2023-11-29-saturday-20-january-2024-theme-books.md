@@ -21,19 +21,16 @@ Themes are to inspire and allows room for playing with words!
 
 **2:00 - 4.00 pm**    **Story-sharing** (with refreshment & raffle break) 
 
-**Venue**  - **Note change of Venue** due to unanticipated construction works at Waite 
+**Venue**  - **NOTE! change from Venue published in annual program** due to unanticipated construction works at Waite Abortorium. 
 
-**Public Space** - 
-
-* **Knightsbridge Girl Guides Hall, Corner of Rochester Street & Howard Terrace, Leabrook**.\
+**Public Space**  - **Knightsbridge Girl Guides Hall, Corner of Rochester Street & Howard Terrace, Leabrook**.\
   Can park on either street. If parking on Rochester St use foot bridge to cross the creek! 
-* We may meet outside under trees if it's nice weather - bring a hat.
+
 *  Directions  - Meet  in the  Guide Hall, within "Philips Reserve".  Of the two buildings, Guide Hall is in middle with the ramp up to the door.\
     It's not the *Meals-on-Wheels* building close to Nth/West corner - not that one!
-*
-*
-*
-*
+*  We may meet outside under trees if it's nice weather - bring a hat.
+*  Wheelchair access
+
 
 **Invitation**  
 
