@@ -14,7 +14,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 **"Books"**
 
-Themes are catalysts and open to creative interpretations.   
+Themes are to inspire and allows room for playing with words!   
 
 **1:00pm**  **Lunch** - Bring finger-food to share, unless own picnic box preferred
 
