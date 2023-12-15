@@ -25,7 +25,7 @@ Themes are to inspire and allows room for playing with words!
 
 * **Public Space  -** Knightsbridge Girl Guides Hall, Corner of Rochester Street & Howard Terrace, Leabrook\*\*.\
   Can park on either street. If parking on Rochester St use foot bridge to cross the creek! 
-* **Directions**  - Meet  in the  Guide Hall, within "Philips Reserve".  
+* **Directions**  - Meet  in the  Guide Hall, within "Philips Reserve".\
   Of the two buildings, Guide Hall is in middle with the ramp up to the door.\
    It's not the *Meals-on-Wheels* building close to Nth/West corner - not that one
 * We may meet outside under trees if it's nice weather - bring a hat.
@@ -39,6 +39,6 @@ Themes are to inspire and allows room for playing with words!
 
 **Free Event**   
 
-* ... $5 Donation/raffle appreciated.
+* ... $5 Donation/Raffle appreciated.
 
-  * Funds also raised by Bargains-4-Cash Produce Stall which people add to &/or buy from.
+  * Funds also raised by **Bargains-4-Cash Produce Stal**l which people add to &/or buy from.
