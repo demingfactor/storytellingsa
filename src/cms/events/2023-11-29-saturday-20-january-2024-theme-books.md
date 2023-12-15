@@ -4,7 +4,8 @@ type: event
 title: '"Saturday 20 January 2024  THEME: "Books"'
 date: 2024-01-20T03:16:58.864Z
 location: '{"type":"Point","coordinates":[138.6339786,-34.9703676]}'
-location_details: Gate 30 Claremont Street Netherby SA
+location_details: Knightsbridge Girl Guides Hall**, Corner of** Rochester Street
+  & Howard Terrace, Leabrook
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
@@ -20,7 +21,7 @@ Themes are to inspire and allows room for playing with words!
 
 **2:00 - 4.00 pm**    **Story-sharing** (with refreshment & raffle break) 
 
-**Venue**  **Change of Venue** due to unanticipated construction works at Waite 
+**Venue**  - **Note change of Venue** due to unanticipated construction works at Waite 
 
 **Public Space** - 
 
