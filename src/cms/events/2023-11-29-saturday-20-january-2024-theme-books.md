@@ -24,7 +24,8 @@ Themes are to inspire and allows room for playing with words!
 
 **Public Space** - 
 
-* Knightsbridge Girl Guides Hall**, Corner of** Rochester Street & Howard Terrace, Leabrook.\
+* We may meet under the trees if nice weather - bring a hat.
+*  Knightsbridge Girl Guides Hall**, Corner of** Rochester Street & Howard Terrace, Leabrook.\
   Can park on either street. 
 * **Directions**  - Meet  in the  Guide Hall, within "Philips Reserve". Of the two buildings, Guide Hall (with the ramp up to the door) is in middle.\
     It's not the *Meals-on-Wheels* building close to Nth/West corner - not that one!
