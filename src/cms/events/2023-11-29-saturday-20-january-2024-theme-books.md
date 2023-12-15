@@ -1,7 +1,7 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: '"Saturday 20 January 2024  THEME: "Books"'
+title: '"Saturday 20 January 2024  - THEME: "Books"'
 date: 2024-01-20T03:16:58.864Z
 location: '{"type":"Point","coordinates":[138.6587432,-34.9317103]}'
 location_details: Knightsbridge Girl Guides Hall**, Corner of** Rochester Street
