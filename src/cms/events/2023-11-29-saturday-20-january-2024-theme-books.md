@@ -3,7 +3,7 @@ layout: layouts/cms/event.html
 type: event
 title: '"Saturday 20 January 2024  THEME: "Books"'
 date: 2024-01-20T03:16:58.864Z
-location: '{"type":"Point","coordinates":[138.6339786,-34.9703676]}'
+location: '{"type":"Point","coordinates":[138.6587432,-34.9317103]}'
 location_details: Knightsbridge Girl Guides Hall**, Corner of** Rochester Street
   & Howard Terrace, Leabrook
 archived: false
@@ -25,9 +25,9 @@ Themes are to inspire and allows room for playing with words!
 
 **Public Space** - 
 
-* We may meet under the trees if nice weather - bring a hat.
+* We may meet under the trees if it's nice weather - bring a hat.
 *  Knightsbridge Girl Guides Hall**, Corner of** Rochester Street & Howard Terrace, Leabrook.\
-  Can park on either street. 
+  Can park on either street. If parking on Rochester St use foot bridge to cross the creek! 
 * **Directions**  - Meet  in the  Guide Hall, within "Philips Reserve". Of the two buildings, Guide Hall (with the ramp up to the door) is in middle.\
     It's not the *Meals-on-Wheels* building close to Nth/West corner - not that one!
 
