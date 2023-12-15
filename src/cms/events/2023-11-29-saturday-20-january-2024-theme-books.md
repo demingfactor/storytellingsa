@@ -22,9 +22,9 @@ Themes are catalysts and open to creative interpretations.
 
 **2:00 - 4.00 pm**    **Story-sharing** (with refreshment & raffle break) 
 
-**Venue**
+**Venue**  Change of Venue due to unanticipated construction works at Waite 
 
-Public Space - On the edge of Waite Arboretum (adjacent to Labyrinth) Enter on foot at Gate 30 within the hedge on Claremont Street Netherby; walk downhill (ie head west) Picnic meeting so **bring own chairs** too. 
+Still a Public Space - 
 
 **Invitation**  
 
