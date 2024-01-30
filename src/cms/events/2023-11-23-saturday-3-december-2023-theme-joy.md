@@ -5,7 +5,7 @@ title: Saturday 3 December 2023 - THEME"Joy"
 date: 2023-12-03T00:59:37.982Z
 location: '{"type":"Point","coordinates":[138.6581316,-35.0245674]}'
 location_details: Upper Sturt
-archived: false
+archived: true
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
  **Saturday 3 December 2023**
