@@ -9,9 +9,9 @@ location_details: Assorted
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-**Sunday 11 February 2024GM** 
+**Sunday 11 February 2024** 
 
-AGM and Guest Speaker
+AGM and Guest Speaker, Historian, topic "Wowsers of Adelaide" 
 
 **1:00 - 2:00pm**  **Lunch** - Bring finger-food to share, unless own picnic box preferred
 
