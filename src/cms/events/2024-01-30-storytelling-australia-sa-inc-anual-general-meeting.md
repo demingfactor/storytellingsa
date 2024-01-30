@@ -9,8 +9,6 @@ location_details: Corner of Rochester Street & Howard Terrace, Leabrook
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-
-
 **Sunday 11 February 2024GM** 
 
 AGM and Guest Speaker
@@ -50,6 +48,8 @@ interesting and stranger than many fictitious versions in circulation.
 **Membership Fees due for 2024**  
 
 * $40 full
-  $30 concession 
+* $30 concession 
 
-  *
+
+
+
