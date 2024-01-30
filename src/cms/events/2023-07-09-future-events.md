@@ -20,4 +20,6 @@ AGM and Guest Speaker
 **2:245 - 4:00pm Guest Speaker**
 
 * **Venue -** Knightsbridge Girl Guides Hall, Corner of Rochester Street & Howard Terrace, Leabrook\*\*.\
-  Can park on either street. If parking on Rochester St use foot bridge to cross the creek!
+  Can park on either street. If parking on Rochester St use foot bridge to cross the creek! 
+
+Program for 2024 will be published after AGM
