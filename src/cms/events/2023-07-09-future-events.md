@@ -9,10 +9,15 @@ location_details: Assorted
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-Meetings start at 1pm with "bring-a-plate" shared finger-food lunch, or bring your own covert free lunch-box.
+**Sunday 11 February 2024GM** 
 
-**For directions, Re** private homes, call Vivienne 0439 420 994 
-or 
-email request (remove ( ) & add the @ symbol - a minor scammer deterant) 
+AGM and Guest Speaker
 
-\    contact( )storytellingsa.org.au
+**1:00 - 2:00pm**  **Lunch** - Bring finger-food to share, unless own picnic box preferred
+
+**2:00 - 2-30pm AGM**
+
+**2:245 - 4:00pm Guest Speaker**
+
+* **Venue -** Knightsbridge Girl Guides Hall, Corner of Rochester Street & Howard Terrace, Leabrook\*\*.\
+  Can park on either street. If parking on Rochester St use foot bridge to cross the creek!
