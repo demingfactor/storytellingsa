@@ -9,13 +9,10 @@ location_details: Assorted
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-Meetings start at 1pm with a shared finger-food lunch, or bring your own lunch-box.
+Meetings start at 1pm with "bring-a-plate" shared finger-food lunch, or bring your own covert free lunch-box.
 
-**Saturday 2 December** Theme *Joy*\
-Private Home in Upper Sturt.
+**For directions, Re** private homes, call Vivienne 0439 420 994 
+or 
+email request (remove ( ) & add the @ symbol - a minor scammer deterant) 
 
-Unusually starts at **9:30am for a Festive Brunch**
-
-Saturday 20 January 2024 Theme - *Books*\ Waite Arboretum
-
-**For directions**, call Vivienne 0439 420 994 or email request (add the "at" symbol)                                               contact( )storytellingsa.org.au
+\    contact( )storytellingsa.org.au
