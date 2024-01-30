@@ -1,8 +1,8 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: Storytelling Australia (SA) Inc. Anual General Meeting
-subtitle: with engaging guest speaker
+title: Storytelling Australia (SA) Inc. Annual General Meeting
+subtitle: ... with engaging Guest Speaker
 date: 2024-02-11T07:30:00.000Z
 location: '{"type":"Point","coordinates":[138.6587428,-34.9315647]}'
 location_details: Corner of Rochester Street & Howard Terrace, Leabrook
