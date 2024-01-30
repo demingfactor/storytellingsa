@@ -6,7 +6,7 @@ date: 2024-01-20T03:16:58.864Z
 location: '{"type":"Point","coordinates":[138.6587432,-34.9317103]}'
 location_details: Knightsbridge Girl Guides Hall**, Corner of** Rochester Street
   & Howard Terrace, Leabrook
-archived: false
+archived: true
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 **Saturday 20 January 2024**
