@@ -10,34 +10,37 @@ archived: true
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 **Saturday 16 March 2024**\
-Story sharing Theme ***Another World*** 10.45 for 11:00am - 1:00pm Burnside Library. 
-**Two, not-the-usual, things for this meeting:** 
+Story sharing Theme ***Another World*** 10.45 for 11:00am - 1:00pm 
+Location: Burnside Library, Tusmore
+**Note two not-the-usual things for this meeting:** 
 **1] Tickets -** Free  Register through *Eventbrite* OR phone l**ibrary on  8366 4280, or Sarah on 8366 4143**. 
-2] N**o shared lunch** because of this venue. Changed to people organising lunch groups for **after** meeting, maybe at a local coffee spot. Attendees will be invited to join in as well.
+2] **No shared lunch** because of this venue. Changed to: people organising lunch groups for **after** meeting, maybe at a local coffee spot. All attendees will be invited and welcome to join in as well.
 
 **Sunday 21 April**  2024
 Shared finger food lunch 1:00 - 2:00pm; Story sharing ***Animal Tales***  2:00 - 4:00pm
-Private Home in Happy Valley.  ***For details please call Vivienne***  0439 420 994
+Location: Private Home in Happy Valley.  ***For details, please call Vivienne***  0439 420 994
 
 **Sunday 19 May** 2024
 Shared finger food lunch 1:00 - 1:45pm; Storytelling (curated) interval included. 
 Theme: *Storytellers burrow into local history!* 2:00 - 4:00pm. 
 This is programmed as a performance in **South Australia’s History Festival**. 
-Location: Guide Hall, Philps Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook.
+Location: Guide Hall, Philips Reserve, Corner of Rochester Street (off Glynburn Rd) & Howard Tce, Leabrook.
 
 **Saturday 15 June** 2024
+Shared finger food lunch 1:00 - 2:00pm;  Story sharing ***Heart of Gold***  2:00 - 4:00pm 
+Private Home in  Woodcroft. ***For details, please call Vivienne***  0439 420 994
 
-Shared finger food lunch 1:00 - 2:00pm;  Story sharing ***Heart of Gold*** … 2:004:00pm 51 Jimmy Watson Drive, Woodcroft. Enq: Daphne Finch 0438 368 374
+**Sunday 14 July** 2024
+**Morning Workshop** 10:00 - 12:30pm. Details will be announced nearer the date. There will be a small fee. 
+Theme for both am & pm sessions ***The Hero’s Journey***
+Lunch is shared finger food  1:00 - 2:00pm
+Afternoon storysharing  2:00 - 4:00pm*
+Location: Guide Hall, Philips Reserve, corner Howard Terrace & Rochester Street (off Glynburn Rd), Leabrook.
 
-**Sunday 14 July** See separate flyer about optional workshop attendance (and small fee). *Workshop (The Hero’s Journey)* 10:0012:30pm.Shared finger food1:002:00pm Story sharing *The Hero’s Journey 2:00-4:00pm*
-
-Guide Hall , Reserve, cnr Glynburn Rd/ Rochester St & Howard Tce, Leabrook.
-
-Enq: Graham Ross 0422 381 271
-
-**Saturday 17** **August**Bring own finger food lunch 1:002:00pm; Story sharing *Too Many Cooks.…* 2:00-4:00pm 8 Gannet Ave, Glenalta.
-
-Enq: Sue Khoo 0419 860 880
+**Saturday 17** **August 2024**
+Shared finger food lunch 1:00 - 2:00pm; Story sharing ***Too Many Cooks***  2:00-4:00pm 
+Location: Private home in Glenalta.
+***For details, please call Sue 0419 860 880***
 
 **Saturday 15 September** 1:00pm Shared finger food lunch. 1:002:00pm; Story sharing *From Little Seeds* … 2:004:00pmGilberton Scout Hall , 3A Redmond Street, Collingswood.
 
