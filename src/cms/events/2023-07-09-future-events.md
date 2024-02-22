@@ -42,15 +42,16 @@ Shared finger food lunch 1:00 - 2:00pm; Story sharing ***Too Many Cooks***  2
 Location: Private home in Glenalta.
 ***For details, please call Sue 0419 860 880***
 
-**Saturday 15 September** 1:00pm Shared finger food lunch. 1:002:00pm; Story sharing *From Little Seeds* … 2:004:00pmGilberton Scout Hall , 3A Redmond Street, Collingswood.
+**Saturday 15 September** 2024
+Shared finger food lunch. 1:00 - 2:00pm; Story sharing ***From Little Seeds*** 2:00 - 4:00pm
+Location: Gilberton Scout Hall , 3A Redmond Street, Collingswood.
 
-Enq: Olga Farnill8431 6161
+**Saturday** **19 October** 2024
 
-**Saturday** **19 October** Shared finger food lunch 1:002:00pm; Story sharing *Green* …
+Shared finger food lunch 1:00 - 2:00pm; Story sharing ***Green*** 
+Stories told between  2:00 - 4:00pm 
 
-2:004:00pm 33 Beaverdale Ave, Windsor Gardens. Host: Jill Wherry 0439 808 612
-
-Email: wherryjill5@gmail.com
+Location Private home in  Windsor Gardens. ***For details, please call Vivienne*  0439 420 994**
 
 **Sunday 17 November** Shared finger food lunch 1:002:00pm; Story sharing *Wisdom*.…
 
