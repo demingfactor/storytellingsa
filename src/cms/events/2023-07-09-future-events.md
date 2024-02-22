@@ -6,7 +6,7 @@ subtitle: Storysharing Meetings
 date: 2024-01-30T23:27:06.573Z
 location: '{"type":"Point","coordinates":[138.5993358,-34.9267792]}'
 location_details: Assorted
-archived: false
+archived: true
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 **Sunday 11 February 2024** 
