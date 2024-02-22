@@ -9,15 +9,19 @@ location_details: Assorted
 archived: true
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-**Saturday 16 March**  Story sharing Theme ***Another World*** 10.45 for 11:00am - 1:00pm Burnside Library. 
-**Two abnormal things for this meeting:** 
+**Saturday 16 March 2024**\
+Story sharing Theme ***Another World*** 10.45 for 11:00am - 1:00pm Burnside Library. 
+**Two, not-the-usual, things for this meeting:** 
 **1] Tickets -** Free  Register through *Eventbrite* OR phone l**ibrary on  8366 4280, or Sarah on 8366 4143**. 
 2] N**o shared lunch** because of this venue. Changed to people organising lunch groups for **after** meeting, maybe at a local coffee spot. Attendees will be invited to join in as well.
 
-**Sunday 21 April** Shared finger food lunch 1:00 - 2:00pm; Story sharing ***Animal Tales***  2:00 - 4:00pm
-Private Home in Happy Valley.
+**Sunday 21 April**  2024
+Shared finger food lunch 1:00 - 2:00pm; Story sharing ***Animal Tales***  2:00 - 4:00pm
+Private Home in Happy Valley.  ***For details please call Vivienne***  0439 420 994
 
-**Sunday 19 May** Shared finger food lunch 1:001:45pm; Storytelling (curated) interval incl. Theme: *Storytellers burrow into local history!* 2:004:00pm. Also programmed as a performance in South Australia’s History Festival. Guide Hall, Philps Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Olga Farnill8431 6161
+**Sunday 19 May** 2024
+Shared finger food lunch 1:00 - 1:45pm; Storytelling (curated) interval included. Theme: *Storytellers burrow into local history!* 2:00 - 4:00pm. 
+This is programmed as a performance in South Australia’s History Festival. Guide Hall, Philps Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Olga Farnill8431 6161
 
 **Saturday 15 June** Shared finger food lunch 1:002:00pm; Story sharing *Heart of Gold* … 2:004:00pm 51 Jimmy Watson Drive, Woodcroft. Enq: Daphne Finch 0438 368 374
 
