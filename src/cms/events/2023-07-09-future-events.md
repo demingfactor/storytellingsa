@@ -2,7 +2,7 @@
 layout: layouts/cms/event.html
 type: event
 title: "Up-Coming Events "
-subtitle: Storysharing Meetings
+subtitle: Storysharing Meetings for 2024
 date: 2024-01-30T23:27:06.573Z
 location: '{"type":"Point","coordinates":[138.5993358,-34.9267792]}'
 location_details: Assorted
@@ -34,7 +34,7 @@ Private Home in  Woodcroft. ***For details, please call Vivienne***  0439 420 99
 **Morning Workshop** 10:00 - 12:30pm. Details will be announced nearer the date. There will be a small fee. 
 Theme for both am & pm sessions ***The Hero’s Journey***
 Lunch is shared finger food  1:00 - 2:00pm
-Afternoon storysharing  2:00 - 4:00pm*
+Afternoon story sharing  2:00 - 4:00pm*
 Location: Guide Hall, Philips Reserve, corner Howard Terrace & Rochester Street (off Glynburn Rd), Leabrook.
 
 **Saturday 17** **August 2024**
