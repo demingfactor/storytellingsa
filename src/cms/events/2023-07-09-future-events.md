@@ -11,20 +11,20 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 **Saturday 16 March 2024**\
 Story sharing theme ***Another World*** 10.45 for 11:00am - 1:00pm 
-**Note two not-the-usual things for this meeting:** 
+**Note two not-the-usual things** for this meeting: 
 **1] Tickets -** Free  Register through *Eventbrite* OR phone l**ibrary on  8366 4280, or Sarah on 8366 4143**. 
 2] **No shared lunch** because of this venue. Changed to: people organising lunch groups for **after** meeting, maybe at a local coffee spot and all attendees will be invited and welcome to join in. 
 Location: **Burnside Library, Tusmore**.
 
 **Sunday 21 April**  2024
-Shared finger food lunch 1:00 - 2:00pm; Story sharing *theme **Animal Tales***  2:00 - 4:00pm
+Shared finger food lunch 1:00 - 2:00pm; Story sharing theme ***Animal Tale*s**  2:00 - 4:00pm
 Location: Private Home in **Happy Valley**.  ***For details, please call Vivienne***  0439 420 994
 
 **Sunday 19 May** 2024
 Shared finger food lunch 1:00 - 1:45pm; Storytelling (curated), interval included. 
-Theme* **Storytellers burrow into local history!*** 2:00 - 4:00pm. 
+Theme ***Storytellers burrow into local history!***  2:00 - 4:00pm. 
 This is programmed as a performance in **South Australia’s History Festival**. 
-Location: Guide Hall, Philips Reserve, Corner of Rochester Street (off Glynburn Rd) & Howard Tce, **Leabrook.**
+**Location**: Guide Hall, Philips Reserve, Corner of Rochester Street (off Glynburn Rd) & Howard Tce, **Leabrook.**
 
 **Saturday 15 June** 2024
 Shared finger food lunch 1:00 - 2:00pm;  Story sharing ***Heart of Gold***  2:00 - 4:00pm 
