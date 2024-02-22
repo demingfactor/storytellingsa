@@ -9,10 +9,12 @@ location_details: Assorted
 archived: true
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-**Saturday 16 March**  Story sharing *Another World* 11:00 am 1:00pm Burnside Library. Tickets
-NOTE: Normal shared lunch changed to people organising lunch groups for **after** meeting, maybe at a local coffee spot. Attendees will be invited to join in as well.
+**Saturday 16 March**  Story sharing Theme ***Another World*** 10.45 for 11:00am - 1:00pm Burnside Library. 
+**Two abnormal things for this meeting:** 
+**1] Tickets -** Free  Register through *Eventbrite* OR phone l**ibrary on  8366 4280, or Sarah on 8366 4143**. 
+2] N**o shared lunch** because of this venue. Changed to people organising lunch groups for **after** meeting, maybe at a local coffee spot. Attendees will be invited to join in as well.
 
-**Sunday 21 April** Shared finger food lunch 1:00 - 2:00pm; Story sharing *Animal Tales* … 2:00 - 4:00pm
+**Sunday 21 April** Shared finger food lunch 1:00 - 2:00pm; Story sharing ***Animal Tales***  2:00 - 4:00pm
 Private Home in Happy Valley.
 
 **Sunday 19 May** Shared finger food lunch 1:001:45pm; Storytelling (curated) interval incl. Theme: *Storytellers burrow into local history!* 2:004:00pm. Also programmed as a performance in South Australia’s History Festival. Guide Hall, Philps Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Olga Farnill8431 6161
