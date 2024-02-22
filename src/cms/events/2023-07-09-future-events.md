@@ -20,10 +20,14 @@ Shared finger food lunch 1:00 - 2:00pm; Story sharing ***Animal Tales***  2:0
 Private Home in Happy Valley.  ***For details please call Vivienne***  0439 420 994
 
 **Sunday 19 May** 2024
-Shared finger food lunch 1:00 - 1:45pm; Storytelling (curated) interval included. Theme: *Storytellers burrow into local history!* 2:00 - 4:00pm. 
-This is programmed as a performance in South Australia’s History Festival. Guide Hall, Philps Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Olga Farnill8431 6161
+Shared finger food lunch 1:00 - 1:45pm; Storytelling (curated) interval included. 
+Theme: *Storytellers burrow into local history!* 2:00 - 4:00pm. 
+This is programmed as a performance in **South Australia’s History Festival**. 
+Location: Guide Hall, Philps Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook.
 
-**Saturday 15 June** Shared finger food lunch 1:002:00pm; Story sharing *Heart of Gold* … 2:004:00pm 51 Jimmy Watson Drive, Woodcroft. Enq: Daphne Finch 0438 368 374
+**Saturday 15 June** 2024
+
+Shared finger food lunch 1:00 - 2:00pm;  Story sharing ***Heart of Gold*** … 2:004:00pm 51 Jimmy Watson Drive, Woodcroft. Enq: Daphne Finch 0438 368 374
 
 **Sunday 14 July** See separate flyer about optional workshop attendance (and small fee). *Workshop (The Hero’s Journey)* 10:0012:30pm.Shared finger food1:002:00pm Story sharing *The Hero’s Journey 2:00-4:00pm*
 
