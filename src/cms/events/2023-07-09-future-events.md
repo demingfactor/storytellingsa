@@ -47,10 +47,8 @@ Shared finger food lunch. 1:00 - 2:00pm; Story sharing theme ***From Little S
 Location: Gilberton Scout Hall , 3A Redmond Street, Collingswood.
 
 **Saturday** **19 October** 2024
-
 Shared finger food lunch 1:00 - 2:00pm; Story sharing ***Green*** 
 Stories told between  2:00 - 4:00pm 
-
 Location Private home in  Windsor Gardens. ***For details, please call Vivienne*  0439 420 994**
 
 **Sunday 17 November** Shared finger food lunch 1:002:00pm; Story sharing *Wisdom*.…
