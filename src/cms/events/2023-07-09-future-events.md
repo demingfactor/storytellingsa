@@ -34,7 +34,7 @@ Storytelling (curated) theme ***Storytellers burrow into local history!***  2:00
 **Saturday 15 June** 2024
 Shared finger food lunch 1:00 - 2:00pm
 
-Story sharing theme ***Whispers***  2:00 - 4:00pm 
+Story sharing theme ***(To Be Advised later***) 2:00 - 4:00pm 
 Private Home in **Woodcroft**. *For details, please call Vivienne*  **0439 420 994**
 
 **Sunday 14 July** 2024
