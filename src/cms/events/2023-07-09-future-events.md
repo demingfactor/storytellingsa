@@ -51,9 +51,9 @@ Shared finger food lunch 1:00 - 2:00pm; Story sharing ***Green***
 Stories told between  2:00 - 4:00pm 
 Location Private home in  Windsor Gardens. ***For details, please call Vivienne*  0439 420 994**
 
-**Sunday 17 November** Shared finger food lunch 1:002:00pm; Story sharing *Wisdom*.…
-
-2:004:00pm 6 O’Halloran Road, Christies Beach. Enq: Maggie Thomas 0468 596 940
+**Sunday 17 November** 2024
+Shared finger food lunch 1:00 - 2:00pm; Story sharing ***Wisdom*** 2:00 - 4:00pm 
+Location: Private home in Christies Beach. ***For details, please call Vivienne***  0439 420 994
 
 **Saturday 7 December** Shared Xmas BRUNCH 9:3011:00am ; Story sharing *Heart of Gold* … 11:00am1:00pm *1*3 Olave Hill Road, Upper Sturt (Olave Hill Rd is off Upper Sturt Road). Enq: Carol Morrison Logan 0423 562 725
 
