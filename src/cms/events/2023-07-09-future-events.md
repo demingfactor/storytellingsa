@@ -18,22 +18,17 @@ Location: **Burnside Library, Tusmore**.
 
 **Sunday 21 April**  2024
 Shared finger food lunch 1:00 - 2:00pm
-
 Story sharing theme ***Animal Tale*s**  2:00 - 4:00pm
 Location: Private Home in **Happy Valley**.  ***For details, please call Vivienne***  0439 420 994
 
 **Sunday 19 May** 2024
-
 This is programmed as a performance in **South Australia’s History Festival**. 
 Shared finger food lunch 1:00 - 1:45pm
-
 Storytelling (curated) theme ***Storytellers burrow into local history!***  2:00 - 4:00pm. Interval included.
-
 **Location**: Guide Hall, Philips Reserve, Corner of Rochester Street (off Glynburn Rd) & Howard Tce, **Leabrook.**
 
 **Saturday 15 June** 2024
 Shared finger food lunch 1:00 - 2:00pm
-
 Story sharing theme ***(To Be Advised later***) 2:00 - 4:00pm 
 Private Home in **Woodcroft**. *For details, please call Vivienne*  **0439 420 994**
 
@@ -46,14 +41,12 @@ Location: Guide Hall, Philips Reserve, corner Howard Terrace & Rochester Street 
 
 **Saturday 17** **August 2024**
 Shared finger food lunch 1:00 - 2:00pm
-
 Story sharing theme ***Too Many Cooks***  2:00-4:00pm 
 Location: Private home in **Glenalta**.
 ***For details, please call Sue 0419 860 880***
 
 **Saturday 15 September** 2024
 Shared finger food lunch. 1:00 - 2:00pm; 
-
 Story sharing theme ***From Little Seeds*** 2:00 - 4:00pm
 Location: Gilberton Scout Hall , 3A Redmond Street, **Collingswood**.
 
@@ -64,7 +57,6 @@ Location Private home in  **Windsor Gardens**. *For details, please call Vivienn
 
 **Sunday 17 November** 2024
 Shared finger food lunch 1:00 - 2:00pm
-
 Story sharing ***Wisdom*** 2:00 - 4:00pm 
 Location: Private home in Christies Beach. ***For details, please call Vivienne***  0439 420 994
 
