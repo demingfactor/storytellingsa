@@ -1,7 +1,7 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: Sunday 11 February 2024 - Annual General Meeting
+title: Past Event 11 February 2024 - Annual General Meeting
 subtitle: " Guest Speaker - Historian with a sense of humour"
 date: 2024-02-10T23:30:59.789Z
 location: '{"type":"Point","coordinates":[138.6587428,-34.9315647]}'
