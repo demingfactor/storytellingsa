@@ -12,8 +12,11 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 **Saturday 16 March 2024**\
 Story sharing theme ***Another World*** 10.45 for 11:00am - 1:00pm 
 **Note two not-the-usual things** for this meeting: 
-**1] Tickets -** Free  Register by phoning l**ibrary on 8366 4280, or Sarah on 8366 4143**. 
-2] **No shared lunch** because of this venue. Changed to: people organising lunch groups for **after** meeting, maybe at a local coffee spot and all attendees will be invited and welcome to join in. 
+**1] Tickets -** Free  Register by phoning **library on 8366 4280, or Sarah on 8366 4143** 
+
+OR log by using this booking link:
+[https://www.burnside.sa.gov.​au/Whats-On/Eventbrite/​Storytelling-Morning-%E2%80%​93-Another-World-BL- 850554731097](https://www.burnside.sa.gov.au/Whats-On/Eventbrite/Storytelling-Morning-%E2%80%93-Another-World-BL-850554731097)
+**2]** **No shared lunch** because of this venue. Changed to: people organising lunch groups for **after** meeting, maybe at a local coffee spot and all attendees will be invited and welcome to join in. 
 Location: **Burnside Library, Tusmore**.
 
 **Sunday 21 April**  2024
