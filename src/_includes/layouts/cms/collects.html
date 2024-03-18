@@ -6,7 +6,11 @@
     <div class="flex flex-col items-center w-full gap-2">
         {% for post in collections.all reversed %}
             {% if post.data.type == collects %}
-                {% include "partials/collects/{{ collects }}" %}
+                {% if partial %}
+                    {% include "partials/collects/{{ partial }}" %}
+                {% else %}
+                    {% include "partials/collects/{{ collects }}" %}
+                {% endif %}
             {% endif %}
         {% endfor %}
     </div>
