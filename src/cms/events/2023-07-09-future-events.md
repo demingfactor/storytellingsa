@@ -1,31 +1,21 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: 2024 Full Program of Events
+title: 2024 Program of Events - up to Feb 2025
 subtitle: Storysharing Meetings for 2024
 date: 2025-02-10T02:41:54.447Z
-location: '{"type":"Point","coordinates":[138.5993358,-34.9267792]}'
+location: '{"type":"Point","coordinates":[138.5993293,-34.9268444]}'
 location_details: Assorted
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-**Saturday 16 March 2024**\
-Story sharing theme ***Another World*** 10.45 for 11:00am - 1:00pm 
-**Note two not-the-usual things** for this meeting: 
-**1] Tickets -** Free  Register by phoning **library on 8366 4280, or Sarah on 8366 4143** 
-
-OR log by using this booking link:
-[https://www.burnside.sa.gov.​au/Whats-On/Eventbrite/​Storytelling-Morning-%E2%80%​93-Another-World-BL- 850554731097](https://www.burnside.sa.gov.au/Whats-On/Eventbrite/Storytelling-Morning-%E2%80%93-Another-World-BL-850554731097)
-**2]** **No shared lunch** because of this venue. Changed to: people organising lunch groups for **after** meeting, maybe at a local coffee spot and all attendees will be invited and welcome to join in. 
-Location: **Burnside Library, Tusmore**.
-
-**Sunday 21 April**  2024
+**NEXT MEETING Sunday 21 April**  2024
 Shared finger food lunch 1:00 - 2:00pm
 Story sharing theme ***Animal Tale*s**  2:00 - 4:00pm
 Location: Private Home in **Happy Valley**.  ***For details, please call Vivienne***  0439 420 994
 
 **Sunday 19 May** 2024
-This is programmed as a performance in **South Australia’s History Festival, a ticketed event,** tickets available nearer the event using Humanitix.
+This is programmed as a performance as part of the  **South Australia’s History Festival - a ticketed event,** tickets available nearer the event using Humanitix.
 **Shared finger food lunch** 1:00 - 1:45pm
 Storytelling (curated) theme ***Storytellers burrow into local history!***  2:00 - 4:00pm. Interval included.
 **Location**: Guide Hall, Philips Reserve, Corner of Rochester Street (off Glynburn Rd) & Howard Tce, **Leabrook.**
