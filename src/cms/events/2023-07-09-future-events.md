@@ -3,10 +3,10 @@ layout: layouts/cms/event.html
 type: event
 title: 2024 Full Program of Events
 subtitle: Storysharing Meetings for 2024
-date: 2024-03-18T02:41:54.447Z
+date: 2025-02-10T02:41:54.447Z
 location: '{"type":"Point","coordinates":[138.5993358,-34.9267792]}'
 location_details: Assorted
-archived: true
+archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 **Saturday 16 March 2024**\
