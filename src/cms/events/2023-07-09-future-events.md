@@ -1,7 +1,7 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: "Up-Coming Events "
+title: 2024 Full Program of Events
 subtitle: Storysharing Meetings for 2024
 date: 2024-01-30T23:27:06.573Z
 location: '{"type":"Point","coordinates":[138.5993358,-34.9267792]}'
@@ -25,8 +25,8 @@ Story sharing theme ***Animal Tale*s**  2:00 - 4:00pm
 Location: Private Home in **Happy Valley**.  ***For details, please call Vivienne***  0439 420 994
 
 **Sunday 19 May** 2024
-This is programmed as a performance in **South Australia’s History Festival**. 
-Shared finger food lunch 1:00 - 1:45pm
+This is programmed as a performance in **South Australia’s History Festival, a ticketed event,** tickets available nearer the event using Humanitix.
+**Shared finger food lunch** 1:00 - 1:45pm
 Storytelling (curated) theme ***Storytellers burrow into local history!***  2:00 - 4:00pm. Interval included.
 **Location**: Guide Hall, Philips Reserve, Corner of Rochester Street (off Glynburn Rd) & Howard Tce, **Leabrook.**
 
