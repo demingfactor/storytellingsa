@@ -1,6 +1,6 @@
 ---
 layout: layouts/cms/page.html
-title: Legal & Insurance
+title: Insurance
 meta:
   desc: Licenses and Legal
 subtitle: Puplic Liability Insurance
