@@ -9,12 +9,16 @@ location_details: Assorted
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-**NEXT MEETING Sunday 21 April**  2024
+**NEXT MEETING** 
+
+**Sunday 21 April**  2024
 Shared finger food lunch 1:00 - 2:00pm
 Story sharing theme ***Animal Tale*s**  2:00 - 4:00pm
 Location: Private Home in **Happy Valley**.  ***For details, please call Vivienne***  0439 420 994
 
-**Sunday 19 May** 2024
+**FUTURE MEETINGS** 
+
+ **Sunday 26 May** 2024
 This is programmed as a performance as part of the  **South Australia’s History Festival - a ticketed event,** tickets available nearer the event using Humanitix.
 **Shared finger food lunch** 1:00 - 1:45pm
 Storytelling (curated) theme ***Storytellers burrow into local history!***  2:00 - 4:00pm. Interval included.
