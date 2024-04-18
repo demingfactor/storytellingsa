@@ -19,7 +19,9 @@ Location: Private Home in **Happy Valley**.  ***For details, please call Vivienn
 **FUTURE MEETINGS** 
 
  **Sunday 26 May** 2024
-This is programmed as a performance as part of the  **South Australia’s History Festival - a ticketed event,** tickets available nearer the event using Humanitix.
+This is programmed as a performance within the  **South Australia’s History Festival - a ticketed event.**
+
+**T**ickets are now available for $5 each.   For information and to book please go to:  [ festival.history.sa.gov.au/5445](https://festival.history.sa.gov.au/events/storytellers-burrow-into-local-history/)
 **Shared finger food lunch** 1:00 - 1:45pm
 Storytelling (curated) theme ***Storytellers burrow into local history!***  2:00 - 4:00pm. Interval included.
 **Location**: Guide Hall, Philips Reserve, Corner of Rochester Street (off Glynburn Rd) & Howard Tce, **Leabrook.**
