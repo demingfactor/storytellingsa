@@ -2,7 +2,7 @@
 layout: layouts/cms/event.html
 type: event
 title: 2024 Program of Events - up to Feb 2025
-subtitle: Storysharing Meetings for 2024
+subtitle: Storysharing Meetings for 2024  - Click here for the monthly meeting details
 date: 2025-02-10T02:41:54.447Z
 location: '{"type":"Point","coordinates":[138.5993293,-34.9268444]}'
 location_details: Assorted
