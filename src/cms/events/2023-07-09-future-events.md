@@ -12,9 +12,9 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 **NEXT MEETING** 
 
 **Sunday 26 May** 2024
-This is programmed as a performance within the  **South Australia’s History Festival - a ticketed event** now available for $5 each.   For information, and to book, please go to:  [ festival.history.sa.gov.au/5445](https://festival.history.sa.gov.au/events/storytellers-burrow-into-local-history/)
-**Shared finger food lunch** 1:00 - 1:45pm
-Storytelling (curated) theme ***Storytellers burrow into local history!***  2:00 - 4:00pm. Interval included.
+This is programmed as a performance within the  **South Australia’s History Festival - a ticketed event**. Tickets now available for $5 each, which includes you in the Raffle draw.  For information, and to book, please go to:  [ festival.history.sa.gov.au/5445](https://festival.history.sa.gov.au/events/storytellers-burrow-into-local-history/)
+**1:00  to 1:45pm Shared finger food lunch** 
+2:00 to 4:00 pm **Storytelling** (curated), theme; ***Storytellers burrow into local history!***  Interval included.
 **Location**: Guide Hall, Philips Reserve, Corner of Rochester Street (off Glynburn Rd) & Howard Tce, **Leabrook.**
 
 **FUTURE MEETINGS** 
