@@ -9,8 +9,8 @@ permalink: /{{url}}/index.html
 ---
 **Contact Details**
 
-**Email**   (please insert usual *"at"* symbol, left out to foil scammers finding @s then trolling)\
-contact( )storytellingsa.org.au
+**Email**   (please insert usual *"at"* symbol where the ( ) and remove the bracket! Left out to foil scammers finding @s on websites, then trolling!!)\
+*contact( )storytellingsa.org.au*
 
 **Facebook**  www.facebook.com/storytellingsa - less used, please email
 
@@ -18,4 +18,4 @@ contact( )storytellingsa.org.au
 
 **Phone**  Vivienne 0439 420 994. If the meeting is in a "*private home*", please call (or email) for location details.
 
-**In Person** Attend one of our meetings - see Events\*\*. (Monthly meetings are held in various locations, some public with advertised address, others private homes so call for details.)
+**In Person** Attend one of our meetings - see Events\*\*. Monthly meetings are held in various locations, some public with advertised address, others private homes. Please phone Vivienne for details.
