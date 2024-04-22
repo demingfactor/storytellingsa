@@ -18,4 +18,4 @@ permalink: /{{url}}/index.html
 
 **Phone**  Vivienne 0439 420 994. If the meeting is in a "*private home*", please call (or email) for location details.
 
-**In Person** Attend one of our meetings - see Events\*\*. (Monthly meetings are held in various locations, some public with advertised address, others private homes, please call for details.)
+**In Person** Attend one of our meetings - see Events\*\*. Monthly meetings are held in various locations, some public with advertised address, others private homes. Please phone Vivienne for details.
