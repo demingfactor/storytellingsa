@@ -9,8 +9,8 @@ permalink: /{{url}}/index.html
 ---
 **Contact Details**
 
-**Email**   (please insert usual *"at"* symbol, left out to foil scammers finding @s then trolling)\
-contact( )storytellingsa.org.au
+**Email**   (please insert usual *"at"* symbol where the ( ) and remove the bracket! Left out to foil scammers finding @s on websites, then trolling!!)\
+*contact( )storytellingsa.org.au*
 
 **Facebook**  www.facebook.com/storytellingsa - less used, please email
 
