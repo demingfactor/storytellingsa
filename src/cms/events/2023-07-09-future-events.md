@@ -14,7 +14,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 **Sunday 26 May** 2024
 This is programmed as a performance within the  **South Australia’s History Festival - a ticketed event**. Tickets now available for $5 each, which includes you in the Raffle draw.  For information, and to book, please go to:  [ festival.history.sa.gov.au/5445](https://festival.history.sa.gov.au/events/storytellers-burrow-into-local-history/)
 **1:00  to 1:45pm Shared finger food lunch** 
-2:00 to 4:00 pm **Storytelling** (curated), theme; ***Storytellers burrow into local history!***  Interval included.
+2:00 to 4:00 pm **Storytelling** (curated), theme; ***"Storytellers burrow into local history!*** " Interval included.
 **Location**: Guide Hall, Philips Reserve, Corner of Rochester Street (off Glynburn Rd) & Howard Tce, **Leabrook.**
 
 **FUTURE MEETINGS** 
@@ -26,30 +26,30 @@ Private Home in **Woodcroft**. *For details, please call Vivienne*  **0439 420 9
 
 **Sunday 14 July** 2024
 **Morning Workshop** 10:00 - 12:30pm. Details will be announced nearer the date. There will be a small fee. 
-Theme for both am & pm sessions ***The Hero’s Journey***
+Theme for both am & pm sessions ***"The Hero’s Journey***"
 Lunch is shared finger food  1:00 - 2:00pm
 Afternoon story sharing  2:00 - 4:00pm*
 Location: Guide Hall, Philips Reserve, corner Howard Terrace & Rochester Street (off Glynburn Rd), **Leabrook**.
 
 **Saturday 17** **August 2024**
 Shared finger food lunch 1:00 - 2:00pm
-Story sharing theme ***Too Many Cooks***  2:00-4:00pm 
+Story sharing theme ***"Too Many Cooks***"  2:00-4:00pm 
 Location: Private home in **Glenalta**.
 ***For details, please call Sue 0419 860 880***
 
 **Saturday 15 September** 2024
 Shared finger food lunch. 1:00 - 2:00pm; 
-Story sharing theme ***From Little Seeds*** 2:00 - 4:00pm
+Story sharing theme ***"From Little Seeds"*** 2:00 - 4:00pm
 Location: Gilberton Scout Hall , 3A Redmond Street, **Collingswood**.
 
 **Saturday** **19 October** 2024
-Shared finger food lunch 1:00 - 2:00pm; Story sharing ***Green*** 
+Shared finger food lunch 1:00 - 2:00pm; Story sharing. Theme  ***"Green"*** 
 Stories told between  2:00 - 4:00pm 
 Location Private home in  **Windsor Gardens**. *For details, please call Vivienne*  **0439 420 994**
 
 **Sunday 17 November** 2024
 Shared finger food lunch 1:00 - 2:00pm
-Story sharing ***Wisdom*** 2:00 - 4:00pm 
+Story sharing ***"Wisdom"*** 2:00 - 4:00pm 
 Location: Private home in Christies Beach. ***For details, please call Vivienne***  0439 420 994
 
 **Saturday 7 December** 2024
@@ -59,7 +59,7 @@ Story sharing ***Heart of Gold*** … 11:00 -1:00pm
 
 [](<>)**Sunday January 19 2025** 
 Shared finger food lunch: 1:00 2:00- pm
-Story sharing them ***Tech Tales*** 2:00-4:00pm. 
+Story sharing them ***"Tech Tales***" 2:00-4:00pm. 
 Location: Guide Hall, Reserve, cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. 
 
 **Saturday February 8 2025** 
