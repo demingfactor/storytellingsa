@@ -12,11 +12,11 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 **NEXT MEETING** 
 
 **Saturday 15 June** 2024
-Shared finger food lunch 1:00 - 2:00pm
-Story sharing theme ***(To Be Advised later***) 2:00 - 4:00pm 
+Shared finger-food lunch 1:00 - 2:00pm
+Story sharing theme ***"Heart of Gold"***  2:00 - 4:00pm 
 Private Home in **Woodcroft**. *For details, please call Vivienne*  **0439 420 994**
 
-**FOLLOWING MEEtING**
+**FOLLOWING MEETING**
 
 **Sunday 14 July** 2024
 **Morning Workshop** 10:00 - 12:30pm. Details will be announced nearer the date. There will be a small fee. 
