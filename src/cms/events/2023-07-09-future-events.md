@@ -2,7 +2,7 @@
 layout: layouts/cms/event.html
 type: event
 title: 2024 Program of Events - up to Feb 2025
-subtitle: Storysharing Meetings for 2024  - Click here for the monthly meeting details
+subtitle: Storysharing Meetings for 2024  - Monthly meeting details
 date: 2025-02-10T02:41:54.447Z
 location: '{"type":"Point","coordinates":[138.5993293,-34.9268444]}'
 location_details: Assorted
@@ -16,7 +16,7 @@ Shared finger food lunch 1:00 - 2:00pm
 Story sharing theme ***(To Be Advised later***) 2:00 - 4:00pm 
 Private Home in **Woodcroft**. *For details, please call Vivienne*  **0439 420 994**
 
-**FUTURE MEETINGS** 
+**FOLLOWING MEEtING**
 
 **Sunday 14 July** 2024
 **Morning Workshop** 10:00 - 12:30pm. Details will be announced nearer the date. There will be a small fee. 
@@ -24,6 +24,8 @@ Theme for both am & pm sessions ***"The Hero’s Journey***"
 Lunch is shared finger food  1:00 - 2:00pm
 Afternoon story sharing  2:00 - 4:00pm*
 Location: Guide Hall, Philips Reserve, corner Howard Terrace & Rochester Street (off Glynburn Rd), **Leabrook**.
+
+**FUTURE MEETINGS** 
 
 **Saturday 17** **August 2024**
 Shared finger food lunch 1:00 - 2:00pm
