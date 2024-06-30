@@ -6,7 +6,7 @@ subtitle: ""
 date: 2023-09-16T05:54:27.768Z
 location: '{"type":"Point","coordinates":[138.6094975,-34.8911458]}'
 location_details: Gilberton Scout Hall, 3a Redmond Street, Collingswood SA
-archived: false
+archived: true
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 **Saturday 16 September 2023**
