@@ -6,7 +6,7 @@ subtitle: Special Event
 date: 2024-07-14T06:30:37.387Z
 location: '{"type":"Point","coordinates":[138.6587807,-34.9317358]}'
 location_details: Guide Hall, Phillips Reserve, **LEABROOK**
-archived: true
+archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 
