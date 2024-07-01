@@ -7,7 +7,7 @@ date: 2023-07-09T06:52:34.950Z
 url: membership
 permalink: /{{url}}/index.html
 ---
-Membership with Storytelling Australia (SA) Inc. is open to anyone who has an interest in oral storytelling, either as a "Teller" or as a "Listener" to stories told in the oral tradition.
+Membership with Storytelling Australia (SA) Inc. is open to anyone who has an interest in oral storytelling, either as a "Teller" of, or as a "Listener" to, stories told in the oral tradition. Check our "Getting Started" page for lots of help with telling stories.  
 
 **Specific Enquiries: *contact@storytellingsa.org.au***  
 
