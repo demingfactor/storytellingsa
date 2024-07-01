@@ -2,6 +2,7 @@
 layout: layouts/cms/page.html
 type: page
 title: Membership
+subtitle: How to Join
 date: 2023-07-09T06:52:34.950Z
 url: membership
 permalink: /{{url}}/index.html
