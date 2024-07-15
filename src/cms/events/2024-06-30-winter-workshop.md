@@ -1,17 +1,17 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: Winter Workshop
+title: Past Event - Winter Workshop
 subtitle: "Special Event "
 date: 2024-07-14T06:30:37.387Z
 location: '{"type":"Point","coordinates":[138.6587807,-34.9317358]}'
 location_details: Guide Hall, Phillips Reserve, **LEABROOK**
-archived: false
+archived: true
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 
 
-**NEXT MEETING - Special  - Winter Workshop**
+**Past Event - Special  - Winter Workshop**
 
 **Sunday 14 July** 2024
 **Morning Workshop** Afternoon Story sharing.
