@@ -12,10 +12,16 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 **NEXT MEETING**
 
 **Saturday 15 September** 2024
-Shared finger food lunch. 1:00 - 2:00pm; 
-Story sharing theme ***"From Little Seeds"*** 2:00 - 4:00pm
-Location: Gilberton Scout Hall , 3A Redmond Street, **Collingswood**.
 
+**Location:** Gilberton Scout Hall, 3A Redmond Street, **Collingswood**.
+
+1:00 - 2:00pm Shared-finger food lunch
+
+2:00 - 4:00pm Story sharing 
+
+Theme ***"From Little Seeds"*** 
+
+Re Finding venue - check any Map carefully as entrance, (next to a tennis court) is a bit unclear.
 
 **FOLLOWING MEETING**
 
