@@ -21,7 +21,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 Theme ***"From Little Seeds"*** 
 
-Re Finding venue - check any Map carefully as entrance, (next to a tennis court) is a bit unclear.
+**Parking** at end of a long narrow driveway with a tennis court on right-hand side. Hall is hidden in behind the house on  left of  driveway. Entrance to driveway is on south/city side of Redmond Road and just two houses and one tennis court in from D'Erlanger Avenue.
 
 **FOLLOWING MEETING**
 
