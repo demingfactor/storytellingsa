@@ -21,7 +21,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 Theme ***"From Little Seeds"*** 
 
-**Parking** at end of a long narrow driveway with a tennis court on right-hand side. Hall is hidden in behind the house on  left of  driveway. Entrance to driveway is on south/city side of Redmond Road and just two houses and one tennis court in from D'Erlanger Avenue.
+**Parking:** Drive down very narrow driveway with the tennis court on right-hand side. Park at end of driveway. Hall is hidden in behind the house on left.. Entrance to driveway is on south/city side of Redmond Road, one house, a municipal red box  and one tennis court in from D'Erlanger Avenue.
 
 **FOLLOWING MEETING**
 
