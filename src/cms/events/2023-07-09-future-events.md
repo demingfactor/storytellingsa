@@ -1,8 +1,8 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: 2024 Program of Events - up to Feb 2025
-subtitle: Storysharing Meetings for 2024  - Monthly meeting details
+title: Monthly Meetings List - 2024 to Feb 2025
+subtitle: Storysharing - you are invited! Details for attending current Program of Events
 date: 2025-02-10T02:41:54.447Z
 location: '{"type":"Point","coordinates":[138.6587371,-34.9316924]}'
 location_details: Assorted
@@ -11,25 +11,20 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 **NEXT MEETING**
 
-**Saturday 17** **August 2024**
-Shared finger food lunch 1:00 - 2:00pm
-Story sharing theme ***"Too Many Cooks***"  2:00-4:00pm 
-Location: Private home in **Glenalta**.
-***For details, please call Sue 0419 860 880***
-
-**FOLLOWING MEETING**
-
 **Saturday 15 September** 2024
 Shared finger food lunch. 1:00 - 2:00pm; 
 Story sharing theme ***"From Little Seeds"*** 2:00 - 4:00pm
 Location: Gilberton Scout Hall , 3A Redmond Street, **Collingswood**.
 
-**FUTURE MEETINGS** 
+
+**FOLLOWING MEETING**
 
 **Saturday** **19 October** 2024
 Shared finger food lunch 1:00 - 2:00pm; Story sharing. Theme  ***"Green"*** 
 Stories told between  2:00 - 4:00pm 
 Location Private home in  **Windsor Gardens**. *For details, please call Vivienne*  **0439 420 994**
+
+**FUTURE MEETINGS** 
 
 **Sunday 17 November** 2024
 Shared finger food lunch 1:00 - 2:00pm
