@@ -4,18 +4,24 @@ type: event
 title: Monthly Meetings List - 2024 to Feb 2025
 subtitle: Storysharing - you are invited! Details for attending current Program of Events
 date: 2025-02-10T02:41:54.447Z
-location: '{"type":"Point","coordinates":[138.6587371,-34.9316924]}'
+location: '{"type":"Point","coordinates":[138.6092236,-34.8911497]}'
 location_details: Assorted
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 **NEXT MEETING**
 
-**Saturday 15 September** 2024
-Shared finger food lunch. 1:00 - 2:00pm; 
-Story sharing theme ***"From Little Seeds"*** 2:00 - 4:00pm
-Location: Gilberton Scout Hall , 3A Redmond Street, **Collingswood**.
+**Sunday 15 September** 2024
 
+**Location:** Gilberton Scout Hall, 3A Redmond Street, **Collingswood**.
+
+1:00 - 2:00pm Shared-finger food lunch
+
+2:00 - 4:00pm Story sharing 
+
+Theme ***"From Little Seeds"*** 
+
+**Parking** at end of a long narrow driveway with a tennis court on right-hand side. Hall is hidden in behind the house on  left of  driveway. Entrance to driveway is on south/city side of Redmond Road and just two houses and one tennis court in from D'Erlanger Avenue.
 
 **FOLLOWING MEETING**
 
