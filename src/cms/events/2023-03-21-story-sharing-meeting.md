@@ -6,6 +6,7 @@ subtitle: ""
 date: 2023-03-20T09:49:37.056Z
 location: '{"type":"Point","coordinates":[121.3972429,-39.0154007]}'
 location_details: Knightsbridge Girl Guides Hall
+archived: true
 permalink: /events/{{ page.fileSlug }}/index.html
 ---
 **Past Event**
