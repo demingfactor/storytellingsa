@@ -4,14 +4,14 @@ type: event
 title: Monthly Meetings List - 2024 to Feb 2025
 subtitle: Storysharing - you are invited! Details for attending current Program of Events
 date: 2025-02-10T02:41:54.447Z
-location: '{"type":"Point","coordinates":[138.6587371,-34.9316924]}'
+location: '{"type":"Point","coordinates":[138.6092236,-34.8911497]}'
 location_details: Assorted
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 **NEXT MEETING**
 
-**Saturday 15 September** 2024
+**Sunday 15 September** 2024
 
 **Location:** Gilberton Scout Hall, 3A Redmond Street, **Collingswood**.
 
