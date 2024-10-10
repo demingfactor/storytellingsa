@@ -5,7 +5,7 @@ title: Monthly Meetings List & Details - 2024 to Feb 2025
 subtitle: "Storysharing - you are invited and will be welcome - whether in a
   private home or public venue! "
 date: 2025-02-10T02:41:54.447Z
-location: '{"type":"Point","coordinates":[138.6094382,-34.8912641]}'
+location: '{"type":"Point","coordinates":[138.6655715,-34.8634771]}'
 location_details: Assorted
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
