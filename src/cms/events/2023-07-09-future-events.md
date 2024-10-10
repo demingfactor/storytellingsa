@@ -1,7 +1,8 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: Monthly Meetings List & Details - 2024 to Feb 2025
+title: Monthly Meetings List & Details - 2024 to Feb 2025 (Click on this greyed
+  box for meeting details)
 subtitle: "Storysharing - you are invited and will be welcome - whether in a
   private home or public venue! "
 date: 2025-02-10T02:41:54.447Z
