@@ -1,8 +1,9 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: Monthly Meetings List - 2024 to Feb 2025
-subtitle: Storysharing - you are invited! Details for attending current Program of Events
+title: Monthly Meetings List & Details - 2024 to Feb 2025
+subtitle: "Storysharing - you are invited and will be welcome - whether in a
+  private home or public venue! "
 date: 2025-02-10T02:41:54.447Z
 location: '{"type":"Point","coordinates":[138.6094382,-34.8912641]}'
 location_details: Assorted
@@ -11,31 +12,19 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 **NEXT MEETING**
 
-**Sunday 15 September** 2024
-
-**Location:** Gilberton Scout Hall, 3A Redmond Street, **Collingswood**.
-
-1:00 - 2:00pm Shared-finger food lunch
-
-2:00 - 4:00pm Story sharing 
-
-Theme ***"From Little Seeds"*** 
-
-**Parking:** Drive down very narrow driveway with the tennis court on right-hand side. Park at end of driveway. Hall is hidden in behind the house on left.. Entrance to driveway is on south/city side of Redmond Road, one house, a municipal red box  and one tennis court in from D'Erlanger Avenue.
-
-**FOLLOWING MEETING**
-
 **Saturday** **19 October** 2024
 Shared finger food lunch 1:00 - 2:00pm; Story sharing. Theme  ***"Green"*** 
 Stories told between  2:00 - 4:00pm 
-Location Private home in  **Windsor Gardens**. *For details, please call Vivienne*  **0439 420 994**
+Location: Private home in **Windsor Gardens**. *For details, please call Vivienne*  **0439 420 994**
 
-**FUTURE MEETINGS** 
+**FOLLOWING MEETING**
 
 **Sunday 17 November** 2024
 Shared finger food lunch 1:00 - 2:00pm
 Story sharing ***"Wisdom"*** 2:00 - 4:00pm 
 Location: Private home in Christies Beach. ***For details, please call Vivienne***  0439 420 994
+
+ **FUTURE MEETINGS** 
 
 **Saturday 7 December** 2024
 Shared End-of-Year BRUNCH 9:30 -11:00am; 
