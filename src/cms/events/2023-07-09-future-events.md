@@ -13,26 +13,21 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 **NEXT MEETING**
 
-**Saturday** **19 October** 2024
-Shared finger food lunch 1:00 - 2:00pm; Story sharing. Theme  ***"Green"*** 
-Stories told between  2:00 - 4:00pm 
-Location: Private home in **Windsor Gardens**. *For details, please call Vivienne*  **0439 420 994**
-
-**FOLLOWING MEETING**
-
 **Sunday 17 November** 2024
 Shared finger food lunch 1:00 - 2:00pm
 Story sharing ***"Wisdom"*** 2:00 - 4:00pm 
 Location: Private home in Christies Beach. ***For details, please call Vivienne***  0439 420 994
 
- **FUTURE MEETINGS** 
+ **FOLLOWING MEETING**
 
 **Saturday 7 December** 2024
 Shared End-of-Year BRUNCH 9:30 -11:00am; 
 Story sharing ***Heart of Gold*** … 11:00 -1:00pm 
 *Location: Private home in* **Upper Sturt** For details, please call Vivienne  **0439 420 994**
 
-[](<>)**2025 - January and AGM Meetings**
+[](<>) **FUTURE MEETINGS**
+
+**2025 - January and AGM Meetings**
 
 **Sunday January 19 2025** 
 Shared finger food lunch: 1:00 2:00- pm
