@@ -1,12 +1,12 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: Monthly Meetings List & Details - March 2025 to Feb 2026 (Click on this
-  greyed box for meeting details)
+title: Monthly Meetings List & Details - March 2025 to February 2026 (Click on
+  this greyed box for meeting details)
 subtitle: "Storysharing - you are invited and will be welcome - whether in a
   private home or public venue! "
 date: 2025-02-10T02:41:54.447Z
-location: '{"type":"Point","coordinates":[138.6578038,-35.0244966]}'
+location: '{"type":"Point","coordinates":[138.6432624,-34.9385682]}'
 location_details: Assorted
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
