@@ -2,35 +2,14 @@
 layout: layouts/cms/event.html
 type: event
 title: "Monthly Meetings List & Details - March 2025 to February 2026 "
-subtitle: "Storysharing - you are invited and will be welcome - whether in a
-  private home or public venue! "
+subtitle: "Storytelling - welcome to our private home or public place venues! "
 date: 2025-02-10T02:41:54.447Z
 location: '{"type":"Point","coordinates":[138.6432624,-34.9385682]}'
 location_details: Assorted
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-**NEXT MEETING** 
-
-**Saturday 22 March 2025** 
-
-**Theme:** "*Harmony*" 
-
-**Location:** Burnside Library - car park entrance off Fisher Street. At library reception counter ask "Where is the Storytelling? 
-
-**Time:** 1:15pm for **1:30pm** start ... finishing at **3:30pm**
-
-Stories suitable for adults rather than children.
-
-Please, **have lunch before arriving** as our usual shared meal is too awkward in the library!
-
-**Cost:** We have an optional raffle/door-prize/donation - $5 
-
-**Background to the theme:**  Every year in March, Australians come together to mark **Harmony Week**, culminating in the observance of the **United Nations International Day for the Elimination of Racial Discrimination** on the 21st of March. Australia is one of the world’s most successful multicultural nations. We are home to the world’s oldest continuous cultures as well as migrants from nearly 200 countries. This week schools, workplaces and community groups reflect on this diversity by participating in events across the country and nearly 7,000 people from more than 120 countries will become new citizens. Multiculturalism is integral to our national identity- but we cannot take it for granted.
-
-**2025 PROGRAM** 
-
-On rare occasions when changes are made to the program we will notify everyone on our email list. 
+**2025 PROGRAM** - On rare occasions, when changes are made to the program, we will notify everyone on our email list. 
 Please check with the host if in doubt.
 Otherwise:
 
@@ -41,10 +20,26 @@ Otherwise:
 * **Guests** and new members welcome
 * **Venues** indoors &/or outdoors – be prepared
 
-**Saturday 22 March** This is one of the rare occasions, no shared lunch, unless coming the Spill-the Beans cafe at 11'ish)  - Have lunch before attending Story sharing *Harmony* … 
+**NEXT MEETING** 
 
-1-15 for 1:30 start to 3:30 pm 
-Venue: **Burnside Library**. Enq: 8431 6161
+**Saturday 22 March 2025** 
+
+**Time:** 1:15pm for **1:30pm** start ... finishing at **3:30pm**
+
+**Venue:** Burnside Library - car-park entrance off Fisher Street. At library reception counter ask "Where is the Storytelling? Enquiries: Olga 8431 6161
+
+Please, **have lunch before arriving** as our usual shared meal is too awkward in the library!
+
+**Cost:** We have an optional raffle/door-prize/donation - $5 
+
+**Theme:** "*Harmony*" 
+
+**Background to the theme:**  Every year in March, Australians come together to mark ***Harmony Week***, culminating in the observance of the **United Nations International Day for the Elimination of Racial Discrimination** on the 21st of March. Australia is one of the world’s most successful multicultural nations. We are home to the world’s oldest continuous cultures as well as migrants from nearly 200 countries. This week schools, workplaces and community groups reflect on this diversity by participating in events across the country and nearly 7,000 people from more than 120 countries will become new citizens. Multiculturalism is integral to our national identity- but we cannot take it for granted.
+
+
+
+
+
 
 **Sunday 27 April** Shared finger food lunch 1:002:00pm; Story sharing *Guilty* … 2:004:00pm Dover Gardens Scout Hall, 26 Quintus Tce, Dover Gardens. Enq: Vivienne  0439 420 994
 
