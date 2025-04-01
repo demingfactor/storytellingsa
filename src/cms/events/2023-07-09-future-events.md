@@ -13,8 +13,8 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 Please check with the host if in doubt.
 Otherwise:
 
-* **Lunch** of shared finger food 1 - 2pm
-* **Stories** intended for adults not children 2-4pm
+* **Lunch** of shared finger-food  **from 1pm to 2pm (people bring a little something to add to the table)**
+* **Stories** intended for adults not children **2pm to 4pm**
 * **Listeners** welcomed as much as tellers
 * **Themes** are a catalyst, open to interpretation
 * **Guests** and new members welcome
@@ -22,30 +22,17 @@ Otherwise:
 
 **NEXT MEETING** 
 
-**Saturday 22 March 2025** 
+**Sunday 27 April** Theme *Guilty* … 2:00 to 4:00pm Dover Gardens Scout Hall, 26 Quintus Tce, Dover Gardens. Enquiries: Vivienne  0439 420 994
 
-**Time:** 1:15pm for **1:30pm** start ... finishing at **3:30pm**
+**FUTURE MONTHLY MEETINGS FOR 2025**
 
-**Venue:** Burnside Library - car-park entrance off Fisher Street. At library reception counter ask "Where is the Storytelling? Enquiries: Olga 8431 6161
+**Sunday 25 May** **Alert! Slightly different to usual meetings!** Shared finger food lunch 1:00 to 1:45pm; Storytelling (curated) with an interval. 
 
-Please, **have lunch before arriving** as our usual shared meal is too awkward in the library!
+Theme: *Delving into Dilemmas*  1:45 for a 2:00pm start. Finish at around 4:00pm. 
 
-**Cost:** We have an optional raffle/door-prize/donation - $5 
+Programmed as a performance in SA’s History Festival. Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enquiries: Olga Farnill 8431 6161
 
-**Theme:** "*Harmony*" 
-
-**Background to the theme:**  Every year in March, Australians come together to mark ***Harmony Week***, culminating in the observance of the **United Nations International Day for the Elimination of Racial Discrimination** on the 21st of March. Australia is one of the world’s most successful multicultural nations. We are home to the world’s oldest continuous cultures as well as migrants from nearly 200 countries. This week schools, workplaces and community groups reflect on this diversity by participating in events across the country and nearly 7,000 people from more than 120 countries will become new citizens. Multiculturalism is integral to our national identity- but we cannot take it for granted.
-
-
-
-
-
-
-**Sunday 27 April** Shared finger food lunch 1:002:00pm; Story sharing *Guilty* … 2:004:00pm Dover Gardens Scout Hall, 26 Quintus Tce, Dover Gardens. Enq: Vivienne  0439 420 994
-
-**Sunday 25 May** Shared finger food lunch 1:001:45pm; Storytelling (curated) interval incl. Theme: *Delving into Dilemmas* 2:004:00pm. Programmed as a performance in SA’s History Festival. Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Olga Farnill8431 6161
-
-**Sunday 15 June** Shared finger food lunch 1:002:00pm; Story sharing *Blood red* … 2:004:00pm 51 Jimmy Watson Drive, Woodcroft. Enq: Daphne Finch 0438 368 374
+**Sunday 15 June** Shared finger food lunch 1:002:00pm; Story sharing *Blood red* … 2:00 4:00pm 51 Jimmy Watson Drive, Woodcroft. Enquiries: Daphne 0438 368 374
 
 **Saturday 19 July** See separate flyer about optional workshop attendance (and small fee). *Workshop (Theatre Skills )* 10:00am12:30pm.Shared finger food1:002:00pm Story sharing *Fishy …* 2:00-4:00pm Guide Hall, Reserve, cnr Glynburn Rd, Rochester St & Howard Tce, Leabrook. Enq; Olga Farnill8431 6161
 
