@@ -10,7 +10,7 @@ archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 **2025 PROGRAM** - On rare occasions, when changes are made to the program, we will notify everyone on our email list or please check with the host if in doubt.
-Otherwise:
+Otherwise this is the meeting logistics:
 
 * **Lunch** of shared finger-food  **from 1pm to 2pm (people bring a little healthy something to add to the table)** Note meetings start with a socialising around communal meal.
 * **Stories,** intended for adults not children, are from **2pm to 4pm** with a short break.
@@ -22,17 +22,17 @@ Otherwise:
 
 **NEXT MEETING** 
 
-**Sunday 27 April** Theme *Guilty* … 2:00 to 4:00pm Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens. Enquiries: Vivienne  0439 420 994
+**Sunday 27 April** Theme *Guilty.* **Venue:** Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens. Enquiries: Vivienne  0439 420 994
 
 **FUTURE MONTHLY MEETINGS FOR 2025**
 
 **Sunday 25 May** **NOTE - Slightly different to usual meeting.** Shared finger food lunch 1:00 to **1:45pm**; Storytelling 1:45 for **2pm start**. Theme: *Delving into Dilemmas*. Finish 4:00pm. Programmed as a performance -  part of **SA’s History Festiva**l. Venue: Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook.  Tickets - to be advised very soon. Enquiries: Olga 8431 6161
 
-**Sunday 15 June** Theme *Blood red* … 2:00 4:00pm 51 Venue: Private home in Woodcroft. Enquiries: Vivienne  0439 420 994
+**Sunday 15 June** Theme *Blood Red*. Venue: Private home in Woodcroft. Enquiries: Vivienne  0439 420 994
 
-**Saturday 19 July** **NOTE:** 10:00am 12:30pm morning **Workshop** exploring ***Theatre Skills*** applicable to Storytelling - Visitors $15, Members $10, payable with cash on the day. **Lunch 1:00 to 2:00pm** Story sharing theme: *Fishy*  2:00 - 4:00pm Venue: Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. Enq; Olga Farnill8431 6161
+**Saturday 19 July** **NOTE:** 10:00am 12:30pm morning **Workshop** exploring ***Theatre Skills*** applicable to Storytelling - Visitors $15, Members $10, payable with cash on the day. **Lunch 1:00 to 2:00pm** Story sharing theme: *Fishy*  2:00 - 4:00pm Venue: Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. Enq; Olga Farnill 8431 6161 Workshop is a special extra and is optional.
 
-**Saturday 16 August** Shared finger food lunch 1:002:00pm; Story sharing *Different Perspectives .…* 2:00-4:00pm 1 Byrnes St, Brooklyn Park. Enq: Sue Harris 8443 6031
+**Saturday 16 August** Story sharing *Different Perspectives .…* 2:00-4:00pm 1 Byrnes St, Brooklyn Park. Enq: Sue Harris 8443 6031
 
 **Sunday 21 September** Shared finger food lunch. 1:002:00pm; Story sharing *Fashion* … 2:004:00pm33 Beaverdale Ave, Windsor Gardens. Host: Jill Wherry 0439 808 612 Email: [wherryjill5@gmail.com](mailto:wherryjill5@gmail.com)
 
