@@ -26,13 +26,13 @@ Otherwise:
 
 **FUTURE MONTHLY MEETINGS FOR 2025**
 
-**Sunday 25 May** **ALERT! Slightly different to usual meetings!** Shared finger food lunch 1:00 to 1:45pm; Storytelling 1:45 for 2pm start. Theme: *Delving into Dilemmas*  1:45 for a 2:00pm start. Finish at around 4:00pm. Programmed as a performance with an interval as part of **SA’s History Festiva**l. Venue: Guide Hall in Phillips Reserve, Corner Glynburn Road, Rochester Street & Howard Terrace, Leabrook.  Enquiries: Olga 8431 6161
+**Sunday 25 May** **NOTE - Slightly different to usual meeting.** Shared finger food lunch 1:00 to **1:45pm**; Storytelling 1:45 for **2pm start**. Theme: *Delving into Dilemmas*. Finish 4:00pm. Programmed as a performance -  part of **SA’s History Festiva**l. Venue: Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook.  Tickets - to be advised very soon. Enquiries: Olga 8431 6161
 
 **Sunday 15 June** Theme *Blood red* … 2:00 4:00pm 51 Venue: Private home in Woodcroft. Enquiries: Vivienne  0439 420 994
 
-**Saturday 19 July**  10:00am12:30pm Optional morning Workshop exploring ***Theatre Skills*** applicable to Storytelling -a small fee. Lunch 1:002:00pm Story sharing *Fishy …* 2:00-4:00pm Guide Hall, Reserve, cnr Glynburn Rd, Rochester St & Howard Tce, Leabrook. Enq; Olga Farnill8431 6161
+**Saturday 19 July** **NOTE:** 10:00am 12:30pm morning **Workshop** exploring ***Theatre Skills*** applicable to Storytelling - Visitors $15, Members $10, payable with cash on the day. **Lunch 1:00 to 2:00pm** Story sharing theme: *Fishy*  2:00 - 4:00pm Venue: Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. Enq; Olga Farnill8431 6161
 
-**Saturday 16 August**Shared finger food lunch 1:002:00pm; Story sharing *Different Perspectives .…* 2:00-4:00pm 1 Byrnes St, Brooklyn Park. Enq: Sue Harris 8443 6031
+**Saturday 16 August** Shared finger food lunch 1:002:00pm; Story sharing *Different Perspectives .…* 2:00-4:00pm 1 Byrnes St, Brooklyn Park. Enq: Sue Harris 8443 6031
 
 **Sunday 21 September** Shared finger food lunch. 1:002:00pm; Story sharing *Fashion* … 2:004:00pm33 Beaverdale Ave, Windsor Gardens. Host: Jill Wherry 0439 808 612 Email: [wherryjill5@gmail.com](mailto:wherryjill5@gmail.com)
 
