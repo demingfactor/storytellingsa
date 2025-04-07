@@ -10,9 +10,9 @@ archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 **2025 PROGRAM** - On rare occasions, when changes are made to the program, we will notify everyone on our email list or please check with the host if in doubt.
-Otherwise this is the meeting logistics:
+Meeting information:
 
-* **Lunch** of shared finger-food  **from 1pm to 2pm (people bring a little healthy something to add to the table)** Note meetings start with a socialising around communal meal.
+* **Lunch** starts each meeting -  **from 1pm to 2pm and people bring a little healthy something to add to the table.** Note: this sharing of food is valued time and opportunity to get to know each other.
 * **Stories,** intended for adults not children, are from **2pm to 4pm** with a short break.
 * **Listeners** welcomed as much as Tellers
 * **Themes** are a catalyst ... open to imaginative interpretation
@@ -32,7 +32,7 @@ Otherwise this is the meeting logistics:
 
 **Saturday 19 July** **NOTE:** 10:00am 12:30pm morning **Workshop** exploring ***Theatre Skills*** applicable to Storytelling - Visitors $15, Members $10, payable with cash on the day. **Lunch 1:00 to 2:00pm** Story sharing theme: *Fishy*  2:00 - 4:00pm Venue: Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. Enq; Olga Farnill 8431 6161 Workshop is a special extra and is optional.
 
-**Saturday 16 August** Story sharing *Different Perspectives .…* 2:00-4:00pm 1 Byrnes St, Brooklyn Park. Enq: Sue Harris 8443 6031
+**Saturday 16 August** Story sharing *Different Perspectives.* Venue: Private home in Brooklyn Park. Enquiries: Vivienne  0439 420 994
 
 **Sunday 21 September** Shared finger food lunch. 1:002:00pm; Story sharing *Fashion* … 2:004:00pm33 Beaverdale Ave, Windsor Gardens. Host: Jill Wherry 0439 808 612 Email: [wherryjill5@gmail.com](mailto:wherryjill5@gmail.com)
 
