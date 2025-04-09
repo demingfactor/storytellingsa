@@ -10,18 +10,17 @@ archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 **2025 PROGRAM** 
-Meeting information:
+Monthly Meeting Information:
 
 * **LUNCH** starts each meeting -  **from 1pm to 2pm** and people bring a little healthy something to add to the table. Note: This sharing of food is valued time, with opportunities to get to know each other.
-* **STORIES** are from **2pm to 4pm** with a short break. Stories are intended for adults not children.
-* **THEMES** are a catalyst ... open to imaginative interpretation
+* **STORIES** start at **2pm,** finish at **4pm** with a short break. 
+* **THEMES** are a catalyst ... open to imaginative interpretation & intended for adults not children
 * **LISTENERS** welcomed as much as Tellers
 * **GUESTS** and new members welcome
 * **VENUES** indoors &/or outdoors, some in private homes – be prepared
 * **FUNDRAISERS to cover costs -** $5 raffle; Trading table - cash purchases of produce and such 
-* **HOST - available to call to answer questions.** 
+* **ENQUIRIES**: Vivienne is available to answer questions on 0439 420 994**.** 
 * **CHANGES** - On rare occasions, notices of change to the program will be sent to everyone on our email list.  
-*
 *
 
 **NEXT MEETING** 
@@ -30,7 +29,7 @@ Meeting information:
 
 **FUTURE MONTHLY MEETINGS FOR 2025**
 
-**Sunday 25 May** **NOTE - Slightly different to usual meeting.** Shared finger food lunch 1:00 to **1:45pm**; Storytelling 1:45 for **2pm start**. Theme: *Delving into Dilemmas*. Finish 4:00pm. Programmed as a performance -  part of **SA’s History Festiva**l. Venue: Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook.  Tickets - to be advised very soon. Enquiries: Olga 8431 6161
+**Sunday 25 May** **NOTE -** Ticketed event, performance programmed as part of **SA’s History Festiva**l. Shorter shared finger food lunch 1:00 to **1:45pm**; Storytelling 1:45 for **2pm start**. **Theme:** ***Delving into Dilemmas***. Finish 4:00pm.  Venue: Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook.   Enquiries: Olga 8431 6161
 
 **Sunday 15 June** Theme *Blood Red*. Venue: Private home in Woodcroft. Enquiries: Vivienne  0439 420 994
 
