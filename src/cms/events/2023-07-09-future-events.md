@@ -12,6 +12,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 **2025 PROGRAM** 
 Monthly Meeting Information:
 
+* **ENQUIRIES**: See meeting Host OR call Vivienne for queries and venue address 0439 420 994**.** 
 * **LUNCH** starts each meeting -  **from 1pm to 2pm** and people bring a little healthy something to add to the table. Note: This sharing of food is valued time, with opportunities to get to know each other.
 * **STORIES** start at **2pm,** finish at **4pm** with a short break. 
 * **THEMES** are a catalyst ... open to imaginative interpretation & intended for adults not children
@@ -19,27 +20,26 @@ Monthly Meeting Information:
 * **GUESTS** and new members welcome
 * **VENUES** indoors &/or outdoors, some in private homes – be prepared
 * **FUNDRAISERS to cover costs -** $5 raffle; Trading table - cash purchases of produce and such 
-* **ENQUIRIES**: Vivienne is available to answer questions on 0439 420 994**.** 
 * **CHANGES** - On rare occasions, notices of change to the program will be sent to everyone on our email list.  
 *
 
 **NEXT MEETING** 
 
-**Sunday 27 April** Theme *Guilty.* **Venue:** Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens. Enquiries: Vivienne  0439 420 994
+**Sunday 27 April** **Theme *Guilty.*** **Venue:** Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens. 
 
 **FUTURE MONTHLY MEETINGS FOR 2025**
 
-**Sunday 25 May** **NOTE -** Ticketed event, performance programmed as part of **SA’s History Festiva**l. Shorter shared finger food lunch 1:00 to **1:45pm**; Storytelling 1:45 for **2pm start**. **Theme:** ***Delving into Dilemmas***. Finish 4:00pm.  Venue: Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook.   Enquiries: Olga 8431 6161
+**Sunday 25 May** **NOTE -** Ticketed event, performance programmed as part of **SA’s History Festiva**l. Shorter shared finger food lunch 1:00 to **1:45pm**; Storytelling 1:45 for **2pm start**. **Theme:** ***Delving into Dilemmas***. Finish 4:00pm.  Venue: Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook.   Host: Olga 8431 6161
 
-**Sunday 15 June** Theme *Blood Red*. Venue: Private home in Woodcroft. Enquiries: Vivienne  0439 420 994
+**Sunday 15 June** Theme *Blood Red*. Venue: Private home in Woodcroft. Call Vivienne for venue address 0439 420 994
 
-**Saturday 19 July** **NOTE:** 10:00am 12:30pm morning **Workshop** exploring ***Theatre Skills*** applicable to Storytelling - Visitors $15, Members $10, payable with cash on the day. **Lunch 1:00 to 2:00pm** Story sharing theme: *Fishy*  2:00 - 4:00pm Venue: Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. Enq; Olga Farnill 8431 6161 Workshop is a special extra and is optional.
+**Saturday 19 July** **NOTE:** **Morning** **Workshop** (a special extra and is optional) 9.45am to start 10:00am finish at 12:30pm exploring ***Theatre Skills*** applicable to Storytelling - **Fee:** Visitors $15, Members $10, payable with cash on the day. **Shared lunch 1:00 to 2:00pm. Stories**  2:00 - 4:00pm. **Theme: *Fishy***. **Venue:** Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Olga 8431 6161.  Workshop is 
 
-**Saturday 16 August** Story sharing *Different Perspectives.* Venue: Private home in Brooklyn Park. Enquiries: Vivienne  0439 420 994
+**Saturday 16 August** **Theme: *Different Perspectives.* Venue:** Private home in Brooklyn Park. Call Vivienne for venue address 0439 420 994
 
-**Sunday 21 September** Shared finger food lunch. 1:002:00pm; Story sharing *Fashion* … 2:004:00pm33 Beaverdale Ave, Windsor Gardens. Host: Jill Wherry 0439 808 612 Email: [wherryjill5@gmail.com](mailto:wherryjill5@gmail.com)
+**Sunday 21 September** **Theme: *Fashion.*  Venue:** Private home in Windsor Gardens. Call Vivienne for venue address 0439 420 994
 
-**Sunday** **12 October** Shared finger food lunch 1:002:00pm; Story sharing *Celebrating Nature …*2:004:00pm Guide Hall, Reserve, cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Vivienne Fisher 0439 420 994
+**Sunday** **12 October**  **Theme: *Celebrating Nature*.  Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. 
 
 **Saturday 8 November** Shared finger food lunch 1:002:00pm; Story sharing *Dreaming*.…
 
