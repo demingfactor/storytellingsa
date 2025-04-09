@@ -9,16 +9,20 @@ location_details: Assorted
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-**2025 PROGRAM** - On rare occasions, when changes are made to the program, we will notify everyone on our email list or please check with the host if in doubt.
+**2025 PROGRAM** 
 Meeting information:
 
-* **Lunch** starts each meeting -  **from 1pm to 2pm and people bring a little healthy something to add to the table.** Note: this sharing of food is valued time and opportunity to get to know each other.
-* **Stories,** intended for adults not children, are from **2pm to 4pm** with a short break.
-* **Listeners** welcomed as much as Tellers
-* **Themes** are a catalyst ... open to imaginative interpretation
-* **Guests** and new members welcome
-* **Venues** indoors &/or outdoors, some in private homes – be prepared
-* **Fundraisers to cover costs -** $5 raffle; Trading table - cash purchases of produce and such 
+* **LUNCH** starts each meeting -  **from 1pm to 2pm** and people bring a little healthy something to add to the table. Note: This sharing of food is valued time, with opportunities to get to know each other.
+* **STORIES** are from **2pm to 4pm** with a short break. Stories are intended for adults not children.
+* **THEMES** are a catalyst ... open to imaginative interpretation
+* **LISTENERS** welcomed as much as Tellers
+* **GUESTS** and new members welcome
+* **VENUES** indoors &/or outdoors, some in private homes – be prepared
+* **FUNDRAISERS to cover costs -** $5 raffle; Trading table - cash purchases of produce and such 
+* **HOST - available to call to answer questions.** 
+* **CHANGES** - On rare occasions, notices of change to the program will be sent to everyone on our email list.  
+*
+*
 
 **NEXT MEETING** 
 
