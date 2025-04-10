@@ -16,7 +16,7 @@ Monthly Meeting Information:
 * **LUNCH** starts each meeting -  **from 1pm to 2pm** and people bring finger-food to add to the table. **Note:** This sharing of food is valued time, with opportunities to get to know each other.
 * **STORY-SHARING** starts at **2pm,** finishes at **4pm,** with a short break. 
 * **THEMES** for stories are a catalyst ... open to imaginative interpretation & **intended for adults** not children
-* **LISTENERS** welcome as are TELLERS with a prepared story
+* **LISTENERS** most welcome, as are TELLERS with a prepared story
 * **GUESTS** and new members welcome
 * **VENUES** indoors &/or outdoors, some in private homes – be prepared
 * **FUNDRAISERS to cover costs -** $5 raffle; Trading table - cash purchases of produce and such 
