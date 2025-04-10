@@ -13,8 +13,8 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 Monthly Meeting Information:
 
 * **ENQUIRIES**: See meeting Host OR call Vivienne for queries & venue address 0439 420 994**.** 
-* **LUNCH** starts each meeting -  **from 1pm to 2pm** and people bring finger-food to add to the table. Note: This sharing of food is valued time, with opportunities to get to know each other.
-* **STORY-SHARING** start at **2pm,** finish at **4pm** with a short break. 
+* **LUNCH** starts each meeting -  **from 1pm to 2pm** and people bring finger-food to add to the table. **Note:** This sharing of food is valued time, with opportunities to get to know each other.
+* **STORY-SHARING** starts at **2pm,** finishes at **4pm,** with a short break. 
 * **THEMES** for stories are a catalyst ... open to imaginative interpretation & **intended for adults** not children
 * **LISTENERS** welcome as are TELLERS with a prepared story
 * **GUESTS** and new members welcome
