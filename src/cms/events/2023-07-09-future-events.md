@@ -14,9 +14,9 @@ Monthly Meeting Information:
 
 * **ENQUIRIES**: See meeting Host OR call Vivienne for queries and venue address 0439 420 994**.** 
 * **LUNCH** starts each meeting -  **from 1pm to 2pm** and people bring a little healthy something to add to the table. Note: This sharing of food is valued time, with opportunities to get to know each other.
-* **STORIES** start at **2pm,** finish at **4pm** with a short break. 
-* **THEMES** are a catalyst ... open to imaginative interpretation & intended for adults not children
-* **LISTENERS** welcomed as much as Tellers
+* **STORY-SHARING** start at **2pm,** finish at **4pm** with a short break. 
+* **THEMES** for stories are a catalyst ... open to imaginative interpretation & **intended for adults** not children
+* **LISTENERS** welcome as are TELLERS with a prepared story
 * **GUESTS** and new members welcome
 * **VENUES** indoors &/or outdoors, some in private homes – be prepared
 * **FUNDRAISERS to cover costs -** $5 raffle; Trading table - cash purchases of produce and such 
@@ -25,7 +25,7 @@ Monthly Meeting Information:
 
 **NEXT MEETING** 
 
-**Sunday 27 April** **Theme *Guilty.*** **Venue:** Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens. 
+**Sunday 27 April**. **Theme *Guilty.*** **Venue:** Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens. 
 
 **FUTURE MONTHLY MEETINGS FOR 2025**
 
@@ -35,15 +35,15 @@ Monthly Meeting Information:
 
 **Saturday 19 July** **NOTE:** **Morning** **Workshop** (a special extra and is optional) 9.45am to start 10:00am finish at 12:30pm exploring ***Theatre Skills*** applicable to Storytelling - **Fee:** Visitors $15, Members $10, payable with cash on the day. **Shared lunch 1:00 to 2:00pm. Stories**  2:00 - 4:00pm. **Theme: *Fishy***. **Venue:** Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Olga 8431 6161.  Workshop is 
 
-**Saturday 16 August** **Theme: *Different Perspectives.* Venue:** Private home in Brooklyn Park. Call Vivienne for venue address 0439 420 994
+**Saturday 16 August.** **Theme: *Different Perspectives.* Venue:** Private home in Brooklyn Park. Call Vivienne for venue address 0439 420 994
 
-**Sunday 21 September** **Theme: *Fashion.*  Venue:** Private home in Windsor Gardens. Call Vivienne for venue address 0439 420 994
+**Sunday 21 September**. **Theme: *Fashion.*  Venue:** Private home in Windsor Gardens. Call Vivienne for venue address 0439 420 994
 
-**Sunday** **12 October**  **Theme: *Celebrating Nature*.  Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. 
+**Sunday** **12 October.**  Ticketed event, performance programmed as part of **SA’s Nature Festival. Theme: *Celebrating Nature*.  Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. 
 
-**Saturday 8 November** Shared finger food lunch 1:002:00pm; Story sharing *Dreaming*.…
+**Saturday 8 November** **Theme: *Dreaming.*  Venue:** Private home in Valley View. Call Vivienne for venue address 0439 420 994
 
-[](<>)2:004:00pm 9 Forrest Ave, Valley View
+[](<>)2:004:00pm 9 Forrest Ave, 
 
 Enq: Leila Azad 0430386419
 
