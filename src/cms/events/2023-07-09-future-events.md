@@ -4,7 +4,7 @@ type: event
 title: 2025 Monthly Meetings - Dates,Themes, Locations & Details
 subtitle: "Storytelling - welcome to our private home or public place venues! "
 date: 2025-02-10T02:41:54.447Z
-location: '{"type":"Point","coordinates":[138.6432624,-34.9385682]}'
+location: '{"type":"Point","coordinates":[138.5349817,-35.0260236]}'
 location_details: Assorted
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
