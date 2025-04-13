@@ -27,7 +27,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
   **Sunday 27 April**. **Theme** *Guilty.* **Venue:** Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens.
 * **FUTURE MONTHLY MEETINGS FOR 2025**
 
-  **Sunday 25 May.** **NOTE -** Ticketed Event - Performance programmed as part of **SA’s History Festiva**l. Shorter shared finger-food lunch **1:00** to **1:45pm**; Storytelling **1:45pm** for **2pm start**. **Theme:** *Delving into Dilemmas*. Finish 4:00pm. **Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 - call for Ticket Information.
+  **Sunday 25 May.** **NOTE -** Ticketed Event - Performance programmed as part of **SA’s History Festiva**l. Shorter shared finger-food lunch **1:00** to **1:45pm**; Storytelling **1:45pm** for **2pm start**. **Theme:** *Delving into Dilemmas*. Finish 4:00pm. **Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 - call for Ticket Information. (ticketing details will be published here nearer event.)
 
   **Sunday 15 June.** **Theme:** *Blood Red*. **Venue:** Private home in Woodcroft. Call Vivienne for venue address 0439 420 994
 
@@ -37,7 +37,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
   **Sunday 21 September**. **Theme:** *Fashion.* **Venue:** Private home in **Windsor Gardens**. Call Vivienne for venue address 0439 420 994
 
-  **Sunday** **12 October.** Ticketed Event - Performance programmed as part of **SA’s Nature Festival. Theme:** *Celebrating Nature***. Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 - call for Ticket Information.
+  **Sunday** **12 October.** Ticketed Event - Performance programmed as part of **SA’s Nature Festival. Theme:** *Celebrating Nature***. Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 - call for Ticket Information (ticketing details will be published here nearer event.)
 
   **Saturday 8 November.** **Theme:** *Dreaming.* **Venue:** Private home in Valley View. Call Vivienne for venue address 0439 420 994.
 
