@@ -1,32 +1,48 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: Monthly Meetings List & Details - March 2025 to February 2026 (Click on
-  this greyed box for meeting details)
-subtitle: "Storysharing - you are invited and will be welcome - whether in a
-  private home or public venue! "
+title: "2025 Monthly Meetings - Dates,Themes & Location "
+subtitle: "Storytelling - welcome to our private home or public place venues! "
 date: 2025-02-10T02:41:54.447Z
 location: '{"type":"Point","coordinates":[138.6432624,-34.9385682]}'
 location_details: Assorted
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-**NEXT MEETING** 
 
-**Saturday 22 March 2025** 
 
-**Theme:** "*Harmony*" 
+**2025 PROGRAM - I***nformation for each* Monthly Meeting:
 
-**Location:** Burnside Library - car park entrance off Fisher Street. At library reception counter ask "Where is the Storytelling? 
+* **ENQUIRIES**: See meeting Host OR **call** Vivienne **for private venue addres**s 0439 420 994**.**
+* **LUNCH** starts each meeting - **from 1pm to 2pm** and people bring finger-food to add to the table. **Note:** This sharing of food is valued time, with opportunities to get to know each other.
+* **STORY-SHARING** starts at **2pm,** finishes at **4pm (includes** a short break) S
+* **THEMES** for stories are a catalyst ... open to imaginative interpretation & **intended for adults,** not children
+* **VENUES** – please call Host for address if in private home. Meetings can be indoors &/or outdoors.
+* **FUNDRAISERS to cover costs -** $5 raffle; Trading table - cash purchases of produce and such
+* **CHANGES** - On rare occasions, notices of change to the program will be sent to everyone on our email list.
+* **LISTENERS** most welcome, as are TELLERS with a prepared story
+* **GUESTS** and new members welcome
+* **NEXT MEETING**
 
-**Time:** 1:15pm for **1:30pm** start ... finishing at **3:30pm**
+  **Sunday 27 April**. **Theme** *Guilty.* **Venue:** Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens.
+* **FUTURE MONTHLY MEETINGS FOR 2025**
 
-Stories suitable for adults rather than children.
+  **Sunday 25 May.** **NOTE -** Ticketed Event - Performance programmed as part of **SA’s History Festiva**l. Shorter shared finger-food lunch **1:00** to **1:45pm**; Storytelling **1:45pm** for **2pm start**. **Theme:** *Delving into Dilemmas*. Finish 4:00pm. **Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 - call for Ticket Information. (ticketing details will be published here nearer event.)
 
-Please, **have lunch before arriving** as our usual shared meal is too awkward in the library!
+  **Sunday 15 June.** **Theme:** *Blood Red*. **Venue:** Private home in Woodcroft. Call Vivienne for venue address 0439 420 994
 
-**Cost:** We have an optional raffle/door-prize/donation - $5 
+  **Saturday 19 July.** **NOTE: 9.45 am for 10:00am start** **Morning** **Workshop** (a special optional extra) , finish at 12:30pm exploring *Theatre Skills* applicable to Storytelling - **Fee:** Visitors $15, Members $10, payable, with cash, on the day. **Shared lunch 1:00 to 2:00pm. Stories** 2:00 - 4:00pm. **Theme:** *Fishy*. **Venue:** Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Please let Olga know if you are attending Workshop - 8431 6161.
 
-**Background to the theme:**  Every year in March, Australians come together to mark **Harmony Week**, culminating in the observance of the **United Nations International Day for the Elimination of Racial Discrimination** on the 21st of March. Australia is one of the world’s most successful multicultural nations. We are home to the world’s oldest continuous cultures as well as migrants from nearly 200 countries. This week schools, workplaces and community groups reflect on this diversity by participating in events across the country and nearly 7,000 people from more than 120 countries will become new citizens. Multiculturalism is integral to our national identity- but we cannot take it for granted.
+  **Saturday 16 August.** **Theme:** *Different Perspectives.* **Venue:** Private home in **Brooklyn Park**. Call Vivienne for venue address 0439 420 994
 
-**FOLLOWING MEETING**[](<>) is scheduled  for Sunday 27 April  **\- Full 2025 PROGRAM - TO BE PUBLISHED EARLY MARCH**
+  **Sunday 21 September**. **Theme:** *Fashion.* **Venue:** Private home in **Windsor Gardens**. Call Vivienne for venue address 0439 420 994
+
+  **Sunday** **12 October.** Ticketed Event - Performance programmed as part of **SA’s Nature Festival. Theme:** *Celebrating Nature***. Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 - call for Ticket Information (ticketing details will be published here nearer event.)
+
+  **Saturday 8 November.** **Theme:** *Dreaming.* **Venue:** Private home in Valley View. Call Vivienne for venue address 0439 420 994.
+
+  **Saturday 6 December.** **NOTE**: 9:30am Shared **Xmas BRUNCH** until 11:00am then Story sharing. **Theme:** *I want* … until 1:00pm. **Venue** - private home in Upper Sturt (in the hills between Belair and Crafers) Call Vivienne for venue address 0439 420 994.
+
+  **Saturday 17 January.** 2026. **Theme** *A slice of life.* **Venue:** Living Choice Fullarton Retirement Village, 28 Fullarton Rd, Fullarton. **Host:** Sue 0419 860 880
+
+  **Sunday 8 February** 2026. **NOTE:** 1pm lunch, 2pm **AGM** then delightful **Guest Speaker**. **Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host**: Olga 8431 6161.
