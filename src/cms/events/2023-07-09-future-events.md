@@ -14,7 +14,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 * **NEXT MEETING**
 * **Sunday 25 May.** **NOTE -** This is a ticketed performance programmed as part of **SA’s History Festiva**l. For Tickets  please visit this link:
   **[festival.history.sa.gov.au - Storytellers Delve Into Dilemmas](<festival.history.sa.gov.au - Storytellers Delve Into Dilemmas>)**\
-  You are welcome to join us for shared lunch of finger-food  **1:00** to **1:45pm**; Storytelling **1:45pm** for **2pm start**. **Theme:** *Delving into Dilemmas*. Finish 4:00pm. **Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880. We are on page 41 of 2025 SA History Festival's printed program book. Ticket Information. Cost $6.21 ($5 for Storytelling SA + GST + Ticketing fee ... BUT Humanitix on-line ticketing don''t keep the fee, its all donated to charity.) 
+  You are welcome to join us for shared lunch of finger-food  **1:00** to **1:45pm**; Storytelling **1:45pm** for **2pm start**. **Theme:** *Delving into Dilemmas*. Finish 4:00pm. **Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880. We are on page 41 of 2025 SA History Festival's printed program book. Ticket Information. Cost $6.31 ($5 for Storytelling SA + GST + Ticketing fee ... BUT Humanitix on-line ticketing don''t keep the fee, its all donated to charity.) 
 
 **INFORMATION** for **each** Monthly Meeting:
 
@@ -27,8 +27,6 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 * **CHANGES** - On rare occasions, notices of change to the program will be sent to everyone on our email list.
 * **LISTENERS** most welcome, as are TELLERS with a prepared story
 * **GUESTS** and new members welcome
-
-
 
 **FUTURE MONTHLY MEETINGS FOR 2025**
 
