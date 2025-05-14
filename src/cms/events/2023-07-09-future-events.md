@@ -9,8 +9,6 @@ location_details: Assorted
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-
-
 **2025 PROGRAM - I***nformation for each* Monthly Meeting:
 
 * **ENQUIRIES**: See meeting Host OR **call** Vivienne **for private venue addres**s 0439 420 994**.**
@@ -23,13 +21,12 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 * **LISTENERS** most welcome, as are TELLERS with a prepared story
 * **GUESTS** and new members welcome
 * **NEXT MEETING**
+* **Sunday 25 May.** **NOTE -** For Tickets $5 (+ GST & Humanitix's fee which is donated to charity = $6.21) please visit: 
+  [**festival.history.sa.gov.au - Storytellers Delve Into Dilemmas**](<festival.history.sa.gov.au - Storytellers Delve Into Dilemmas>)\
+  Performance programmed as part of **SA’s History Festiva**l. Shorter lunch time with shared finger-food  **1:00** to **1:45pm**; Storytelling **1:45pm** for **2pm start**. **Theme:** *Delving into Dilemmas*. Finish 4:00pm. **Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 - Ticket Information. See page 41 of 2025 SA History Festival's printed program book.
 
-  **Sunday 27 April**. **Theme** *Guilty.* **Venue:** Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens.
-* **FUTURE MONTHLY MEETINGS FOR 2025**
-
-  **Sunday 25 May.** **NOTE -** Ticketed Event - Performance programmed as part of **SA’s History Festiva**l. Shorter shared finger-food lunch **1:00** to **1:45pm**; Storytelling **1:45pm** for **2pm start**. **Theme:** *Delving into Dilemmas*. Finish 4:00pm. **Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 - call for Ticket Information. (ticketing details will be published here nearer event.)
-
-  **Sunday 15 June.** **Theme:** *Blood Red*. **Venue:** Private home in Woodcroft. Call Vivienne for venue address 0439 420 994
+    **FUTURE MONTHLY MEETINGS FOR 2025**
+* **Sunday 15 June.** **Theme:** *Blood Red*. **Venue:** Private home in Woodcroft. Call Vivienne for venue address 0439 420 994
 
   **Saturday 19 July.** **NOTE: 9.45 am for 10:00am start** **Morning** **Workshop** (a special optional extra) , finish at 12:30pm exploring *Theatre Skills* applicable to Storytelling - **Fee:** Visitors $15, Members $10, payable, with cash, on the day. **Shared lunch 1:00 to 2:00pm. Stories** 2:00 - 4:00pm. **Theme:** *Fishy*. **Venue:** Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Please let Olga know if you are attending Workshop - 8431 6161.
 
@@ -37,7 +34,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
   **Sunday 21 September**. **Theme:** *Fashion.* **Venue:** Private home in **Windsor Gardens**. Call Vivienne for venue address 0439 420 994
 
-  **Sunday** **12 October.** Ticketed Event - Performance programmed as part of **SA’s Nature Festival. Theme:** *Celebrating Nature***. Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 - call for Ticket Information (ticketing details will be published here nearer event.)
+  **Sunday** **12 October.** Ticketed Event - Performance programmed as part of **SA’s Nature Festival. Theme:** *Celebrating Nature**\*. Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 - call for Ticket Information (ticketing details will be published here nearer event.)
 
   **Saturday 8 November.** **Theme:** *Dreaming.* **Venue:** Private home in Valley View. Call Vivienne for venue address 0439 420 994.
 
@@ -46,3 +43,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
   **Saturday 17 January.** 2026. **Theme** *A slice of life.* **Venue:** Living Choice Fullarton Retirement Village, 28 Fullarton Rd, Fullarton. **Host:** Sue 0419 860 880
 
   **Sunday 8 February** 2026. **NOTE:** 1pm lunch, 2pm **AGM** then delightful **Guest Speaker**. **Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host**: Olga 8431 6161.
+*
+*
+*
+*
