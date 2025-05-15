@@ -7,7 +7,7 @@ date: 2023-07-09T06:52:34.950Z
 url: membership
 permalink: /{{url}}/index.html
 ---
-**Email your request** including a bit about yourself and interest in Storytelling. OR, if possible, attend a meeting and sort it out in person.
+**Email your request** including a bit about yourself and interest in Storytelling. **OR**, if possible, attend a meeting and sort it out in person.
 
 * **Email address:** ***contact@storytellingsa.org.au***
 
@@ -26,7 +26,7 @@ Membership with Storytelling Australia (SA) Inc. is open to anyone with an inter
 ### **Fee payment options - Cash**
 
 * **In person –** Attend a meeting and say you'd like to join. **Meeting Locations:** See current year's **Events** (published each March) 
-* **EFT -**  email request to   **contact@storytellingsa.org.au**  include contact details; name and phone contact and a bit about yourself and interest in this group. We will contact you with bank details.
+* **EFT -**  email request to **contact@storytellingsa.org.au**  include contact details; name and phone contact and a bit about yourself and interest in this group. We will contact you with bank details.
   **By Post:**  Send your request, including your name, return address and contact details, and your cheque or money order made payable to:
            **Storytelling Australia (SA) Inc. Postal Address:** Storytelling Australia (SA) Inc.  215 Angas Street, Adelaide SA 5000
 
