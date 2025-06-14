@@ -1,7 +1,8 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: 2025 Events - Monthly Meetings - Dates,Themes, Locations & Details
+title: 2025  - (QR Code users Press Here)  or scroll down for Dates,Themes,
+  Locations & Details
 subtitle: "Storytelling - welcome to our private home or public place venues! "
 date: 2025-02-10T02:41:54.447Z
 location: '{"type":"Point","coordinates":[138.5630964,-35.0931367]}'
