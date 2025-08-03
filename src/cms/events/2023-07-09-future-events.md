@@ -3,20 +3,16 @@ layout: layouts/cms/event.html
 type: event
 title: 2025  - (QR Code users Press Here)  or scroll down for Dates,Themes,
   Locations & Details
-subtitle: "Storytelling - welcome to our private home or public place venues! "
+subtitle: "Storytelling - welcome to private home or public place venues! "
 date: 2025-02-10T02:41:54.447Z
 location: '{"type":"Point","coordinates":[138.5630964,-35.0931367]}'
 location_details: Assorted
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-## **2025 PROGRAM**
+## **2025 PROGRAM - NEXT MEETING**
 
-
-
-### **NEXT MEETING**
-
-* **Sunday 15 June.** **Theme:** *Blood Red*. **Venue:** Private home in Woodcroft. Call Vivienne for venue address 0439 420 994
+* **Saturday 16 August.** **Theme:** *Different Perspectives.* **Venue:** Private home in **Brooklyn Park**. Call Vivienne for venue address 0439 420 994
 
 ### **INFORMATION** about Monthly Meetings:
 
@@ -32,11 +28,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 ### **FUTURE MONTHLY MEETINGS FOR 2025**
 
-* **Saturday 19 July.** **NOTE: Winter** **Workshop** (a special optional extra) **9.45 am for 10:00am start**, finish at 12:30pm; exploring *Theatre Skills Applicable to Storytelling* - **Fee:** Visitors $15, Members $10, payable, with cash, at the door. Do stay for **shared lunch 1:00 to 2:00pm. Stories** 2:00 - 4:00pm. **Theme:** *Fishy*. **Venue:** Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Please let Olga know if you are attending morning Workshop - 8431 6161.
-
-  **Saturday 16 August.** **Theme:** *Different Perspectives.* **Venue:** Private home in **Brooklyn Park**. Call Vivienne for venue address 0439 420 994
-
-  **Sunday 21 September**. **Theme:** *Fashion.* **Venue:** Private home in **Windsor Gardens**. Call Vivienne for venue address 0439 420 994
+* **Sunday 21 September**. **Theme:** *Fashion.* **Venue:** Private home in **Windsor Gardens**. Call Vivienne for venue address 0439 420 994
 
   **Sunday** **12 October.** Ticketed Event - Performance programmed as part of **SA’s Nature Festival. Theme:** *Celebrating Nature**\*. Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 - call for Ticket Information (ticketing details will be published here nearer event.) We use Humanitix for our on-line ticketing. They don't keep the fee, its all donated to charity. Ticket Information. Cost $x - to be announced ($x for Storytelling SA + GST + Ticketing fee=donation to charity.)
 * **Saturday 8 November.** **Theme:** *Dreaming.* **Venue:** Private home in Valley View. Call Vivienne for venue address 0439 420 994.
