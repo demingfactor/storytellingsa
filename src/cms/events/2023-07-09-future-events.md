@@ -5,7 +5,7 @@ title: 2025  -  scroll down for When, Where & Theme
 subtitle: "Storytelling - All WELCOME "
 date: 2025-02-10T02:41:54.447Z
 location: '{"type":"Point","coordinates":[138.5630964,-35.0931367]}'
-location_details: Assorted
+location_details: Next  - Brooklyn Park, South Australia
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
