@@ -21,7 +21,7 @@ As oral storytellers, we vary in:
 
 ### **What is our take on storytelling?**
 
-We view telling stories orally as an performing art form. All people possess storytelling skills to some degree, by virtue of possessing speech or access to its alternatives. 
+We view telling stories in the oral tradition as an performing art form. All people possess storytelling skills to some degree, by virtue of possessing speech or access to its alternatives. 
 
 Accordingly, we acknowledge that storytelling can range from a hesitant recount of an anecdote over a family meal to a full blown solo concert performance requiring sustained preparation, and underpinned by great artistry and skill.
 
