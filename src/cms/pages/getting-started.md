@@ -6,17 +6,22 @@ date: 2023-07-09T10:47:11.330Z
 url: getting-started
 permalink: /{{url}}/index.html
 ---
+### **Can I Start Quietly in the Audience, Listening?**
+Best way -  stories come alive with willing listeners. You will be welcome as the part of the audience. You never HAVE to tell a story, only if you chose to.
+
+
+
 ### **What sort of stories can one tell?**
 
 All sorts! 
 
-Here's an A to Z of possibilities and there are more...
+There's an A to Z of possibilities and more...
 
 * animal tales, big stories, cultural ones, epics, episodes from epics, 
 * fables, fairy-tales, folk-tales, funny stories
 * ghost stories, heritage, historical, inspirational, jokes, legends, literary, myths, 
 * narratives, poems, parables, personal stories, sacred stories, slice of life, 
-* tall stories, trickster stories, urban myths, wisdom tales, wonderous, yarns, 
+* tall stories, trickster stories, urban myths, wisdom tales, wondrous, yarns, 
 * zoom stories (for a z entry)
 
 ### Themes and motifs - an infinite range
@@ -26,19 +31,20 @@ Stories are also grouped in collections by reference to:
 * a **theme** e.g. animals, ecology, monsters 
 * specific **region** or country e.g. India, Ghana, Iceland, sea or desert 
 * recurrent **motifs** e.g. quest, abandonment, transformation, lost, journey
-* feel - light, dark, racy, sad, humorous, sad, heavy, short, lengthy, rhythic 
+* **feel** - light, dark, racy, sad, humorous, sad, heavy, short, lengthy, rhythic 
 
 ### **Your Purpose?**
 
-#### **We tell stories to…**
+#### **People tell stories to…**
 
+* for a jolly good time evoking laughter
 * entertain, distract, and divert
 * develop oracy and literacy
 * express oneself (as teller)
-* enthuse about ... historical events, people etc.
+* enthuse about ... historical events, people, life etc.
 * nurture particular social attitudes and values
 * develop problem-solving skills
-* provide a vehicle and narrative genre for learning a language
+* provide a vehicle and narrative genre for learning language
 * nurture an appreciation of cultural diversity
 * supplement school subject learning (e.g. literature, history, reading & science)
 * nurture imagination and creativity
@@ -46,7 +52,7 @@ Stories are also grouped in collections by reference to:
 * contribute to psychological healing
 * practice storytelling skills
 * develop an organisational culture
-* provoke self-reflection on personal attitudes re controversial topics (e.g. racism, sexism etc)
+* provoke self-reflection on personal attitudes re controversial topics (e.g. justice, racism, conflict etc)
 * "play" and "dance" with the spoken language and audience participation
 * embed quality language patterns for children as they listen and learn
 * to have a jolly good time
