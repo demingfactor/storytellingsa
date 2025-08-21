@@ -1,7 +1,7 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: "2025  -  Select, click then scroll down for Theme, When & Where "
+title: "2025  -  select, click then scroll down for Theme, When & Where "
 subtitle: "Storytelling - All WELCOME "
 date: 2025-02-10T02:41:54.447Z
 location: '{"type":"Point","coordinates":[138.6657762,-34.8631478]}'
