@@ -1,22 +1,23 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: 2025  -  scroll down for When, Where & Theme
+title: "2025  -  select, click then scroll down for Theme, When & Where "
 subtitle: "Storytelling - All WELCOME "
 date: 2025-02-10T02:41:54.447Z
-location: '{"type":"Point","coordinates":[138.5630964,-35.0931367]}'
+location: '{"type":"Point","coordinates":[138.6657762,-34.8631478]}'
 location_details: Next  - Brooklyn Park, South Australia
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 ## **2025 PROGRAM - Adelaide, South Australia**
 
-### NEXT MEETING -
+### NEXT MEETING 
 
-Saturday 16 August 2025
+* **Sunday 21 September**. **Theme:** *Fashion.* \
+  **Venue:** Private home in **Windsor Gardens**. \
+       Call Vivienne for the address 0439 420 994
 
-*  **Theme:** *Different Perspectives*.
-* **Venue:** Private home in **Brooklyn Park**. Call Vivienne for venue address 0439 420 994
+
 
 ### **INFORMATION** about Monthly Meetings:
 
@@ -32,9 +33,7 @@ Saturday 16 August 2025
 
 ### **FUTURE MONTHLY MEETINGS FOR 2025 & Early 2026**
 
-* **Sunday 21 September**. **Theme:** *Fashion.* **Venue:** Private home in **Windsor Gardens**. Call Vivienne for venue address 0439 420 994
-
-  **Sunday** **12 October.** Ticketed Event - Performance programmed as part of **SA’s Nature Festival. Theme:** *Celebrating Nature**\*. Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 - call for Ticket Information (ticketing details will be published here nearer event.) We use Humanitix for our on-line ticketing. They don't keep the fee, its all donated to charity. Ticket Information. Cost $x - to be announced ($x for Storytelling SA + GST + Ticketing fee=donation to charity.)
+* **Sunday** **12 October.** Ticketed Event - Performance programmed as part of **SA’s Nature Festival. Theme:** *Celebrating Nature**\*. Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 - call for Ticket Information (ticketing details will be published here nearer event.) We use Humanitix for our on-line ticketing. They don't keep the fee, its all donated to charity. Ticket Information. Cost $x - to be announced ($x for Storytelling SA + GST + Ticketing fee=donation to charity.)
 * **Saturday 8 November.** **Theme:** *Dreaming.* **Venue:** Private home in Valley View. Call Vivienne for venue address 0439 420 994.
 
   **Saturday 6 December.** **NOTE**: 9:30am Shared **Xmas BRUNCH** until 11:00am then Story sharing. **Theme:** *I want* … until 1:00pm. **Venue** - private home in Upper Sturt (in the hills between Belair and Crafers) Call Vivienne for venue address 0439 420 994.
