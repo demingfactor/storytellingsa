@@ -4,20 +4,18 @@ type: event
 title: "2025  -  select, click then scroll down for Theme, When & Where "
 subtitle: "Storytelling - All WELCOME "
 date: 2025-02-10T02:41:54.447Z
-location: '{"type":"Point","coordinates":[138.6657762,-34.8631478]}'
-location_details: Next  - Brooklyn Park, South Australia
+location: '{"type":"Point","coordinates":[138.6588014,-34.9317155]}'
+location_details: Knightsbridge Guide Hall in Phillips Reserve, corner of
+  Rochester Street & Howard Terrace, Leabrook
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 ## **2025 PROGRAM - Adelaide, South Australia**
 
-### NEXT MEETING 
+### NEXT MEETING
 
-* **Sunday 21 September**. **Theme:** *Fashion.* \
-  **Venue:** Private home in **Windsor Gardens**. \
-       Call Vivienne for the address 0439 420 994
-
-
+* **Sunday** **12 October.** Ticketed Event - $10 ($5 for Members) Performance programmed as part of **SA’s Nature Festival. Theme:** *Celebrating Nature**\*. Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 -  Ticket Purchase link          <https://www.naturefestival.org.au/event/storytelling-celebrating-nature>
+  We use Humanitix for our on-line ticketing. They don't keep the fee, its all donated to charity.
 
 ### **INFORMATION** about Monthly Meetings:
 
