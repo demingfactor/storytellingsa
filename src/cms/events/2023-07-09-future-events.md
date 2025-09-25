@@ -1,9 +1,9 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: "2025  -  select, click then scroll down for Theme, When & Where "
+title: "2025  - Scroll down for Theme, When & Where "
 subtitle: "Storytelling - All WELCOME "
-date: 2025-02-10T02:41:54.447Z
+date: 2025-10-12T02:41:54.447Z
 location: '{"type":"Point","coordinates":[138.6588014,-34.9317155]}'
 location_details: Knightsbridge Guide Hall in Phillips Reserve, corner of
   Rochester Street & Howard Terrace, Leabrook
@@ -14,8 +14,11 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 ### NEXT MEETING
 
-* **Sunday** **12 October.** Ticketed Event - $10 ($5 for Members) Performance programmed as part of **SA’s Nature Festival. Theme:** *Celebrating Nature**\*. Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 -  Ticket Purchase link          <https://www.naturefestival.org.au/event/storytelling-celebrating-nature>
-  We use Humanitix for our on-line ticketing. They don't keep the fee, its all donated to charity.
+* **Sunday** **12 October.** Tickets through Humanitix  - $10 ($5 for Members) \
+  Programmed as part of **SA’s Nature Festival. Theme:** *Celebrating Nature**\*.** \
+  **Venue:** Knightsbridge Guide Hall in Philps Reserve, corner of Rochester Street & Howard Terrace, Leabrook. Ticket Purchase link          <https://www.naturefestival.org.au/event/storytelling-celebrating-nature>
+  We use Humanitix for our on-line ticketing. They don't keep the fee, it's all donated to charity.
+* **Inquiries:** Sue 0419 860 880.
 
 ### **INFORMATION** about Monthly Meetings:
 
