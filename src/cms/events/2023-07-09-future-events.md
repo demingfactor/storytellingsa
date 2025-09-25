@@ -14,9 +14,10 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 ### NEXT MEETING
 
-* **Sunday** **12 October.** Tickets through Humanitix  - $10 ($5 for Members) \
-  Programmed as part of **SA’s Nature Festival. Theme:** *Celebrating Nature**\*.** \
-  **Venue:** Knightsbridge Guide Hall in Philps Reserve, corner of Rochester Street & Howard Terrace, Leabrook. Ticket Purchase link          <https://www.naturefestival.org.au/event/storytelling-celebrating-nature>
+* **Sunday** **12 October.** Ticketed Event (see link below) - $10 General entry includes raffle ticket ($5 for Members)\
+  Programmed as part of **SA’s Nature Festival.** \
+  **Theme:** *Celebrating Nature*\
+  **Venue:** Knightsbridge Guide Hall in Philps Reserve, corner of Rochester Street & Howard Terrace, Leabrook. Ticket Purchase link          <https://www.naturefestival.org.au/event/storytelling-celebrating-nature>\
   We use Humanitix for our on-line ticketing. They don't keep the fee, it's all donated to charity.
 * **Inquiries:** Sue 0419 860 880.
 
@@ -34,7 +35,6 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 ### **FUTURE MONTHLY MEETINGS FOR 2025 & Early 2026**
 
-* **Sunday** **12 October.** Ticketed Event - Performance programmed as part of **SA’s Nature Festival. Theme:** *Celebrating Nature**\*. Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host:** Sue 0419 860 880 - call for Ticket Information (ticketing details will be published here nearer event.) We use Humanitix for our on-line ticketing. They don't keep the fee, its all donated to charity. Ticket Information. Cost $x - to be announced ($x for Storytelling SA + GST + Ticketing fee=donation to charity.)
 * **Saturday 8 November.** **Theme:** *Dreaming.* **Venue:** Private home in Valley View. Call Vivienne for venue address 0439 420 994.
 
   **Saturday 6 December.** **NOTE**: 9:30am Shared **Xmas BRUNCH** until 11:00am then Story sharing. **Theme:** *I want* … until 1:00pm. **Venue** - private home in Upper Sturt (in the hills between Belair and Crafers) Call Vivienne for venue address 0439 420 994.
