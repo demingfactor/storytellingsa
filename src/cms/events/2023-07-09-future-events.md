@@ -14,20 +14,21 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 ### NEXT MEETING
 
-* **Sunday** **12 October.** Ticketed Event (see link below) - $10 General entry includes raffle ticket ($5 for Members)\
+* **Sunday** **12 October.** Ticketed Event which includes Raffle ticket & refreshments\
+  **Cost** $10 General entry ($5 for Members)\
   Programmed as part of **SA’s Nature Festival.** \
   **Theme:** *Celebrating Nature*\
   **Venue:** Knightsbridge Guide Hall in Philps Reserve, corner of Rochester Street & Howard Terrace, Leabrook. Ticket Purchase link          <https://www.naturefestival.org.au/event/storytelling-celebrating-nature>\
   We use Humanitix for our on-line ticketing. They don't keep the fee, it's all donated to charity.
-* **Inquiries:** Sue 0419 860 880.
+* **Host:** Sue 0419 860 880.
 
 ### **INFORMATION** about Monthly Meetings:
 
 * **ENQUIRIES**: See meeting Host OR **call** Vivienne **for private venue addres**s 0439 420 994**.**
 * **LUNCH** starts each meeting - **from 1pm to 2pm** and people bring finger-food to add to the table. **Note:** This sharing of food is valued time, with opportunities to get to know each other. It's casual, fun (& DIY service). 
-* **STORY-SHARING** starts at **2pm,** finishes about **4'ish (includes** a short break) 
+* **STORY-SHARING** starts at **2pm,** finishes about **4'ish (includes** refreshments break) 
 * **THEMES** for stories are a catalyst ... open to imaginative interpretation & **intended for adults,** not children
-* **VENUES** – assorted public places and private homes or public place venuesplease call Host for address if in private home. Meetings can be indoors &/or outdoors.
+* **VENUES** – assorted public places and private homes please call Host for address if in private home. Meetings can be indoors &/or outdoors - be prepared, just in case!
 * **COST** – **covers venue & insurance -** $5 raffle; Trading Table - cash purchases of produce & goodies
 * **CHANGES** - On rare occasions, notices of change to the program will be sent to everyone on our email list.
 * **LISTENERS** most welcome, as are TELLERS with a prepared story
