@@ -3,7 +3,7 @@ layout: layouts/cms/event.html
 type: event
 title: "2025  - Scroll down for theme, when & where "
 subtitle: "Storytelling - All WELCOME "
-date: 2025-10-12T02:41:54.447Z
+date: 2025-11-08T02:41:54.447Z
 location: '{"type":"Point","coordinates":[138.6588014,-34.9317155]}'
 location_details: Knightsbridge Guide Hall in Phillips Reserve, corner of
   Rochester Street & Howard Terrace, Leabrook
