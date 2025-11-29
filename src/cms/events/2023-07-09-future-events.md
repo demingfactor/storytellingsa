@@ -1,8 +1,7 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: "2025  - If on Phones, press this box. If on Computer, scroll down for
-  theme, when & where "
+title: "2025  - Press / Select this box for Info, next meeting,  theme, when & where "
 subtitle: "Storytelling - All WELCOME "
 date: 2025-11-08T02:41:54.447Z
 location: '{"type":"Point","coordinates":[138.6588014,-34.9317155]}'
