@@ -10,11 +10,11 @@ location_details: Knightsbridge Guide Hall in Phillips Reserve, corner of
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-## **2025 PROGRAM - Adelaide, South Australia**
+## **2025/26 PROGRAM - Adelaide, South Australia**
 
 ### NEXT MEETING
 
-* **Saturday 6 December.** **NOTE**: 9:30am Shared **Xmas BRUNCH** until 11:00am then Story sharing.           **Theme:** *"I want* …" until 1:00pm. **Venue** - private home in Upper Sturt (in the hills between Belair and Crafers) Call Vivienne for venue address 0439 420 994.
+* **Saturday 17 January.** 2026. **Theme** *A Slice of Life.* **Venue:** Living Choice Fullarton Retirement Village, 28 Fullarton Rd, Fullarton. **Host:** Sue 0419 860 880
 
 ### **INFORMATION** about Monthly Meetings:
 
@@ -31,6 +31,5 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 ### **FUTURE MONTHLY MEETINGS FOR Early 2026**
 
-* **Saturday 17 January.** 2026. **Theme** *A slice of life.* **Venue:** Living Choice Fullarton Retirement Village, 28 Fullarton Rd, Fullarton. **Host:** Sue 0419 860 880
 * **Sunday 8 February** 2026. **NOTE:** 1pm lunch, 2pm **AGM** then delightful **Guest Speaker**. **Venue:** Knightsbridge Guide Hall in Phillips Reserve, corner of Rochester Street & Howard Terrace, Leabrook. **Host**: Olga 8431 6161.
 * **2026 Program** for rest of year will be available late February or early March - after AGM
