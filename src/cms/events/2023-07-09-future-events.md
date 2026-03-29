@@ -1,7 +1,7 @@
 ---
 layout: layouts/cms/event.html
 type: event
-title: Program for December 2025 to March 2026
+title: "2026 Program "
 subtitle: "Storytelling - All WELCOME "
 date: 2025-11-08T02:41:54.447Z
 location: '{"type":"Point","coordinates":[138.6588014,-34.9317155]}'
@@ -10,15 +10,16 @@ location_details: Knightsbridge Guide Hall in Phillips Reserve, corner of
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
-## **2025/26 PROGRAM - Adelaide, South Australia**
+## **2026 PROGRAM - Adelaide, South Australia**
 
-### NEXT MEETING
+### NEXT MEETING - **Sunday 19 April 2026**  
 
-* **Saturday 17 January.** 2026. **Theme** *A Slice of Life.* **Venue:** Living Choice Fullarton Retirement Village, 28 Fullarton Rd, Fullarton. **Host:** Sue 0419 860 880
+Shared **Lunch**:1:00-2:00pm
+Story-sharing Theme:  **"Secrets"**  2:00-4:00pm
+**Venue** - Private home in Woodcroft - call Vivienne **for details** 0439 420 994**.**
 
-### **INFORMATION** about Monthly Meetings:
-
-* **ENQUIRIES**: See meeting Host OR **call** Vivienne **for private venue details** 0439 420 994**.**
+* ### **A**bout Each Monthly Meeting:
+* **QUERIES**: C**all** Vivienne , including **private venue details** - 0439 420 994**.**
 * **LUNCH** starts each meeting - **from 1pm to 2pm.** (except in December when we start at 9:30am with Brunch) **P**eople bring finger-food to add to the table. **Note:** This sharing of food is valued time, with opportunities to get to know each other. It's casual, fun (& DIY service). 
 * **STORY-SHARING** starts at **2pm,** finishes about **4'ish (includes** refreshments break) 
 * **THEMES** for stories are a catalyst ... open to imaginative interpretation & **intended for adults,** not children
