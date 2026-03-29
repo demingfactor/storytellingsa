@@ -44,16 +44,17 @@ Call Vivienne for details of this venue details - 0439 420 994  
 
 **July - Saturday 25**   
 Theme; *"Inspiration'"* 
-***V*enue:** St Andrews Church Parish Centre, 43 Church Tce **Walkerville**   
+**Venue:** St Andrews Church Parish Centre, 43 Church Terrace **Walkerville**   
 
 **August - Sunday 23**  
-Workshop - 10:30-12:30 Details announced nearer the date 
-Finger food lunch  1:00-2:00pm; Story sharing Theme  "Waiting…" 2:00-4:00pm   
-Venue:Living Choice Retirement Village,  123 Fisher Fullarton. Enq: Olga Farnill  8431 6161 
+WINTER WORKSHOP - 10:30-12:30 Details announced nearer the date 
+Usual lunch  1:00-2:00pm; Story-sharing Theme  "Waiting…" 
+**Venue:** Living Choice Retirement Village,  123 Fisher Street, **Fullarton**. 
 
 **September - Sunday 20**
-Shared  finger food lunch. 1:00-2:00pm;  Story sharing  Gardens … 2:00-4:00pm  33 Beaverdale Ave, Windsor Gardens. 
-Enq Jill Wherry  0439 808 612   
+**Theme:** *"Gardens"* 
+**Venue:** Private home in **Windsor Gardens**. Call Vivienne for directions-0439 420 994,  
+
 
    Email: [wherryjill5@gmail.com](mailto:wherryjill5@gmail.com)
 
