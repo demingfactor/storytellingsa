@@ -33,13 +33,25 @@ Story-sharing Theme:  **"Secrets"**  2:00-4:00pm
 
 ### **FUTURE MONTHLY MEETINGS - 2026**
 
-**May - Sunday  24**  
+**May - Sunday  24**
+
+  
 **Theme:** Storytellers "*Make Connections"*. Part of SA  History Festival, a ticketed event. Details published soon.
-**Venue:** Knightsbridge Guide Hall, Philps Reserve, Corner of Glynburn Road, Rochester Street & Howard Terrace, **Leabrook**. Enq: Olga 8431 6161   
+
+
+**Venue:** Knightsbridge Guide Hall, Philps Reserve, Corners of Glynburn Road, Rochester Street & Howard Terrace, **Leabrook**. 
+
+Enquiries: Olga 8431 6161   
 
 **June - Saturday 20** 
+
+
 Theme: *"Taking Risks"* 
+
+
 Venue: Private home in **Valley View** 
+
+
 Call Vivienne for details of this venue details - 0439 420 994  
 
 **July - Saturday 25**   
@@ -53,15 +65,19 @@ Usual lunch  1:00-2:00pm; Story-sharing Theme  "Waiting…"
 
 **September - Sunday 20**
 **Theme:** *"Gardens"* 
-**Venue:** Private home in **Windsor Gardens**. Call Vivienne for directions-0439 420 994,  
+**Venue:** Private home in **Windsor Gardens**. Call Vivienne for directions - 0439 420 994,  
 
-
-   Email: [wherryjill5@gmail.com](mailto:wherryjill5@gmail.com)
 
 **October - Sunday 11**
-Shared finger food lunch 1:00-2:00pm;  Story sharing  Celebrating Nature  /Part of Nature Festival 2:00-4:00pm  Guide Hall, Reserve, cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Vivienne Fisher 0439 420 994  
+Theme: *"Celebrating Nature"*  Part of Nature Festival 
 
-**November - Saturday 11**  Shared finger food lunch 1:00-2:00pm;  Story sharing   On the Darker Side… 6 O‘Halloran Hill Rd, Christies Beach Enq: Maggie Thomas 0468596940 
+\*\*Venue\*\* Knightsbridge Guide Hall, Philps Reserve, Corners of Glynburn Road, Rochester Street & Howard Terrace, **Leabrook**.Vivienne Fisher 0439 420 994  
+
+**November - Saturday 11**  
+
+\*\*Theme:\*\* *"On the Darker Side"* 
+
+\*\*Venue:\*\*  Private home in Christies Beach. Call Vivienne for directions - 0439 420 994, 
 
 **December - Saturday 5** \
 Shared Xmas BRUNCH  9:30-11:00am; Story sharing  Festive Folktales… 11:00am-1:00pm Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Olga Farnill  8431 6161   
