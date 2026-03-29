@@ -31,7 +31,9 @@ Story-sharing Theme:  **"Secrets"**  2:00-4:00pm
 * **LISTENERS**  most welcome, as are TELLERS with a prepared story
 * **GUESTS** and new members fully welcome
 
-### **FUTURE MONTHLY MEETINGS**
+### **FUTURE MONTHLY MEETINGS - 2026**
+
+
 
 **May - Sunday  24**  
 Shared finger food lunch 1:00-1:45pm  Storytellers Make Connections/ Part of SA  History Festival 2-4:00pm. Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Olga Farnill  8431 6161   
@@ -40,34 +42,33 @@ Shared finger food lunch 1:00-1:45pm  Storytellers Make Connections/ Part of SA
 Shared finger food lunch 1:00-2:00pm; Story sharing  Taking Risks …  2:00-4:00pm   Private home in **Valley View** Enq: Leila 0430 386 419  
 
 **July - Saturday 25**   
+Shared finger food  lunch 1:00-2:00 Story sharing Inspiration  2:00-4:00pm  St Andrews Church Parish Centre, 43 Church Tce Walkerville  Enq: Olga Farnill  8431 6161 
 
-Shared finger food  lunch 1:00-2:00 Story sharing Inspiration  2:00-4:00pm  St Andrews Church Parish Centre, 43 Church Tce Walkerville  Enq: Olga Farnill  8431 6161 Sunday 23 August  
-
-  Workshop (To Be Advised )  10:30-12:30  
-
-Finger food lunch  1:00-2:00pm; Story sharing  Waiting…  2:00-4:00pm   Living Choice Retirement Village,  123 Fisher Fullarton. Enq: Olga Farnill  8431 6161 
+**August - Sunday 23**  
+Workshop - 10:30-12:30 Details announced nearer the date 
+Finger food lunch  1:00-2:00pm; Story sharing Theme  "Waiting…" 2:00-4:00pm   
+Venue:Living Choice Retirement Village,  123 Fisher Fullarton. Enq: Olga Farnill  8431 6161 
 
 **September - Sunday 20**
 
 Shared  finger food lunch. 1:00-2:00pm;  Story sharing  Gardens … 2:00-4:00pm  33 Beaverdale Ave, Windsor Gardens. 
+Enq Jill Wherry  0439 808 612   
 
-   Enq Jill Wherry  0439 808 612   
+   Email: [wherryjill5@gmail.com](mailto:wherryjill5@gmail.com)
 
-   Email: [wherryjill5@gmail.com](mailto:wherryjill5@gmail.com) 
-
- **October - Sunday 11**
-
+**October - Sunday 11**
 Shared finger food lunch 1:00-2:00pm;  Story sharing  Celebrating Nature  /Part of Nature Festival 2:00-4:00pm  Guide Hall, Reserve, cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Vivienne Fisher 0439 420 994  
 
- November - Saturday 11  Shared finger food lunch 1:00-2:00pm;  Story sharing   On the Darker Side… 6 O‘Halloran Hill Rd, Christies Beach Enq: Maggie Thomas 0468596940 
+**November - Saturday 11**  Shared finger food lunch 1:00-2:00pm;  Story sharing   On the Darker Side… 6 O‘Halloran Hill Rd, Christies Beach Enq: Maggie Thomas 0468596940 
 
 **December - Saturday 5**   
-
 Shared Xmas BRUNCH  9:30-11:00am; Story sharing  Festive Folktales… 11:00am-1:00pm Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Olga Farnill  8431 6161   
 
-  Sunday 17  January 2027  Shared finger food  lunch: 1:00-2:00pm;  Story sharing  The Smell of …  2:00-4: 00pm  Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook Enq: Olga Farnill 8431 6161 
+**January 2027 - Sunday 17**  
+Shared finger food  lunch: 1:00-2:00pm;  Story sharing  The Smell of …  2:00-4: 00pm  Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook Enq: Olga Farnill 8431 6161 
 
-  Saturday 20   February  2027  Shared finger food lunch 1:00-2:00pm;  AGM 2:00-4:00pm Presenter TBA. Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Olga Farnill  8431 6161   
+**February 2027 - Saturday 20     
+Shared finger food lunch 1:00-2:00pm;  AGM 2:00-4:00pm Presenter TBA. Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Olga Farnill  8431 6161   
 
 *
 *
