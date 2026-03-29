@@ -11,7 +11,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 ## **2026 PROGRAM - Adelaide, South Australia**
 
-### NEXT MEETING - **April - Sunday 19** 
+### NEXT MEETING - **April - Sunday 19**
 
 Shared **Lunch**:1:00-2:00pm
 Story-sharing Theme:  **"Secrets"**  2:00-4:00pm
@@ -19,8 +19,8 @@ Story-sharing Theme:  **"Secrets"**  2:00-4:00pm
 
 **About Each Monthly Meeting**:
 
-* **QUERIES**: C**all** Vivienne, including **for private venue details** - 0439 420 994**.**
-* **LUNCH** starts each meeting - **from 1pm to 2pm.** (except in December when we start at 9:30am with Brunch) **P**eople bring finger-food to add to the table. **Note:** This sharing of food is valued time, with opportunities to get to know each other. It's casual, fun (& DIY service). 
+* **QUERIES**: Call Vivienne, including **for private venue details** - 0439 420 994**.**
+* **LUNCH** **\-** 1pm to 2pm P**eople bring finger-food to add to the table**. Lunch starts each meeting. It's valued time, with opportunities to get to know each other. It's casual, fun, help yourself & share the tasks. 
 * **STORY-SHARING** starts at **2pm,** finishes about **4'ish (includes** refreshments break) 
 * **STORIES** - lots of 'TALKS' are not stories. If new to this delightful expressive art form, research what is a story, listen for a while and then have a go - all very supportive 
 * **THEMES** for stories are a catalyst ... open to imaginative interpretation & **intended for adults,** not children
@@ -33,16 +33,18 @@ Story-sharing Theme:  **"Secrets"**  2:00-4:00pm
 
 ### **FUTURE MONTHLY MEETINGS - 2026**
 
-
-
 **May - Sunday  24**  
-Shared finger food lunch 1:00-1:45pm  Storytellers Make Connections/ Part of SA  History Festival 2-4:00pm. Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Olga Farnill  8431 6161   
+**Theme:** Storytellers "*Make Connections"*. Part of SA  History Festival, a ticketed event. Details published soon.
+**Venue:** Knightsbridge Guide Hall, Philps Reserve, Corner of Glynburn Road, Rochester Street & Howard Terrace, **Leabrook**. Enq: Olga 8431 6161   
 
 **June - Saturday 20** 
-Shared finger food lunch 1:00-2:00pm; Story sharing  Taking Risks …  2:00-4:00pm   Private home in **Valley View** Enq: Leila 0430 386 419  
+Theme: *"Taking Risks"* 
+Venue: Private home in **Valley View** 
+Call Vivienne for details of this venue details - 0439 420 994  
 
 **July - Saturday 25**   
-Shared finger food  lunch 1:00-2:00 Story sharing Inspiration  2:00-4:00pm  St Andrews Church Parish Centre, 43 Church Tce Walkerville  Enq: Olga Farnill  8431 6161 
+Theme; *"Inspiration'"* 
+***V*enue:** St Andrews Church Parish Centre, 43 Church Tce **Walkerville**   
 
 **August - Sunday 23**  
 Workshop - 10:30-12:30 Details announced nearer the date 
@@ -50,7 +52,6 @@ Finger food lunch  1:00-2:00pm; Story sharing Theme  "Waiting…" 2:00-4:00pm�
 Venue:Living Choice Retirement Village,  123 Fisher Fullarton. Enq: Olga Farnill  8431 6161 
 
 **September - Sunday 20**
-
 Shared  finger food lunch. 1:00-2:00pm;  Story sharing  Gardens … 2:00-4:00pm  33 Beaverdale Ave, Windsor Gardens. 
 Enq Jill Wherry  0439 808 612   
 
@@ -61,13 +62,13 @@ Shared finger food lunch 1:00-2:00pm;  Story sharing  Celebrating Nature  /Pa
 
 **November - Saturday 11**  Shared finger food lunch 1:00-2:00pm;  Story sharing   On the Darker Side… 6 O‘Halloran Hill Rd, Christies Beach Enq: Maggie Thomas 0468596940 
 
-**December - Saturday 5**   
+**December - Saturday 5** \
 Shared Xmas BRUNCH  9:30-11:00am; Story sharing  Festive Folktales… 11:00am-1:00pm Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Olga Farnill  8431 6161   
 
 **January 2027 - Sunday 17**  
 Shared finger food  lunch: 1:00-2:00pm;  Story sharing  The Smell of …  2:00-4: 00pm  Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook Enq: Olga Farnill 8431 6161 
 
-**February 2027 - Saturday 20     
+**February 2027 - Saturday 20**     
 Shared finger food lunch 1:00-2:00pm;  AGM 2:00-4:00pm Presenter TBA. Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, Leabrook. Enq: Olga Farnill  8431 6161   
 
 *
