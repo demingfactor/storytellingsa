@@ -11,7 +11,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 ## **2026 PROGRAM - Adelaide, South Australia**
 
-### NEXT MEETING - **April - Sunday 19**
+### NEXT MEETING - **April - Sunday 19 2026**
 
 Shared **Lunch**:1:00-2:00pm
 Story-sharing Theme:  **"Secrets"**  2:00-4:00pm
