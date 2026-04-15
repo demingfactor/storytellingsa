@@ -13,10 +13,10 @@ Storytelling Australia (SA) is a not for profit group who love to tell and be to
 * **practising** the art of ORAL storytelling live,
 * cultivating our appreciation as story **listeners**,
 * **discerning** what makes effective and timely **stories to tell**.
-* positively and compassionately supporting new tellers
-* enjoying each other's company, efforts, talents and needs
+* positively and compassionately **supporting new tellers**
+* **enjoying** each other's company, efforts, talents and needs
 
-We also promote the art of ORAL storytelling in the wider community
+We also **promote** the art of ORAL storytelling **in the wider community**
 
 ### **How do we vary as storytellers ?**
 
