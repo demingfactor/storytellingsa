@@ -4,7 +4,7 @@ type: event
 title: "2026 Program "
 subtitle: "Storytelling - All WELCOME "
 date: 2026-04-19T03:41:54.447Z
-location: '{"type":"Point","coordinates":[138.5640541,-35.0936736]}'
+location: '{"type":"Point","coordinates":[138.6587618,-34.9317554]}'
 location_details: Woodcroft
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
