@@ -39,8 +39,6 @@ This is part of the **SA History Festival**, and is a free event. Adults love st
 
 ### **FUTURE MONTHLY MEETINGS - 2026**
 
-**May - Sunday  24  Theme:** **Storytellers "*Make Connections"*.** Part of SA  History Festival, a ticketed event. Details published soon. **Venue:** Knightsbridge Guide Hall, Philps Reserve, Corners of Glynburn Road, Rochester Street & Howard Terrace, **Leabrook**. Enquiries: Olga 8431 6161   
-
 **June - Saturday 20**"  **Theme: *"Taking Risks"* . Venue**: Private home in **Valley View`** Call Vivienne for details of this venue details - 0439 420 994  
 
 **July - Saturday 25**  **Theme; *"Inspiration".*  Venue:** St Andrews Church Parish Centre, 43 Church Terrace **Walkerville.** 
