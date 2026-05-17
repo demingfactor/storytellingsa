@@ -11,11 +11,17 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 ## **2026 PROGRAM - Adelaide, South Australia**
 
-### NEXT MEETING - **April - Sunday 19 2026**
+### NEXT MEETING
 
-Shared **Lunch**:1:00-2:00pm
-Story-sharing   **Theme: "Secrets"**  2:00-4:00pm
-**Venue** - Private home in **Woodcroft** - call Vivienne **for details** 0439 420 994**.**
+**May - Sunday  24th** 
+
+**Time:** 1:45pm to 4:15pm
+
+**Theme: *Connections***
+
+This is part of the **SA History Festival**, and is a free event. Adults love stories, and Storytelling Australia (SA) is a group who love to tell and be told stories. Join us to hear tales of fascinating, inspiring, dramatic, or funny events and characters in the history of SA and Adelaide and the rich connections formed through times and places. Always absorbing, and fun!
+
+**Venue:** Knightsbridge Guide Hall, Philps Reserve, Corners of Glynburn Road, Rochester Street & Howard Terrace, **Leabrook**. Enquiries: Olga 8431 6161   
 
 **About Each Monthly Meeting**:
 
@@ -53,8 +59,6 @@ Usual lunch  1:00-2:00pm; Story-sharing **Theme  "Waiting…"**
 **December - Saturday 5**   Shared Xmas BRUNCH  9:30-11:00am; Story sharing **Theme: Festive Folktale**s 11:00am-1:00pm Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, **Leabrook.** Enq: Olga Farnill  8431 6161   
 
 **January 2027 - Sunday 17  Theme: The Smell of …**  2:00-4: 00pm  Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, **Leabrook.**  Enq: Olga Farnill 8431 6161 
-
-
 
 **February 2027 - Saturday 20**  1:00-2:00pm; Shared finger food lunch followed by lively **AGM**, then a special **Guest Speaker** (Presenter TBA)  finishing by about 4:00pm.  **Venue:** Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, **Leabrook**.  Enq: Olga Farnill  8431 6161   
 
