@@ -4,8 +4,8 @@ type: event
 title: "2026 Program "
 subtitle: "Storytelling - All WELCOME "
 date: 2026-04-19T03:41:54.447Z
-location: '{"type":"Point","coordinates":[138.5640541,-35.0936736]}'
-location_details: Woodcroft
+location: '{"type":"Point","coordinates":[138.6587618,-34.9317554]}'
+location_details: Leabrook
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
@@ -15,7 +15,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 **May - Sunday  24th** 
 
-**Time:** 1:45pm to 4:15pm
+**Time:** Lunch 1:00 - 1:50    Stories 2:00pm to 4:15pm
 
 **Theme: *Connections***
 
