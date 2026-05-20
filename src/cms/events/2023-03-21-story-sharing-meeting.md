@@ -17,25 +17,21 @@ permalink: /events/{{ page.fileSlug }}/index.html
 
 **"De-Cluttering"**
 
-Themes are catalysts and open to creative interpretations.   
+**Themes**  - are catalysts, and open to creative interpretations, be imaginative!   
 
 **1:00pm**    Bring your own finger-food lunch but share conversation  
 
 **2:00 - 4.00 pm**    Story-sharing (with a refreshments break) 
 
-**Venue**
-
-* Knightsbridge Girl Guides Hall**, Corner of** Rochester Street & Howard Terrace, Leabrook.\
+**Venue** - 
+Knightsbridge Girl Guides Hall**, Corner of** Rochester Street & Howard Terrace, Leabrook.\
   Can park on either street. 
-* **Directions**  - Meet  in the  Guide Hall, within "Philps Reserve". Of the two buildings, Guide Hall (with the ramp up to the door) is in middle.\
+
+**Directions**  - Meet  in the  Guide Hall, within "Philps Reserve". Of the two buildings, Guide Hall (with the ramp up to the door) is in middle.\
   It's not *Meals-on-Wheels* building close to Nth/West corner - not that one!
 
- **Invitation**  
-
-* New attendees are welcome. Just turn up if your interest is sparked.\
+ **Invitation** - New attendees are welcome. Just turn up if your interest is sparked.\
   Stories designed for adults rather than young children. 
 
-**Costs**   
-
-* $5 Donation/raffle appreciated.\
-  Funds also raised by Produce Stall which people add to &/or buy from.
+**Costs -** $5 Donation/raffle appreciated.\
+Funds also raised by **sales from Produce Stall /Trading Table**  - anyone can add items and buy things.
