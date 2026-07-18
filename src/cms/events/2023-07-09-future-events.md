@@ -15,7 +15,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 **July 25th** 2026
 
-**Time:** Lunch 1:00 - 1:50    Stories 2:00pm to 4:15pm
+**Time:** Shared Lunch 1:00 - 1:50; **Stories** 2:00pm to 4:15pm
 
 **Theme: *"Inspiration".***
 
@@ -37,8 +37,6 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 * **MEMBERSHIP** - $40 (Concession $30) see Treasurer with Cash, or for phone transfer details.
 
 ### **FUTURE MONTHLY MEETINGS - 2026**
-
-
 
 **August - Sunday 23**  WINTER WORKSHOP - 10:30-12:30 Details announced nearer the date 
 Usual lunch  1:00-2:00pm; Story-sharing **Theme  "Waiting…"** 
