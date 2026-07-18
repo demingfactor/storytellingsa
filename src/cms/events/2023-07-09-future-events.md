@@ -25,16 +25,16 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 * **QUERIES**: Call Vivienne, including **for private venue details** - 0439 420 994**.**
 * **LUNCH** **\-** 1pm to 2pm **People bring finger-food to add to the table**. Lunch starts each meeting. It's valued time, with opportunities to get to know each other. It's casual, fun, help yourself & share the tasks. 
-* **STORY-SHARING** starts at **2pm,** finishes about **4'ish (includes** refreshments break) 
-* **STORIES** - lots of 'TALKS' are not stories. If new to this delightful expressive art form, research what is a story, listen for a while and then have a go - all very supportive 
-* **THEMES** for stories are a catalyst ... open to imaginative interpretation & **intended for adults,** not children
-* **VENUES** – assorted public places and private homes please call Host for address if in private home. Meetings can be indoors &/or outdoors - be prepared, just in case!
-* **COST** –  $5 which is linked to Raffle of the day, helps **cover venue & insurance**
-* **TRADING TABLE** - **cash** purchases of produce & quirky goods & goodies, also helps **cover expenses**
+* **STORY-TELLING** starts at **2pm,** finishes about **4'ish (includes** refreshments break) 
+* **STORIES** - If new to this delightful expressive art form, research what is a story, as lots of 'TALKS' are *not* stories. Some listen for a while and then have a go. We are a very supportive group.
+* **THEMES** for stories are a catalyst ... open to imaginative interpretation & **intended for adults,** not children.
+* **VENUES** – assorted public places and private homes. Please call  Vivienne 0439 420 994 for address if in private home. Meetings can be indoors &/or outdoors - be prepared, just in case!
+* **COST** –  $5 - linked to a Raffle  - helps **cover venue & insurance.**
+* **TRADING TABLE** - **Cash** purchases of produce, quirky goods & goodies, also helps **cover expenses.**
 * **CHANGES** - Occasionally, change to the program notices will be sent to those on our email list.
-* **LISTENERS**  most welcome, as are TELLERS with a prepared story
+* **LISTENERS**  most welcome, as are TELLERS with a prepared story.
 * **GUESTS** and new members fully welcome
-* **MEMBERSHIP** - $40 (Concession $30) see Treasurer with Cash or for phone transfer details.
+* **MEMBERSHIP** - $40 (Concession $30) see Treasurer with Cash, or for phone transfer details.
 
 ### **FUTURE MONTHLY MEETINGS - 2026**
 
