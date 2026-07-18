@@ -13,15 +13,13 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 ### NEXT MEETING
 
-**May - Sunday  24th** 
+**July 25th** 2026
 
 **Time:** Lunch 1:00 - 1:50    Stories 2:00pm to 4:15pm
 
-**Theme: *Connections***
+**Theme: *"Inspiration".***
 
-This is part of the **SA History Festival**, and is a free event. Adults love stories, and Storytelling Australia (SA) is a group who love to tell and be told stories. Join us to hear tales of fascinating, inspiring, dramatic, or funny events and characters in the history of SA and Adelaide and the rich connections formed through times and places. Always absorbing, and fun!
-
-**Venue:** Knightsbridge Guide Hall, Philps Reserve, Corners of Glynburn Road, Rochester Street & Howard Terrace, **Leabrook**. Enquiries: Olga 8431 6161   
+**Venue:** St Andrews Church Parish Centre, 43 Church Terrace **Walkerville.** 
 
 **About Each Monthly Meeting**:
 
@@ -36,12 +34,11 @@ This is part of the **SA History Festival**, and is a free event. Adults love st
 * **CHANGES** - Occasionally, change to the program notices will be sent to those on our email list.
 * **LISTENERS**  most welcome, as are TELLERS with a prepared story
 * **GUESTS** and new members fully welcome
+* **MEMBERSHIP** - $40 (Concession $30) see Treasurer with Cash or for phone transfer details.
 
 ### **FUTURE MONTHLY MEETINGS - 2026**
 
-**June - Saturday 20**"  **Theme: *"Taking Risks"* . Venue**: Private home in **Valley View`** Call Vivienne for details of this venue details - 0439 420 994  
 
-**July - Saturday 25**  **Theme; *"Inspiration".*  Venue:** St Andrews Church Parish Centre, 43 Church Terrace **Walkerville.** 
 
 **August - Sunday 23**  WINTER WORKSHOP - 10:30-12:30 Details announced nearer the date 
 Usual lunch  1:00-2:00pm; Story-sharing **Theme  "Waiting…"** 
