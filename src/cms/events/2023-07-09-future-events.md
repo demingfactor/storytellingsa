@@ -13,35 +13,32 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 ### NEXT MEETING
 
-**May - Sunday  24th** 
+**July 25th** 2026
 
 **Time:** Lunch 1:00 - 1:50    Stories 2:00pm to 4:15pm
 
-**Theme: *Connections***
+**Theme: *"Inspiration".***
 
-This is part of the **SA History Festival**, and is a free event. Adults love stories, and Storytelling Australia (SA) is a group who love to tell and be told stories. Join us to hear tales of fascinating, inspiring, dramatic, or funny events and characters in the history of SA and Adelaide and the rich connections formed through times and places. Always absorbing, and fun!
-
-**Venue:** Knightsbridge Guide Hall, Philps Reserve, Corners of Glynburn Road, Rochester Street & Howard Terrace, **Leabrook**. Enquiries: Olga 8431 6161   
+**Venue:** St Andrews Church Parish Centre, 43 Church Terrace **Walkerville.** 
 
 **About Each Monthly Meeting**:
 
 * **QUERIES**: Call Vivienne, including **for private venue details** - 0439 420 994**.**
 * **LUNCH** **\-** 1pm to 2pm **People bring finger-food to add to the table**. Lunch starts each meeting. It's valued time, with opportunities to get to know each other. It's casual, fun, help yourself & share the tasks. 
-* **STORY-SHARING** starts at **2pm,** finishes about **4'ish (includes** refreshments break) 
-* **STORIES** - lots of 'TALKS' are not stories. If new to this delightful expressive art form, research what is a story, listen for a while and then have a go - all very supportive 
-* **THEMES** for stories are a catalyst ... open to imaginative interpretation & **intended for adults,** not children
-* **VENUES** – assorted public places and private homes please call Host for address if in private home. Meetings can be indoors &/or outdoors - be prepared, just in case!
-* **COST** –  $5 which is linked to Raffle of the day, helps **cover venue & insurance**
-* **TRADING TABLE** - **cash** purchases of produce & quirky goods & goodies, also helps **cover expenses**
+* **STORY-TELLING** starts at **2pm,** finishes about **4'ish (includes** refreshments break) 
+* **STORIES** - If new to this delightful expressive art form, research what is a story, as lots of 'TALKS' are *not* stories. Some listen for a while and then have a go. We are a very supportive group.
+* **THEMES** for stories are a catalyst ... open to imaginative interpretation & **intended for adults,** not children.
+* **VENUES** – assorted public places and private homes. Please call  Vivienne 0439 420 994 for address if in private home. Meetings can be indoors &/or outdoors - be prepared, just in case!
+* **COST** –  $5 - linked to a Raffle  - helps **cover venue & insurance.**
+* **TRADING TABLE** - **Cash** purchases of produce, quirky goods & goodies, also helps **cover expenses.**
 * **CHANGES** - Occasionally, change to the program notices will be sent to those on our email list.
-* **LISTENERS**  most welcome, as are TELLERS with a prepared story
+* **LISTENERS**  most welcome, as are TELLERS with a prepared story.
 * **GUESTS** and new members fully welcome
+* **MEMBERSHIP** - $40 (Concession $30) see Treasurer with Cash, or for phone transfer details.
 
 ### **FUTURE MONTHLY MEETINGS - 2026**
 
-**June - Saturday 20**"  **Theme: *"Taking Risks"* . Venue**: Private home in **Valley View`** Call Vivienne for details of this venue details - 0439 420 994  
 
-**July - Saturday 25**  **Theme; *"Inspiration".*  Venue:** St Andrews Church Parish Centre, 43 Church Terrace **Walkerville.** 
 
 **August - Sunday 23**  WINTER WORKSHOP - 10:30-12:30 Details announced nearer the date 
 Usual lunch  1:00-2:00pm; Story-sharing **Theme  "Waiting…"** 
