@@ -4,7 +4,7 @@ type: event
 title: "2026 Program "
 subtitle: "Storytelling - All WELCOME "
 date: 2026-04-19T03:41:54.447Z
-location: '{"type":"Point","coordinates":[138.6587618,-34.9317554]}'
+location: '{"type":"Point","coordinates":[138.6152189,-34.892521]}'
 location_details: Leabrook
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
@@ -20,6 +20,8 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 **Theme: *"Inspiration".***
 
 **Venue:** St Andrews Church Parish Centre, 43 Church Terrace **Walkerville.** 
+
+**Parking:** at the back off Fuller Street
 
 **About Each Monthly Meeting**:
 
