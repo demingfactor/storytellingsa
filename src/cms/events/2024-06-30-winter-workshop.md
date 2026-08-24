@@ -11,7 +11,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
 **Winter Workshops cover skills and techniques pertaining to or aligned with good storytelling.**
 
-**Usually on a Sunday there is a Morning Workshop** help followed by the usual monthly afternoon of Story sharing.
+**Usually on a Sunday there is a Morning Workshop** followed by the usual monthly afternoon of Story sharing.
 Themes are different each year.
 
 ***Morning Workshop generally...***
