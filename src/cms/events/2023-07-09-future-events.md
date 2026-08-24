@@ -13,40 +13,30 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 ### NEXT MEETING
 
-**July 25th** 2026
 
-**Time:** Shared Lunch 1:00 - 1:50; **Stories** 2:00pm to 4:15pm
 
-**Theme: *"Inspiration".***
-
-**Venue:** St Andrews Church Parish Centre, 43 Church Terrace **Walkerville.** 
-
-**Parking:** at the back off Fuller Street
+**September - Sunday 20th  Theme:** ***"Gardens"*** . **Venue:** Private home in **Windsor Gardens**. Call Vivienne for directions - 0439 420 994,  
 
 **About Each Monthly Meeting**:
 
 * **QUERIES**: Call Vivienne, including **for private venue details** - 0439 420 994**.**
-* **LUNCH** **\-** 1pm to 2pm **People bring finger-food to add to the table**. Lunch starts each meeting. It's valued time, with opportunities to get to know each other. It's casual, fun, help yourself & share the tasks. 
+* **LUNCH** **\-** 1pm to 2pm **People bring finger-food to add to the table**. Lunch starts each meeting. It's valued time, with opportunities to get to know each other. It's casual, fun, help yourself, wash up your own dishes & share the tasks. 
 * **STORY-TELLING** starts at **2pm,** finishes about **4'ish (includes** refreshments break) 
-* **STORIES** - If new to this delightful expressive art form, research what is a story, as lots of 'TALKS' are *not* stories. Some listen for a while and then have a go. We are a very supportive group.
+* **STORIES** - If new to this delightful expressive art form, research "what is a story?", as lots of 'TALKS' are *not* stories. Some listen for a while and then have a go. We are a very supportive group.
 * **THEMES** for stories are a catalyst ... open to imaginative interpretation & **intended for adults,** not children.
 * **VENUES** – assorted public places and private homes. Please call  Vivienne 0439 420 994 for address if in private home. Meetings can be indoors &/or outdoors - be prepared, just in case!
 * **COST** –  $5 - linked to a Raffle  - helps **cover venue & insurance.**
-* **TRADING TABLE** - **Cash** purchases of produce, quirky goods & goodies, also helps **cover expenses.**
+* **TRADING TABLE** - **Cash** purchases of produce, quirky goods & goodies - helps **cover expenses.**
 * **CHANGES** - Occasionally, change to the program notices will be sent to those on our email list.
-* **LISTENERS**  most welcome, as are TELLERS with a prepared story.
+* **LISTENERS** - most welcome, as are TELLERS with a prepared story.
 * **GUESTS** and new members fully welcome
-* **MEMBERSHIP** - $40 (Concession $30) see Treasurer with Cash, or for phone transfer details.
+* **MEMBERSHIP** - $40 (Concession $30) see Treasurer with Cash, or for phone banking transfer details.
 
 ### **FUTURE MONTHLY MEETINGS - 2026**
 
-**August - Sunday 23**  WINTER WORKSHOP - 10:30-12:30 Details announced nearer the date 
-Usual lunch  1:00-2:00pm; Story-sharing **Theme  "Waiting…"** 
-**Venue:** Living Choice Retirement Village,  123 Fisher Street, **Fullarton.** 
 
-**September - Sunday 20  Theme:** ***"Gardens"*** . **Venue:** Private home in **Windsor Gardens**. Call Vivienne for directions - 0439 420 994,  
 
-**October - Sunday 11**  **Theme: *"Celebrating Nature"***  Part of Nature Festival, a ticketed event, more details later. 
+**October - Sunday 11**  **Theme: *"Celebrating Nature"***  Part of Nature Festival, free tickets from Nature Festival website or just come along, more details later.  
 **\*\*Venue\*\*** Knightsbridge Guide Hall, Philps Reserve, Corners of Glynburn Road, Rochester Street & Howard Terrace, **Leabrook**.Vivienne Fisher 0439 420 994  
 
 **November - Saturday 11**  **Theme: *"On the Darker Side"*** .  \*\*Venue:\*\*  Private home in Christies Beach. Call Vivienne for directions - 0439 420 994, 
