@@ -2,10 +2,9 @@
 layout: layouts/cms/event.html
 type: event
 title: Past Event 13 May 2023 Story-sharing Meeting
-date: 2023-05-12T22:39:38.475Z
+date: 2023-06-12T22:39:00.000Z
 location: '{"type":"Point","coordinates":[138.5349593,-35.0259399]}'
 location_details: Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens
-archived: true
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
  Past Event 13 May 2023 Story-sharing Meeting
@@ -18,11 +17,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 **Venue**
 
-Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens SA 5048
-
-**THEME** for this month:
-
-***"Sinful..."***  The theme is an inspirational catalysts & open to creative interpretation. 
+Woodcroft. Privately hosted in private home. Contact@storytellingsa.org.au for details.
 
 **Invitation**  
 
@@ -34,6 +29,8 @@ Dover Gardens Scout Hall, 26 Quintus Terrace, Dover Gardens SA 5048
 
 * **$5** Donation/raffle appreciated.
 * **Produce Stall** sales also raise funds, people donate to &/or buy from it during breaks.
-* **To join** - annual **Member Fee** is $40 or $35 Concession. Ask MC at meeting.
+* **To join** - annual **Member Fee** is $40 or $35 Concession. Ask MC at meeting or email request.
 
-Enquiries: Contact@storytellingsa.org.au
+**Enquiries**
+
+Contact@storytellingsa.org.au
