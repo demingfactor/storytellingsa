@@ -40,7 +40,7 @@ Call Vivienne for directions to this meeting - 0439 420 994,
 
 ### **FUTURE MONTHLY MEETINGS - 2026**
 
-**December - Saturday 5**   Shared End-of-year BRUNCH  9:30-11:00am; Story sharing **Theme: Festive Folktale**s 11:00am-1:00pm Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, **Leabrook.** Enq: Olga Farnill  8431 6161   
+**December - Saturday 5**   Shared End-of-year BRUNCH  9:30-11:00am; Story sharing **Theme: Festive Folktale**s 11:00am-1:00pm St Andrews Parish Centre, 43 Church Terrace, **Walkerville.** Big car park at rear, off Fuller Street Enq: Olga Farnill  8431 6161   
 
 **January 2027 - Sunday 17  Theme: The Smell of …**  2:00-4: 00pm  Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, **Leabrook.**  Enq: Olga Farnill 8431 6161 
 
