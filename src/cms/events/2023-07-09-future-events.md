@@ -17,7 +17,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 Call Vivienne for directions - 0439 420 994, 
 
-## **About EACH Monthly Meeting**:
+## **About EACH Monthly Meeting, except the end-of-year Brunch**:
 
 * **QUERIES**: Call Vivienne, including **for private venue details** - 0439 420 994**.**
 * **LUNCH** **\-** 1pm to 2pm **People bring healthy finger-food to add to the table**. Lunch starts each meeting. 
@@ -40,9 +40,7 @@ Call Vivienne for directions - 0439 420 994,
 
 ### **FUTURE MONTHLY MEETINGS - 2026**
 
-**November - Saturday 21**  **Theme: *"On the Darker Side"*** .  \*\*Venue:\*\*  Private home in Christies Beach. Call Vivienne for directions - 0439 420 994, 
-
-**December - Saturday 5**   Shared Xmas BRUNCH  9:30-11:00am; Story sharing **Theme: Festive Folktale**s 11:00am-1:00pm Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, **Leabrook.** Enq: Olga Farnill  8431 6161   
+**December - Saturday 5**   Shared End-of-year BRUNCH  9:30-11:00am; Story sharing **Theme: Festive Folktale**s 11:00am-1:00pm Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, **Leabrook.** Enq: Olga Farnill  8431 6161   
 
 **January 2027 - Sunday 17  Theme: The Smell of …**  2:00-4: 00pm  Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, **Leabrook.**  Enq: Olga Farnill 8431 6161 
 
