@@ -13,8 +13,6 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 ### NEXT MEETING
 
-
-
 **September - Sunday 20th  Theme:** ***"Gardens"*** . **Venue:** Private home in **Windsor Gardens**. Call Vivienne for directions - 0439 420 994,  
 
 **About Each Monthly Meeting**:
@@ -34,12 +32,10 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 ### **FUTURE MONTHLY MEETINGS - 2026**
 
-
-
-**October - Sunday 11**  **Theme: *"Celebrating Nature"***  Part of Nature Festival, free tickets from Nature Festival website or just come along, more details later.  
+**October - Sunday 11**  **Theme: *"Celebrating Nature"***  Part of Nature Festival, free tickets from Nature Festival website or just come along, more details later.\
 **\*\*Venue\*\*** Knightsbridge Guide Hall, Philps Reserve, Corners of Glynburn Road, Rochester Street & Howard Terrace, **Leabrook**.Vivienne Fisher 0439 420 994  
 
-**November - Saturday 11**  **Theme: *"On the Darker Side"*** .  \*\*Venue:\*\*  Private home in Christies Beach. Call Vivienne for directions - 0439 420 994, 
+**November - Saturday 21**  **Theme: *"On the Darker Side"*** .  \*\*Venue:\*\*  Private home in Christies Beach. Call Vivienne for directions - 0439 420 994, 
 
 **December - Saturday 5**   Shared Xmas BRUNCH  9:30-11:00am; Story sharing **Theme: Festive Folktale**s 11:00am-1:00pm Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, **Leabrook.** Enq: Olga Farnill  8431 6161   
 
