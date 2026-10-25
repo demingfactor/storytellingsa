@@ -4,8 +4,8 @@ type: event
 title: "2026 Program "
 subtitle: "Storytelling - All WELCOME "
 date: 2026-11-21T00:47:58.626Z
-location: '{"type":"Point","coordinates":[138.6156588,-34.8918258]}'
-location_details: Leabrook
+location: '{"type":"Point","coordinates":[138.4849003,-35.1335924]}'
+location_details: Christies Beach
 archived: false
 permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 ---
@@ -15,7 +15,7 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 **November - Saturday 21**  **Theme: *"On the Darker Side"*** .  \*\*Venue:\*\*  Private home in Christies Beach. 
 
-Call Vivienne for directions - 0439 420 994, 
+Call Vivienne for directions to this meeting - 0439 420 994, 
 
 ## **About EACH Monthly Meeting, except the end-of-year Brunch**:
 
