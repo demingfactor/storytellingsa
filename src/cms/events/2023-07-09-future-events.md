@@ -3,7 +3,7 @@ layout: layouts/cms/event.html
 type: event
 title: "2026 Program "
 subtitle: "Storytelling - All WELCOME "
-date: 2026-04-19T03:41:54.447Z
+date: 2026-11-21T00:47:58.626Z
 location: '{"type":"Point","coordinates":[138.6156588,-34.8918258]}'
 location_details: Leabrook
 archived: false
