@@ -26,7 +26,7 @@ Call Vivienne for directions to this meeting - 0439 420 994,
     * When you arrive, let the MC know if you have a prepared story to tell - (no-one ever needs to tell a story unless they chose to and are prepared)
 * **STORIES** - If new to this delightful expressive art form, research "what is a story?", as lots of 'TALKS' are *not* stories. 
     * Some listen for a while and then have a go. We are a very supportive group.
-* **THEMES** for stories are a catalyst ... open to imaginative interpretation & **intended for adults,** not children.
+* **THEMES** for stories are a catalyst ... open to imaginative interpretation or witty  misinterpretation  & **intended for adults,** not children.
 * **VENUES** – assorted public places and private homes. 
     * Please call  Vivienne 0439 420 994 for address if in private home. 
     * Meetings can be indoors &/or outdoors - be prepared, just in case!
