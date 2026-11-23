@@ -9,10 +9,14 @@ permalink: /{{url}}/index.html
 ---
 **Contact Details**
 
-**Email**   (please insert usual *"at"* symbol where the ( ) and remove the bracket! Left out to foil scammers finding @s on websites, then trolling!!)\
-*contact( )storytellingsa.org.au*
+**Email**   *contact( )storytellingsa.org.au*\
+(please insert usual *"at"* symbol where the ( ) and remove the bracket! Left out to foil scammers finding @s on websites, then trolling!!)
 
-**Facebook**  www.facebook.com/storytellingsa - less used, please email
+**Facebook**: <https://www.facebook.com/storytellerssa/>
+
+**Instagram**: <https://www.instagram.com/storytellersaustraliasa>
+
+**N﻿ewsletter**: <https://storytellersaustralia.wordpress.com/>
 
 **Postal**  Storytelling SA, 215 Angas Street, Adelaide SA 5000
 
