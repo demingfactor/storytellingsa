@@ -17,20 +17,20 @@ permalink: /{{ type }}/{{ page.fileSlug }}/index.html
 
 Enq: Olga Farnill  8431 6161
 
-
-
 ## **About EACH Monthly Meeting, except the end-of-year Brunch**:
 
 * **QUERIES**: Call Vivienne, including for private venue details - 0439 420 994**.**
 * **LUNCH** **\-** 1pm to 2pm **People bring healthy finger-food to add to the table**. Lunch starts each meeting. 
 
-  * It's valued time, with opportunities to get to know each other. It's casual, fun, help yourself, wash up your own dishes & share the tasks. 
-* **STORY-TELLING** starts at **2pm,** finishes about **4'ish (includes** refreshments break) . When you arrive, let the MC know if you have a prepared story to tell - (no-one ever needs to tell a story unless they chose to and are prepared)
+  * It's valued time, with opportunities to get to know each other. It's casual, fun, help yourself, wash up your own dishes & share the tasks.
+
+* **STORY-TELLING** starts at **2pm,** finishes at **4** (includes refreshments break) . When you arrive, let the MC know if you have a prepared story to tell - (no-one ever needs to tell a story unless they chose to and are prepared) 
+
 * **STORIES** - If new to this delightful expressive art form, research "what is a story?", as lots of 'TALKS' are *not* stories. Some listen for a while and then have a go. We are a very supportive group.
-* **THEMES** for stories are a catalyst ... open to imaginative interpretation or witty  misinterpretation  & **intended for adults,** not children.
+* **THEMES** for stories are a catalyst... open to imaginative interpretation or witty  misinterpretation  & **intended for adults** not children.
 * **VENUES** – assorted public places and private homes.
-* **COST** –  $5 - linked to a Raffle  - helps **cover venue & insurance.**
-* **TRADING TABLE** - **Cash** purchases of produce, quirky goods & goodies - helps **cover expenses.**
+* **COST** –  $5 - linked to a Raffle  - helps cover venue & insurance.
+* **TRADING TABLE** - **Cash** purchases of produce, quirky goods & goodies - helps cover expenses.
 
   * To pay if no cash carried - make a bank transfer on your phone, see our banking details on Trading Table next to money container.
 * **CHANGES** - Occasionally, change to the program notices will be sent to those on our email list.
@@ -38,11 +38,7 @@ Enq: Olga Farnill  8431 6161
 * **GUESTS** and new members fully welcome
 * **MEMBERSHIP** - $40 (Concession $30) see Treasurer with Cash, or for phone banking transfer details.
 
-
-
 ### **FUTURE MONTHLY MEETINGS**
-
-
 
 **January 2027 - Sunday 17 January 2027  Theme: The Smell of …**  2:00-4: 00pm  Guide Hall, Reserve, Cnr Glynburn Rd/Rochester St & Howard Tce, **Leabrook.**  Enq: Olga Farnill 8431 6161 
 
