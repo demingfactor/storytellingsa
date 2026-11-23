@@ -17,13 +17,9 @@ If you enjoy the socials, please follow us for monthly news, photographs, member
 
 - - -
 
-**Facebook**:
+**Facebook**: <https://www.facebook.com/storytellerssa/>
 
-<https://www.facebook.com/storytellerssa/>
-
-**Instagram**:
-
-<https://www.instagram.com/storytellersaustraliasa>
+**Instagram**: <https://www.instagram.com/storytellersaustraliasa>
 
 - - -
 
