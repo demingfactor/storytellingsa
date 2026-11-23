@@ -6,7 +6,7 @@ background: Pink
 title: New ways to connect
 subtitle: Pied Piper Editor
 author: Charlie-Helen Robinson
-date: 2026-11-23T02:02:41.560Z
+date: 2026-11-01T02:02:00.000Z
 permalink: "/{{ type }}/{{ page.date | date: '%Y-%m-%d' }}-{{ page.fileSlug }}/index.html"
 ---
 <!--StartFragment-->
