@@ -2,7 +2,7 @@
 layout: layouts/cms/article.html
 type: article
 image: ""
-background: Brown
+background: Blue
 title: New ways to connect
 subtitle: Pied Piper Editor
 author: Charlie-Helen Robinson
