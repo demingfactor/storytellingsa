@@ -33,6 +33,6 @@ We’d love our members and friends to support us by following, liking and shari
 
 And don’t forget our newsletter website  <https://storytellersaustralia.wordpress.com/>, which will be updated monthly following our storytelling sessions.
 
-Thank you from the Committee and our Pied Piper Editor,  Charlie.
+Thank you from the Committee and our Pied Piper Editor, Charlie-Helen Robinson
 
 <!--EndFragment-->
