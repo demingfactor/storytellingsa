@@ -19,7 +19,7 @@ If you enjoy the socials, please follow us for monthly news, photographs, member
 
 **Facebook**:
 
-<https://www.facebook.com/share/199TxuwxrK/>
+<https://www.facebook.com/storytellerssa/>
 
 **Instagram**:
 
