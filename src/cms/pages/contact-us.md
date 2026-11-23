@@ -10,7 +10,7 @@ permalink: /{{url}}/index.html
 **Contact Details**
 
 **Email**   *contact( )storytellingsa.org.au*\
-(please insert usual *"at"* symbol where the ( ) and remove the bracket! Left out to foil scammers finding @s on websites, then trolling!!)
+(please insert usual *"at"* symbol where the ( ) and remove the bracket! Left out to foil scammers finding @s on websites, then trolling!)
 
 **Facebook**: <https://www.facebook.com/storytellerssa/>
 
